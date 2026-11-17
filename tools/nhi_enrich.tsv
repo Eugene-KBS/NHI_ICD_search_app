@@ -1,0 +1,2440 @@
+18020B	心導管－ 一側	Cardiac cath- one side
+18021B	心導管－ 二側	Cardiac cath- both side
+18022B	冠狀動脈攝影	Coronary angiography (CAG)
+18023B	希氏束檢查	HBE (His Bundle electrogram)
+18024B	電氣生理檢查－ 一般性	Electrophysiology- general (EPS)
+18025B	電氣生理檢查－ 複雜性	Electrophysiology-complex (EPS)
+18026B	心室造影	Cardioangiography
+18027B	主動脈造影	Aortography(cineangiography)
+18028B	心律調復術	Cardioversion (one course)
+18033B	經食道超音波心圖	TEE
+18043B	冠狀動脈血管內超音波	Coronary Intravascular Ultrasound (IVUS)
+18047B	心內超音波	Intracardiac echocardiography (ICE)
+19007C	超音波導引(為組織切片，抽吸、注射等)	Ultrasonic guidance for needle placement(eg, biopsy, aspiration, injection)
+25001C	第一級外科病理，眼觀檢查	Surgical pathology Level Ⅰ, Gross examination only
+25002C	第二級外科病理，組織鏡檢確認	Surgical pathology Level Ⅱ
+25003C	第三級外科病理	Surgical pathology Level III
+25004C	第四級外科病理	Surgical pathology Level IV
+25006B	冰凍切片檢查	Frozen section
+25007B	細胞遺傳學檢查	Cytogenetics
+25009B	肌肉病理切片檢查（冷凍特殊染色）	Muscle biopsy
+25010B	組織化學染色第一類	Histochemical stain group Ⅰ
+25011B	組織化學染色第二類	Histochemical stain group Ⅱ
+25012B	免疫組織化學染色(每一抗體)	Immunohistochemical stains, each antibody
+25013B	螢光切片檢查第一類(每一抗體)	Immunofluorescence group I, each antibody
+25014B	電子顯微鏡切片檢查	Electron microscopy
+25021B	染色體檢查(特殊)	Chromosomal analysis ， special
+25022B	DOPA反應	DOPA reaction
+25023B	非直接免疫螢光檢查	Indirect immunofluorescence
+25024C	第五級外科病理	Surgical pathology Level V
+25025C	第六級外科病理	Surgical pathology Level VI
+25026B	螢光切片檢查第二類	Immunofluorescence group II
+28001C	關節鏡檢查	Arthroscopy
+28002C	鼻咽喉內視鏡檢查	Nasopharyngolaryngoscopy
+28003C	鼻竇內視鏡檢查	Sinoscopy
+28004C	喉鏡檢查	Laryngoscopy
+28005B	喉頻閃光源內視鏡檢查	Stroboscopy
+28006C	支氣管鏡檢查	Bronchoscopy
+28007B	術中膽道纖維鏡檢查	Fiber choledochoscopy, intraoperative
+28008B	經T形管或其它路徑,膽道纖維鏡檢查及截石術	Fiber choledochoscopy, percutaneous via T-tube or other tract,with removal of stones
+28009B	肋膜腔鏡檢查合併切片	Thoracoscopy with biopsy
+28010B	小腸鏡檢查	Enteroscopy
+28011C	直腸鏡檢查	Rectoscopy
+28013C	S狀結腸鏡檢查	Sigmoidoscopy
+28014C	腹腔鏡檢查	Laparoscopy
+28015C	食道鏡檢查	Esophageal endoscopy
+28016C	上消化道泛內視鏡檢查	Upper GI panendoscopy
+28017C	大腸鏡檢查	Colonoscopy
+28019C	膀胱鏡檢查	Cystoscopy
+28020C	診斷性輸尿管鏡檢，包括輸尿管膀胱接合處，擴張術及膀胱鏡術	Diagnostic ureteroscopy, including dilatation of ureterovesical junction and cystoscopy
+28021C	尿道鏡檢查	Urethroscopy
+28022C	子宮鏡檢查	Hysteroscopy
+28023C	肛門鏡檢查	Anoscopy
+28026B	縱膈腔鏡檢查合併切片	Mediastinoscopy with biopsy
+28028C	陰道鏡檢查	Colposcopy
+28029C	內視鏡超音波	Endoscopic ultrasonography
+28030C	經內視鏡切片（每一診次）	Endoscopic biopsy , each exam.
+28031C	大腸或小腸鏡切片(每一診次)	Colonoscopic or enteroscopic biopsy, each exam.
+28032B	膽道子母鏡	Transduodenal choledochoscopy
+28033C	診斷性肺泡灌洗術	Diagnostic bronchoalveolar lavage
+28034B	經T形管或其它路徑,膽道纖維鏡檢查	Fiber choledochoscopy, percutaneous via T-tube or other tract
+28035B	術中,膽道纖維鏡檢查及截石術	Fiber choledochoscopy, intraoperative,with removal of stones
+28036B	經皮穿肝膽道鏡	Percutaneous transhepatic choledochoscopy(PTCS)
+28037B	腦內視鏡	Intracerebral endoscopy
+28038B	自體螢光支氣管鏡檢查	Autofluorescence bronchoscopy
+28039B	支氣管鏡螢光透視檢查（含支氣管鏡檢查費用）	Bronchofluoroscopy
+28040B	支氣管內視鏡超音波	Bronchoscopic Ultrasonography; EBUS
+28041B	支氣管內視鏡超音波導引縱膈淋巴節定位切片術	EBUS + Transbronchial node aspiration
+28042B	支氣管內視鏡超音波導引周邊肺組織採檢切片術	EBUS + Peripheral lung transbronchial biopsy
+28043B	電子式內視鏡超音波	Electronic Endoscopic Ultrasonography，EUS
+28044B	細徑(迷你)探頭式內視鏡超音波	Miniprobe Endoscopic Ultrasound
+28045B	耳內視鏡檢查	Otoendoscopy
+28046B	深部小腸內視鏡	Deep enteroscopy
+29001C	硬腦膜下穿刺	Subdural puncture
+29002C	上顎竇穿刺（一側）	Maxillary sinus puncture,unilateral
+29003C	前房穿刺	Paracentesis
+29004C	鼓室抽吸	Tympanic aspiration
+29005C	鼓膜穿刺（一側）	Myringeal puncture, unilateral
+29006C	中耳腔穿刺	Middle ear cavity puncture
+29007B	氣管食道穿刺	T-E puncture
+29008B	淋巴腺穿刺	Lymph nodes puncture
+29009C	乳房細針穿刺	Breast fine needle puncture
+29010C	唾腺組纖穿刺	Sialic puncture
+29011C	甲狀腺穿刺	Thyroid puncture
+29012B	胸腔穿刺	Thoracocentesis
+29013B	心包穿刺	Pericardial puncture
+29014B	骨髓穿刺	Bone marrow puncture
+29015C	關節穿刺	Arthrocentesis
+29016C	脊椎穿刺	Spinal puncture
+29017C	腹腔穿刺	Abdominal puncture
+29019C	膀胱穿刺	Bladder puncture
+29020C	陰囊水腫抽吸	Scrotal hydrocele aspiration
+29022C	輸卵管通水、通色素或通氣檢查	Oviduct hydrotubation, rubin test, or insufflation of tube with air or CO2
+29023C	陰道陷凹穿刺	Culdocentesis
+29024B	腦室穿刺	Ventricular punture
+29025B	第一、二頸椎後側穿刺	Cervical arachnoid puncture
+29026B	臟器穿刺	Organ puncture
+29027C	睪丸穿刺	Testicle puncture
+29028C	攝護腺穿刺	Prostate puncture
+29029B	鎖骨穿刺	Subclavian puncture
+29030B	經皮穿胸肺組織穿刺	Lung aspiration
+29031B	心房中膈穿刺術	Atrium transseptal procedure
+29032B	骨髓切片	Bone marrow biopsy
+29033B	骨髓穿刺併骨髓切片	Bone marrow puncture with bone marrow biopsy
+29035B	乳房病灶粗針穿刺組織切片	Breast lesion core needle biopsy
+33023B	開刀時膽管 X光造影法	Operative cholangiography
+33024B	逆行性膽道及胰管造影	ERCP (Endoscopic retrograde cholangiopancreatography)
+33025B	經皮穿肝膽管造影術	PTC (Percutaneous transhepatic cholangiography)
+33026B	經皮穿肝膽管引流術	PTCD (Percutaneous transhepatic cholangiography-drainage )
+33027B	經皮穿肝膽管引流修正術	PTCD revision
+33032B	皮下穿刺腎造廔術	PCN (Percutaneous nephrostomy)
+33033B	內視鏡逆行胰液引流術	ERPD (Endoscopic retrograde pancrea drainage)
+33039B	眼眶靜脈造影	Orbitovenography
+33041B	頸動脈造影－ 單側	Common carotid artery- one side
+33042B	頸動脈造影－ 雙側	Common carotid artery-both side
+33043B	椎動靜脈造影	Vertebral angiography
+33044B	脊椎動靜脈造影	Spinal angiography
+33045B	主動靜脈造影 －胸腔主動靜脈	Aortography-Thoracic aortography
+33046B	內臟血管造影－ 一條血管	Visceral angiography-one vessel
+33047B	腎動靜脈造影	Renal angiography
+33048B	四肢血管造影	Angiography of extremity
+33049B	順行性靜脈 X光攝影	Antegrade venography
+33050B	逆行性靜脈 X光攝影	Retrograde venography
+33051B	脾靜脈肝門脈造影	Splenoportography
+33053B	淋巴管造影	Lymphangiography
+33059B	頸靜脈造影 － 單側	Jugular venography-one side
+33060B	頸靜脈造影 － 雙側	Jugular venography-both side
+33061B	骨盤動脈造影	Pelvic angiography
+33062B	鎖骨下血管造影	Subclavian angiography
+33073B	肺動脈造影	Pulmonary angiography
+33074B	單純性血管整形術	PTA (percutaneous transluminal angioplasty): simple
+33075B	血管阻塞術	TAE(trans-arterial embolization)
+33076B	經皮冠狀動脈擴張術 － 一條血管	Percutaneous coronary dilatation-one vessel (PCI)
+33077B	經皮冠狀動脈擴張術 － 二條血管	Percutaneous coronary dilatation-two vessels (PCI)
+33078B	經皮冠狀動脈擴張術 － 三條血管	Percutaneous coronary dilatation-three vessels (PCI)
+33079B	主動脈氣球裝置術	Intra aorta balloon insertion (IABP)
+33081B	食道狹窄氣球擴張術	Esophageal balloon dilatation
+33083B	經皮穿肝膽道取石攝影術	PTCD-stone removal
+33086B	主動靜脈造影 －腹腔主動靜脈	Aortography-Abdominal aortography
+33087B	主動靜脈造影 ─ 兩項同時實施時以此項申報	Aortography
+33088B	內臟血管造影－ 二條血管	Visceral angiography-two vessels
+33089B	內臟血管造影－ 三條血管以上	Visceral angiography-over two vessels
+33091B	不整脈經導管燒灼術－2-D定位	Transcatheter Radiofrequency Ablation for Arrhythmia－2D Mapping (RFA)
+33092B	腸套疊透視灌腸復位	Fluoroscopic reduction of intussusception
+33093B	雙側腎靜脈血液抽取術	Bilateral reno-venous sampling
+33095B	經皮腎造廔引流管重置術(重置經皮腎造廔引流管)	Revision of percutaneous nephrostomy tube(Pigtail) (PCN)
+33097B	數位減像血管攝影(靜脈)	IV-DSA
+33099B	經皮輸尿管內管置放術	Percutaneous placement of ureter stent
+33100B	經皮穿肝脾門脈攝影及靜脈血抽檢	Percutaneous splenoportal venography and venous sampling
+33101B	性腺靜脈攝影(單側)	Gonadal venography, unilateral
+33102B	性腺靜脈攝影(兩側)	Gonadal venography, bilateral
+33103B	電腦斷層導引下組織切片,取樣剛針	CT Guide biopsy
+33104B	肺靜脈造影	Direct pulmonary venography
+33105B	腸胃道出血栓塞治療	G-I Bleeding embolisation
+33106B	經皮穿刺膽囊引流術	Percutaneous gall bladder drainage
+33107B	經皮內視鏡胃造瘻管替換術	Replacement of percutaneous endoscopic gastrostomy (PEG)
+33108B	經皮內視鏡胃造瘻術	PEG(percutaneous endoscopic gastrostomy)
+33110B	放射線下經皮穿刺輸尿管成形術	Percutaneous ureteroplasty
+33111B	放射線下經皮穿刺取出斷裂輸尿管內管	Percutaneous retrieval of ureteral stent
+33112B	經由心導管治療直徑小於2.0mm之開放性動脈導管	Transcatheter closure of patent ductus arteriosus <2.0mm
+33113B	經頸靜脈肝內門脈系統靜脈分流術	Transjugular intrahepatic portosystemic shunt (TIPS)
+33114B	經由心導管治療直徑2.0mm以上之開放性動脈導管	Transcatheter closure of patent ductus arteriosus≧2.0mm
+33115B	複雜性血管整形術	PTA (percutaneous transluminal angioplasty): complex
+33116B	經導管心室中膈缺損修補	Transcatheter Closure of Ventricular Septal Defect
+33117B	冠狀動脈旋磨斑塊切除術	Coronary artery rotational artherectomy
+33125C	乳房攝影立體定位組織切片術	Mammography sterotactic biopsy
+33126B	經皮椎體成形術(第一節)	Percutaneous vertebroplasty (1st vertebra)
+33127B	經皮椎體成形術(第二節以上，每一節)	Percutaneous vertebroplasty (any vertebra after the first)
+33128B	頭頸部血管支撐架置放術(一條血管)	Stenting for head & neck vessel (one vessel)
+33129B	Amplatzer心房中膈缺損關閉器治療中膈缺損	Amplatzer septal occluder (ASO)
+33130B	經皮穿腔靜脈過濾裝置置放術	Percutaneous transluminal deployment of veinous device
+33131B	經皮導管血管內\心臟內異物移除術 (適用於留置異物處血管大小直徑為 > 7 mm者)	Percutaneous transluminal catheter retrieval of vascular/intracardiac foreign body (For the vessel diameter where the foreign body stands > 7 mm)
+33132B	氣管支架置放術	Tracheal stent placement
+33133B	單純性周邊血管支架置放術	Stenting for peripheral vessels, artery and vein：simple
+33135B	經皮導管血管內\心臟內異物移除術 (適用於留置異物處血管大小直徑為 ≤ 7 mm者)	Percutaneous transluminal catheter retrieval of vascular/intracardiac foreign body (For the vessel diameter where the foreign body stands ≤ 7 mm)
+33139B	不整脈經導管燒灼術 複雜3-D立體定位-單腔	Transcatheter Radiofrequency Ablation for Arrhythmia 3D Mapping-Single Chamber (RFA)
+33140B	不整脈經導管燒灼術 複雜3-D立體定位-雙腔	Transcatheter Radiofrequency Ablation for Arrhythmia 3D Mapping-Double Chamber (RFA)
+33141B	左心耳閉合術	Left Atrial Appendage occusion (LAAO)
+33142B	膠囊內視鏡術	Capsule endoscopy
+33144B	血管阻塞術	Lipiodol TAE(trans-arterial embolization) -Lipiodol
+33147B	複雜性周邊血管支架置放術	Stenting for peripheral vessels, artery and vein：complex
+37042C	肝腫瘤無線頻率電熱療法－小於二公分	Radiofrequency ablation in hepatic malignancy (RFA)
+37043C	肝腫瘤無線頻率電熱療法－大於二公分(含)至小於四公分	Radiofrequency ablation in hepatic malignancy (RFA)
+37044C	肝腫瘤無線頻率電熱療法－大於四公分(含)	Radiofrequency ablation in hepatic malignancy (RFA)
+37048B	內視鏡射頻消融術	（RFA） Endoscopic Radiofrequency Ablation
+47012B	周邊動脈導管置入術	Peripheral arterial line insertion
+47013C	一般導尿	Urinal catheterlization
+47014C	留置導尿	Urinal indwelling catheterlization
+47015B	中央靜脈導管置入術	CVP catheter intubation
+47021C	胸腔引流一天	chest drainage
+47022C	腹腔引流一天	Abdominal drainage
+47023B	食道球置入術	Esophageal balloon insertion
+47024B	食道球處理一天	Esophageal balloon care
+47028C	去顫術（急救一次）	Electrical defibrillation or cardioversion
+47030B	暫時性心律調節器技術費	Temporary pacemaker
+47035B	腦室引流一天	Ventricular drainage
+47036B	順流導管插管術	Swan-Ganz catheterization
+47041C	呼吸道抽吸(次)	Suction (time)
+47042C	呼吸道抽吸(天)	Suction (day)
+47043C	上消化道內視鏡止血法（任何方法）	Endoscopic treatment in upper GI bleeding
+47044C	皮下腫瘍、囊腫抽吸	Aspiration of abscess, cyst etc.
+47045C	體位引流	Postural drainage
+47048C	引流管灌洗	Tube irrigation
+47051C	末稍神經阻斷術	Nerve block, peripheral
+47052B	三叉神經阻斷術	Nerve block, trigeminal
+47057B	經內視鏡施行食道擴張術	Endoscopic esophageal dilation
+47058B	食道內金屬支架置放術	Esophageal metal stent placement
+47059B	治療性導管植入術—希克曼氏導管植入術	Therapeutic catheter implantation — Hickman catheter implantation
+47060B	動脈導管置放術(化學治療用)	Arterial line insertion for chemotherapy
+47063B	主動脈氣球輔助器使用照護費(天)	Intra aortic balloon assist, day (IABP)
+47065B	治療性導管植入術—末梢靜脈植入中心導管術	Therapeutic catheter implantation — PICC(Peripheral line for central venous catheterization) (CVC)
+47066B	造廔口灌食/天	Feeding through ostomy
+47067B	經內視鏡食道靜脈瘤結紮術	Endoscopic esophageal variceal ligation
+47068B	腦室外引流監視(天)	EVD Monitoring (day)
+47073B	切除CAPD導管外袖口及導管擴創術	EXT. cuff excision and CAPD tunnel debriment
+47074C	上消化道內視鏡息肉切除術	Panendoscopic polypectomy
+47077B	上消化道息肉切除術	Upper GI tract polypectomy
+47080B	治療性導管植入術 — Port-A導管植入術	Therapeutic catheter implantation — Port-A catheter implantation
+47083C	上消化道泛內視鏡異物摘除術	Upper GI panendoscopic foreign body removal
+47088C	人體器官移植之腦死判定費	Cerebral death evaluation
+47091B	淋巴水腫照護-徒手淋巴引流(須達四十分鐘)	Care of lymphoedema - manual lymphatic drainage
+47102B	心室輔助器置放後，第二天起之每日照護費	Daily care post LVAD implantation
+47103A	經導管無導線心律調節器置放或置換術	Transcatheter Insertion or Replacement of Permanent Leadless Pacemaker
+47108B	心臟監測器植入術	Procedure of Insertable Loop Recorder
+47109B	植入式心臟節律器參數程控調整作業	Exam and adjustment of implanted pacemaker
+47110B	植入式心臟去顫器或再同步治療參數程控調整作業	Exam and adjustment of implanted cardioverter defibrillator and cardiac resynchronization therapy devices
+48001C	淺部創傷處理-傷口長小於五公分者	Wound treatment <5cm
+48002C	淺部創傷處理-傷口長五至十公分者	Wound treatment 5-10cm
+48003C	淺部創傷處理-傷口長大於十公分者	Wound treatment >10cm
+48004C	深部複雜創傷處理-傷口長小於五公分者	Debridement <5cm
+48005C	深部複雜創傷處理-傷口長五至十公分者	Debridement 5-10cm
+48006C	深部複雜創傷處理-傷口長大於十公分者	Debridement >10cm
+48007C	小膿瘍切開，個	Abscess incision
+48008C	手術、創傷處置及換藥－填塞排膿	Change dressing- I & D
+48009C	手術、創傷處置及換藥－導管引流	Change dressing- tube drainage
+48010C	手術、創傷處置及換藥－傷口處置	Change dressing- wound care
+48011C	手術、創傷處置及換藥－小換藥（小於十公分）	Change dressing - small (<10cm)
+48012C	手術、創傷處置及換藥－中換藥（十至二十公分）	Change dressing - medium (10-20cm)
+48013C	手術、創傷處置及換藥－大換藥（大於二十公分）	Change dressing - large ( >20cm)
+48014C	皮面創傷處理－體表面積小於十一	BSA Wound treatment (burn) - <11 BSA
+48015B	皮面創傷處理－體表面積十一至三十五	BSA Wound treatment (burn) - 11-35 BSA
+48016B	皮面創傷處理－體表面積三十六至五十	BSA Wound treatment (burn) - 36-50 BSA
+48017B	皮面創傷處理－體表面積五十一至七十	BSA Wound treatment (burn) - 51-70 BSA
+48018C	皮面創傷換藥－體表面積小於十一	BSA Burn dressing change - <11 BSA
+48019B	皮面創傷換藥－體表面積十一至三十五	BSA Burn dressing change - 11-35 BSA
+48020B	皮面創傷換藥－體表面積三十六至五十	BSA Burn dressing change - 36-50 BSA
+48021B	皮面創傷換藥－體表面積五十一至七十	BSA Burn dressing change - 51-70 BSA
+48022C	臉部創傷處理–小 小於五公分	Treatment of facial laceration - < 5cm
+48023C	臉部創傷處理–中 五公分至十公分	Treatment of facial laceration - 5-10 cm
+48024C	臉部創傷處理–大 超過十公分	Treatment of facial laceration - > 10cm
+48025C	拆線－傷口小於十公分	Remove Stiches - <10cm
+48026C	拆線－傷口十公分以上	Remove Stiches - >10cm
+48027P	淺部創傷之第二次處理	the 2nd Wound treatment
+48028P	深部複雜、臉部創傷之第二次處理	2nd Debridement、Treatment of facial laceration
+48029B	皮面創傷處理－體表面積七十一至九十	BSA Wound treatment (burn) - 71-90 BSA
+48030B	皮面創傷處理－體表面積大於九十	BSA Wound treatment (burn) - >90 BSA
+48031B	皮面創傷換藥－體表面積七十一至九十	BSA Burn dressing change - 71-90 BSA
+48032B	皮面創傷換藥－體表面積大於九十	BSA Burn dressing change - >90 BSA
+48033C	深部複雜臉部創傷處理–小 小於五公分	Deep complicated facial wound debridement - < 5cm
+48034C	深部複雜臉部創傷處理–中 五公分至十公分	Deep complicated facial wound debridement - 5-10 cm
+48035C	深部複雜臉部創傷處理–大 超過十公分	Deep complicated facial wound debridement - >10cm
+49001C	糞嵌塞清除	Cleaning fecal impaction
+49002C	直腸清洗	Rectal irrigation
+49003C	會陰清洗治療	Perineal care
+49004C	肛門切除後治療(每次)	Post APR wound care, each
+49005C	人工肛門灌洗	Colostomy irrigation
+49006C	肛門擴張	Anal dilation bugination
+49007C	肛門瘻管刮除	Fistula curretage
+49008C	肛口電灼術	Electro-cauterization, perianal
+49009C	痔瘡脫出注射治療	Hemorrhoid prolapse injection
+49010C	肛門周圍膿瘍引流	Periproctal abscess drainage
+49011C	痔冷凍治療	Hemorrhoid cryotherapy
+49012C	痔硬化劑注射 （一次）	Hemorrhoid injection
+49013C	皮下括約肌切開術	Subcutaneous sphincterotomy
+49015C	痔單純血栓切除	Hemorrhoid thrombectomy
+49016C	經肛門取出直腸異物	Transanal removal of FB
+49017C	會陰清洗及瘻管沖洗	Perineal care & fistula irrigation
+49018C	硝酸銀燒灼	Ag NO3 cauterization
+49019B	直肛壓力測定術	Anorectal manometry
+49020B	三路灌洗	Three way irrigation
+49021B	迴腸造口永久裝具裝置	Ileostomy, permanent appliance
+49022B	迴腸膀胱永久裝具裝置	Ileum bladder, permanent appliance
+49023C	直腸內視鏡止血術	Endoscopic control of hemorrhage, rectum and/or fulguration
+49024B	人工肛門造口袋置換術	Appliance of colostomy bag
+49025C	大腸鏡異物取出術	Colonoscopy, with removal of foreign body
+49026C	經大腸鏡結腸止血術	Endoscopic hemostasis for colon bleeding
+49027C	大腸息肉切除術－一顆至三顆	polypectomy
+49028B	直腸抽取吸片術	Rectal suction biopsy
+49029B	大腸金屬支架置放術	Colonic self-expandable metalic stent placement
+49030B	高解析度直肛壓力測定術	High Resolution Anorectal Manometry
+49031B	留置性導便裝置	Fecal incontinence diversion
+49032C	大腸息肉切除術－四顆至九顆	polypectomy
+49033C	大腸息肉切除術－十顆以上	polypectomy
+50001C	尿道徑測量	Urethral calibration with bougie
+50002C	尿道口切開術	Meatotomy
+50003C	包莖側面或背面切開	Phimosis, dorsal/lateral slit
+50004C	生殖器異物摘除術	Foreign body removal, genitalia
+50005C	濕疣電燒灼入	Electrocauterization for condyloma
+50006C	膀胱造口引流換洗	Change cystostomy tube with or without bladder irrigation
+50007C	腎造口引流管換洗	Change nephrostomy tube with or without irrigation
+50008C	人工膀胱之擴張	Dilation of artificial bladder
+50009C	前列腺按摩	Prostatic massage
+50010C	經膀胱鏡逆行尿管導管	Cystoscopy + retrograded ureteral catheterization
+50011C	膀胱灌注	Bladder instillation
+50012C	膀胱沖洗	Bladder irrigation
+50013C	尿道擴張	Urethral sounding
+50014C	膀胱24小時連續沖洗	24hrs bladder irrigation
+50015C	濕疣外科化學療法	Chemosurgery, condyloma
+50016C	外尿道邊膿瘍切開術	Incision & drainage for periurethral abscess (I&D)
+50017C	陰囊膿瘍切開	Incision for scrotal abscess
+50018C	巴氏囊腫引流術，單側	Drainage of Bartholin's gland cyst, unilateral
+50019C	雙J輸尿管導管置入術	Double-J ureteral stent insertion
+50020C	包莖環切術	Circumcision for phimosis
+50021C	徒手睪丸扭轉整復	Manual reduction of testicular torsion
+50022C	更換腎臟引流或膀胱引流管	Catheter change
+50023B	尿路結石體外震波碎石術 第一次	Extracorporeal shock wave lithotripsy (ESWL) for urolithiasis-first time
+50024B	尿路結石體外震波碎石術 第二次	Extracorporeal shock wave lithotripsy (ESWL) for urolithiasis-second time
+50027B	治療尿路迴流之膀胱三角下層注射術	Anti-reflux procedure with subtrigonal injection
+50029C	膀胱鏡檢及硝酸銀腎臟灌洗術	Cystoscopy + Renal pelvis AgNO3 instillation
+50030C	膀胱內血塊清除術	Bladder blood clot evacuation with Toomy bladder evacuator
+50032C	嵌頓性包皮徒手整復術	Reduction of paraphimosis
+50033C	疝氣徒手復位術	Closed reduction of hernia
+50034C	副睪丸取精術	Aspiration of sperm from epididymis
+50035B	腎臟腫瘤冷凍治療	Cryotherapy for renal tumor
+50036B	膀胱內注射術	Intravesical injection
+51001C	皮膚切片、穿片與縫合－一針	Skin biopsy, and suture - one punch
+51002C	皮膚切片、穿片與縫合－二針	Skin biopsy, and suture - two punchs
+51003C	皮膚切片、穿片與縫合－三針以上	Skin biopsy, and suture - over two punchs
+51004C	皮膚簡單切開或切除不縫合(含膿疱切開)	Skin surgery, no suture, each
+51005C	皮膚電燒灼治療－單純	Electro cauterization , simple
+51006C	皮膚電燒灼治療－複雜	Electro cauterization , complicated
+51007C	藥物燒灼治療－單純	Chemical cauterization - simple
+51008C	藥物燒灼治療－複雜	Chemical cauterization - complicated
+51009C	皮膚病灶內部注射－小於四平方公分	Intradermal injection <4cm2
+51010C	皮膚病灶內部注射－四至九平方公分	Intradermal injection 4~9cm2
+51011C	皮膚病灶內部注射－超過九平方公分	Intradermal injection >9cm2
+51012C	密封療法－局部	ODT ( Occlusive dressig technique) - local
+51013C	密封療法－兩上肢或兩下肢	ODT - U/E or L/E
+51014C	密封療法－全身	ODT - whole body
+51015C	浸泡療法 每次	Soaking
+51016C	濕敷療法 每次	Wet dressing
+51017C	液態氮冷凍治療	Liquid nitrogen cryosurgery
+51018C	光化治療 一天	Photochemotherapy (PUVA) daily
+51019C	光線治療 (包括太陽光、紫外線、紅外線)一天	Phototherapy (including sun-lamp、ultraviolet light、infra red)daily
+51020C	切開排膿	Incision and drainage (I&D)
+51021C	冷凍治療－單純	Cryotherapy –simple
+51022C	冷凍治療 － 複雜	Cryotherapy -complicated
+51023B	亂切治療－小	Scarification - minor
+51024B	亂切治療－大	Scarification - major
+51025B	水泡吸著	Suction blister
+51026B	水泡吸著及植皮	Suction blister and graft
+51027B	切片－普通	Excision biopsy - normal
+51028B	切片－螢光特別	Excision biopsy - special
+51029B	離子電泳導入	Iontophoresis
+51030B	Zyderm注射，每支－單病灶部位	Zyderm liquid, each AMP - simple
+51031B	Zyderm注射，每支－多病灶部位	Zyderm liquid, each AMP - complicate
+51032B	低能量氦氖雷射治療	Low energy He-Ne laser therapy
+51033C	皮膚鏡檢查	Dermoscope examination
+52001B	皮膚牽引 一次	Skin traction
+52002B	骨骼牽引（鋼線牽引） 一次	Skeletal traction
+52003B	骨盆牽引 一次	Pelvic traction
+52004B	胸骨牽引 一次	Sternum traction
+52005B	羅氏牽引 一次	Russels traction
+52006B	頭部牽引 一次	Crutchfield tongs traction
+52007B	頭骨夾頸椎牽引 一次	Crutchfield cervical traction
+52008B	頭骨頸椎牽引 一次	Strape cervical traction
+52009B	Balance 牽引 一次	Balance traction
+52010B	牽引調整技術費 一天	Traction adjustment
+52011C	鎖骨固定術（八字帶固定）	Subclavian fixation (Figure-8 fixation shoulder)
+52012C	手臂固定	Verpon fixation, arm
+52013C	拔除骨折固定之骨釘或鋼線	Removal of pins or wires (for fracture fixaction)
+52014B	骨盆吊帶使用	Pelvic sling use
+52015C	掌骨、指、趾骨固定術	Metacarpal bone or toe bone fixation
+53001C	睫毛拔除術	Epilation, manual
+53002C	睫毛電氣分解術	Epilation, electrolysis
+53003C	眼瞼膿瘍切開術	I&D for hordeolum
+53004C	眼瞼皮縫合每針	Eyelid suture/stitch
+53005C	拆線單眼	Remove stitches/monocular
+53006C	淚囊沖洗	Lacrimal irrigation
+53007C	淚管探子	Lacrimal duct Bougie
+53008B	長期沖洗（每日）	Continuous irrigation
+53009C	結膜縫合每針	Conjunctival suture/stitch
+53010C	角膜異物除去術 - 單純	Corneal foreign body removal, simple
+53011C	角膜異物除去術 - 複雜	Corneal foreign body removal, complicate
+53012C	角膜藥物燒灼	Corneal cauterization, medical
+53013C	角膜電氣燒灼	Corneal cauterization, electric
+53014C	角膜縫合每針	Corneal suture/stitch
+53015C	眼窩, 膿瘍切開術	Incision & drainage of orbital abscess (I&D)
+53016C	換藥	Change dressing
+53017C	砂眼手術、壓碎或電燒	Expression or electro cauterization for trachoma
+53018C	淚囊探測術	Lacrimal probing
+53019C	鼻淚導管裝置術	Naso-lacrimal duct catheteri-zation
+53020C	睫毛冷凍分解術	Epilation, cryolysis
+53021C	斜視訓練	Orthoptic training
+53022C	低視能訓練	Low vision training
+53023B	綜合視覺機能檢查	Visual function test
+53024C	視覺機能訓練	Visual function training
+53025C	結膜表面異物除去術	Removal of foreign body from surface of conjunctiva
+53026C	結膜結石摘除－單純／表淺	Removal conjunctival lithiasis - superficial／simple
+53027C	結膜結石摘除－複雜／植床	Removal conjunctival lithiasis - embeded／complicated
+53028C	淚孔擴張	Dilation of punctum
+53029C	雷射拆線	Suture Removal-Laser
+53030C	結膜藥物燒灼	Conjuctival chemical cauterization
+53031C	淚小點閉合術(每針)	Punctum occlusion (each suture)
+53033C	鼻淚管淚道氣球擴張術	Balloon dacryocystoplasty
+53034B	角膜處理費	Corneal processing fee
+54001C	耳垢嵌塞取出，單側	Impacted cerumen, unilteral
+54002C	傳統耳膜切開術	Myringotomy without microscope
+54003C	簡易異物取出	Simple FB removal, ENT
+54004C	複雜異物取出	Complicated FB Removal, (larynx hypopharynx)
+54005C	耳咽管通氣術－單側	E-tube inflation - unilateral
+54006C	耳咽管通氣術－雙側	E-tube inflation - bilateral
+54007C	耳膜紙成形術	Paper tympanoplasty
+54007C1	居家使用呼吸器/天	Home ventilator use, per day
+54008C	外耳道切開引流術	I & D of external ear
+54009B	顯微鏡下耳內注射	Intratympanic injection under micro.
+54010C	鼻前部鼻流血處理	Simple epistaxis (Ant.)
+54011C	鼻後部鼻流血處理	Complicated epistaxis (Post.)
+54012C	鼻內注射術	Intranasal injection
+54013C	鼻內電燒術	Intranasal cauterization
+54014C	簡易繫帶切開術	Simple frenectomy
+54015C	周邊性扁桃腺膿瘍切開引流	I & D for peritonsillar abscess
+54016B	食道探條擴張術	Esophageal Bougination
+54018C	內視鏡喉頭異物取出術	Endoscopic laryngeal foreign body removal
+54019C	耳鼻喉局部治療－膿或痂皮之取出或抽吸	ENT local treatment - Removal or suction of abscess or crust
+54020C	外鼻甲板放置術	Nasal splint fixation
+54021C	鼻填塞（前側）	Nasal packing (ant.)
+54022C	鼻填塞（後側）	Nasal packing (post.)
+54023C	鼻填塞物取出	Romove of nasal packing
+54024C	鼻腔沖洗	Nasal douching
+54025C	鼻阻壓計檢查	Rhinomanometry
+54026B	嗅覺試驗	Olfaction test
+54027C	耳鼻喉局部治療－傷口處置及換藥	ENT local treatment - Wound treatment and change dressing
+54028C	上額竇穿刺沖洗－單側	Maxillary sinus puncture irrigation - unilateral
+54029C	上額竇穿刺沖洗－雙側	Maxillary sinus puncture irrigation - bilateral
+54032C	吞嚥治療	Simple swallowing therapy
+54033B	唾液腺插管術	Sialogram inbubation
+54035C	耳道沖洗	Ear canal douching
+54036C	鼓室穿刺	Tympanocentesis
+54037C	耳鼻喉局部治療－耳部雙側膿或痂皮之取出或抽吸	ENT local treatment - Removal or suction of abscess or crust, bilateral ear
+54038C	耳鼻喉局部治療－耳部雙側傷口處置及換藥	ENT local treatment - Wound treatment and change dressing bilateral ear
+54039B	音聲分析儀回饋治療	Visual feedback traning phototaryngography
+54040B	音聲頻譜儀回饋治療	Vusyak feedback traning with sound spectrography
+54041B	扁桃腺術後出血處置	Post-operative bleeding, management, tonsil
+54042C	耳鼻喉切片	ENT biopsy
+54043C	其他耳鼻喉囊腫之穿刺或引流	Other abscess puncture or drainage
+54044C	耳石復位術	Canalith repositioning procedure
+54045B	人工電子耳術後調圖（單耳）	Mapping post Cochlear implantation
+55001C	子宮頸切片（不包括病理檢查）	Cervical biopsy
+55002C	子宮內膜切片（不包括病理檢查）	Endometrial sampling and biopsy
+55003C	子宮頸冷凍或電燒手術治療	Cryosurgery or electrosurgery of cervix
+55004C	子宮頸出血藥物治療	Topical treatment for cervical bleeding
+55005C	簡單陰道異物去除術	Removal of foreign body,simple
+55006C	複雜嵌於陰道異物去除術	Removal of foreign body, complicated or embedded
+55007C	電或化學燒灼	Electro/chemical cauterization
+55008C	濕疣切除及電燒	Condyloma, excision and electrocauterization
+55009C	會陰沖洗 －門診，每次	Perineal irrigation care-OPD，each time
+55010C	會陰沖洗 －住院，每日	Perineal irrigation care- IPD，per day
+55011C	陰道灌洗 一次	Vaginal irrigation
+55012C	子宮頸抹片取樣	Papanicolaous smear
+55013C	子宮頸燒灼後或冷凍後治療	Follow-up treatment of cryotherapy or electrotherapy of cervix
+55015C	產後出血止血術	Hemosatsis procedures for postpartum hemorrhage
+55016C	子癇及子癇前症處置	Treatment of eclampsia and preeclampsia
+55017C	陰唇粘連分離術	Separation of vulvar adhesion
+55018C	治療性子宮頸擴張術	Therapeutic cervical dilatation
+55019C	會陰切片	Biopsy of perineum
+55020C	治療性子宮內避孕器插入術	Therapeutic insertion of intrauterine device
+55021C	骨盆檢查費	Pelvic Examination
+55022C	子宮內避孕器取出術(須擴張子宮頸及麻醉者)	Removal of intrauterine device (with dilatation of cervix under anesthesia)
+55024C	子宮外翻復位術	Reversion of uterine inversion
+55025C	陰道切片	Vaginal biopsy
+55026C	陰道止血處置—冷凍或電燒	Cryosurgery or electrosurgery for vaginal bleeding
+55027C	陰道止血處置—藥物止血	Topical treatment for vaginal bleeding
+56001C	靜脈切開術	Venesection / phlebotomy
+56002B	動脈切開術	Cutdown artery
+56003C	氣管切開造口術	Tracheostomy
+56004C	換造口器	Change tracheostomy set
+56005C	切開引流術	Incision & drainage (I&D)
+56006C	拔指甲, 每指（趾）	Nail extraction
+56007C	拔指甲-每增加一指（趾）	Nail extraction - one added
+56008C	雞眼、痣電燒	Electrocauterization
+56009C	雞眼、痣電燒-每增加一個	Electrocauterization - one added
+56010B	胸管插管	Chest intubation
+56013C	疤痕注射療法	Scar injection therapy
+56014C	潰瘍包紮治療術	Unna boot
+56015B	肋膜切片術	Pleural biopsy
+56016B	腦神經及脊椎手術中特殊儀器使用費－超音波吸除機	Special machines application - cusa
+56017B	腦神經及脊椎手術中特殊儀器使用費－超音波診查機	Special machines application - sonogram
+56018B	腦神經及脊椎手術中特殊儀器使用費－誘發電位手術監視機	Special machines application - evoke potential
+56019B	腦神經及脊椎手術中特殊儀器使用費－精密手術顯微鏡	Special machines application - microscope
+56020B	內視鏡逆行性膽管引流術	Endoscopic retrograde biliary drainage(ERBD)
+56021B	內視鏡經鼻膽管引流術	Endoscopic nasobiliary drainage(ENBD)
+56022C	氣管造瘻口處理	Tracheostomy care
+56023B	ERBD外引流管留置處置	Management of external drainage tube for ENBD
+56024B	膽管切開引流管置換術	Change drainage tube of cholangiostomy
+56025C	趾甲部分摘除併母組織切除術	Partial nail renoral and matricetomy
+56026B	特殊皮膚處置	Dermatology special treatment
+56028B	一般性支氣管鏡雷射切除腫瘤或疤痕	Simple through bronchoscopic laser resection of tumor or scar
+56029B	全肺灌洗	Whole lung lavage
+56030B	經頸靜脈肝臟切片術	Transjugular liver biopsy
+56031B	經內視鏡括約肌切開術	Endoscopic sphincterotomy
+56032B	經內視鏡十二指腸括約肌氣球成形術	Endoscopic balloon sphincteroplasty
+56034B	膽道鏡及膽道狹窄切開術	Choledochoscopy and choledochotomy
+56035B	複雜性支氣管鏡雷射切除腫瘤或疤痕	Complicated through bronchoscopic laser resection of tumor or scar
+56036B	深腦刺激術治療參數調整作業	Parameter programming for deep brain stimulation
+56037B	深部腦核電生理定位	Intraoperative Microelectrode recording of basal ganglia
+56038B	內視鏡冷凍治療(含內視鏡檢查費用)	Endoscopic Cryotherapy
+56039B	神經外科術中神經功能監測	(IONM) Intra-operative neuromonitoring(IONM)
+56040B	導管式膽胰管內視鏡術	Catheter Based Cholangiopancreaticoscopy
+56041B	迷走神經刺激術（VNS）─參數調整	Vagus nerve stimulation (VNS) - parameter adjustment
+56042B	脊髓刺激器參數程控調整作業	Spinal cord stimulator programming procedure
+56043C	環甲膜穿刺術／切開術	Needle／Surgical Cricothyroidotomy
+56044B	主動脈復甦性血管內球囊閉合術	Resuscitative endovascular balloon occlusion of the aorta (REBOA)
+57015B	經皮測氧分壓器(日)	TC PO2 monitor (day)
+57016B	經皮測二氧化碳分壓器或呼氣末二氧化碳分壓器（日）	TC PCO2 or End tidal CO2 monitor (day)
+57101C	臍息肉處理 －電燒手術	Umbilical Granuloma ligation
+57103C	新生兒臍靜脈導管置入術	Umbilical vein catheterization
+57104C	新生兒臍動脈導管置入術	Umbilical artery catheterization
+57109B	直腸抽吸切片術	Rectal suction biopsy
+57110C	嬰幼兒抽血（次）	Blood sampling
+57113B	兒童經皮靜脈導管放置術	Percutaneous IV catheterization
+58004C	動靜脈分流管栓塞去除術 － 單純	Declotting of A-V shunt-simple
+58005C	動靜脈分流管栓塞去除術 － 中度	Declotting of A-V shunt-moderate
+58006C	動靜脈分流管栓塞去除術 － 複雜	Declotting of A-V shunt-complicated
+58008C	血漿置換術	Plasma exchange
+58012B	連續性可攜帶式腹膜透析 － 4.連續性可攜帶式腹膜透析導管植入術	。 Continuous ambulatory peritoneal dialysis， CAPD 4.CAPD，Tenckhoff catheter implantation
+58016C	二重過濾血漿置換療法	Double filtration plasmapheresis
+59002B	潛水病（減壓病）或急性氣栓塞症	Decompression sickness and acute gas embolism (including post operative)
+59003B	一氧化碳中毒（氰化物及氣體中毒）	Carbon monoxide toxicity(including cyanide toxicity and smoke inhalation)
+59004B	一氧化碳中毒-90分鐘	Carbon monoxide toxicity - 90min
+59005B	氣壞疽病	Clostridial gasgangrene necrotizing infection
+59006B	氣壞疽病-90分鐘	Clostridial gasgangrene - 90min
+59007B	慢性復發性骨髓炎	Osteomyelitis refractory
+59008B	慢性復發性骨髓炎-90分鐘	Osteomyelitis refractory - 90min
+59009B	肢體壓傷伴有創傷性缺血	Crush injury with acute traumatic Ischemia
+59010B	肢體壓傷伴有創傷性缺血-90分鐘	Crush injury with acute traumatic Ischemia - 90min
+59011B	急性燒灼傷	Thermal burns acute
+59012B	急性燒灼傷-90分鐘	Thermal burns acute - 90min
+59013B	放射性組織壞死	Osteoradionecrosis Radiation cystitis/enteritis
+59014B	潛水病（減壓病）或急性氣栓塞症	DCSII/AGE Decompression sickness and acute gas embolism (DCSII/AGE)
+59015B	潛水病（減壓病）或急性氣栓塞症	DCSI/AGE Decompression sickness and acute gas embolism (DCSI/AGE)
+59016B	潛水病（減壓病）或急性氣栓塞症-殘餘症狀	Decompression sickness and acute gas embolism (Residual)
+60001C	黃斑部雷射術 － 初診	Laser for macula -first visit
+60002C	黃斑部雷射術 － 複診	Laser for macula -return visit
+60003C	全網膜雷射術 － 初診	PRP-first visit
+60004C	全網膜雷射術 － 複診	PRP-return visit
+60005C	周邊（局部）網膜雷射術–初診	Focal laser for peripheral retina - first visit
+60006C	周邊（局部）網膜雷射術－複診	Focal laser for peripheral retina -return visit
+60007C	小樑雷射術（青光眼）－ 初診	Laser for trabecular meshwork (glaucoma) -first visit
+60008C	小樑雷射術（青光眼）－ 複診	Laser for trabecular meshwork (glaucoma) -return visit
+60009C	睫狀體雷射破壞術－ 初診	Laser ciliary body destruction, for glaucoma - first visit
+60010C	睫狀體雷射破壞術－ 複診	Laser ciliary body destruction, for glaucoma -return visit
+60011C	虹膜雷射術（青光眼） － 初診	Laser for iris (glaucoma) - first visit
+60012C	虹膜雷射術（青光眼） － 複診	Laser for iris (glaucoma) -return visit
+60013C	雷射後囊切開術 － 初診	Laser capsulotomy -first visit
+60014C	雷射後囊切開術 － 複診	Laser capsulotomy - return visit
+60015C	角膜新生血管雷射燒灼術	Corneal neovascular laser treatment
+60016C	光動力雷射治療	Photodynamic Laser Therapy
+61001C	脛骨一般骨折及膝關節溶合術	Tibia fracture or knee arthrodeis
+61002C	脛骨下三分之一骨折	tibia low 1/3 fracture
+61003C	脛骨上三分之一骨折	Tibia up 1/3 fracture (High tibia osteotomy)
+61004C	脛骨上三分之一粉碎性骨折	Tibia up 1/3 comminuted fracture
+61005C	脛骨分段性骨折	Tibia segmental fracture
+61006C	踝部骨折	Ankle fracture
+61007C	股骨骨折	Femur fracture
+61008C	股骨髁部骨折	Femur subcondylor fracture
+61009C	股骨分段性骨折	Femur segmental fracture
+61010C	骨盤穩定性骨折	Pelvic fracture
+61011C	骨盤不穩定性骨折	Pelvic fracture (unstable)
+61012C	髖骨或上股骨骨折	Actabular fracture Hip
+61013C	肱骨骨折	Humerus fracture
+61014C	橈骨或尺骨一般性骨折	Radius or ulna simple fracture
+61015C	橈骨和尺骨雙骨折	Radius and ulna fracture
+61016C	肘部骨折	Elbow fracture
+61017C	肩部骨折	Shoulder fracture
+61018C	骨骼外固定器取除術	Remove of external fixation apparatus
+61019C	頸外固定器租金	Cervical external fixator rental
+61020C	顱顏面骨折-骨骼外固定器使用	Application of external fixation apparatusfacial in facial bone fracture
+62001C	顏面皮膚及皮下腫瘤切除術-直徑小於一公分	Excision of facial skin and subcutaneous tumor within 1cm in diameter
+62002C	顏面皮膚及皮下腫瘤切除術-直徑一至二公分	Excision of facial skin and subcutaneous tumor 1cm to 2cm in diameter
+62003C	顏面皮膚及皮下腫瘤切除術-直徑超過二公分	Excision of facial skin and subcutaneous tumor over 2cm in diameter
+62007C	皮膚全層植補術 FTSG - 小於十平方公分	Full thickness skin graft (FTSG)
+62008B	管形皮膚移植術	Tube pedicle graft
+62009C	肌肉或深部組織腫瘤切除術及異物取出術	Excision of muscle or deep tissue tumor deep foreign body
+62010C	臉部以外皮膚及皮下腫瘤摘除術－ 小 小於二公分	Excision of skin or subcutaneous tumor (Except face) within 2cm
+62011C	臉部以外皮膚及皮下腫瘤摘除術－ 中二公分至四公分	Excision of skin or subcutaneous tumor (Except face) 2 to 4cm
+62012C	臉部以外皮膚及皮下腫瘤摘除術－ 大 四公分至十公分	Excision of skin or subcutaneous tumor (Except face) 4 to10cm
+62013C	交指皮瓣移植術	Cross finger skin flap
+62014C	多層皮膚移植－小於二十五平方公分	Split thickness skin graft STSG within 25 c㎡
+62015B	多層皮膚移植－二十五至一百平方公分	Split thickness skin graft STSG 25 to 100 c㎡
+62016B	多層皮膚移植－每增加一百平方公分	Split thickness skin graft STSG every incerase of 100c㎡
+62017C	複合移植	Composite graft
+62018C	Ｚ－形皮瓣	Z-plasty
+62019B	氬氣雷射治療	Argon laser therapy
+62020B	二氧化碳雷射手術	CO2 laser operation
+62021C	腋下汗腺切除術 二邊	Skoog operation
+62022C	皮膚惡性腫瘤切除及植皮術－ 直徑小於二公分	Excision of skin cancer & SSG within 2cm in diameter
+62023B	皮膚惡性腫瘤切除及植皮術－ 直徑二至五公分	Excision of skin cancer & SSG 2cm to 5cm in diameter
+62024B	皮膚惡性腫瘤切除及植皮術－ 直徑超過五公分	Excision of skin cancer & SSG over 5cm in diameter
+62025B	肌肉瓣或肌皮瓣	Muscle or myocutaneous flap
+62026B	咽部皮瓣手術	Pharyngeal flap
+62027B	唇部皮瓣手術	Lip flap
+62029B	交腳皮瓣移植術	Cross leg skin flap
+62030B	交掌皮瓣移植術	Cross palm skin flap
+62031B	交臂皮瓣移植術	Cross arm skin flap
+62032B	顯微血管游離瓣手術－ 皮瓣移植	Microvascular free flap skin flap
+62033B	顯微血管游離瓣手術－ 肌肉移植	Microvascular free flap muscle flap
+62034B	顯微血管游離瓣手術－骨移植	Microvascular free flap bone flap
+62035B	顯微血管游離瓣手術－ 腸系膜移植	Microvascular free flap omentum flap
+62036B	顯微血管游離瓣手術－ 小腸移植	Microvascular free flap intestinal flap
+62037B	顯微血管游離瓣手術－ 游離筋膜瓣移植	Microvascular free flap free fascia flap
+62038B	顯微血管游離瓣手術－游離功能性肌瓣移植	Microvascular free flap free functioning muscle transfer
+62040B	管型皮片整位術	Tube pedicle flap revision
+62041B	微晶 & 一般磨皮術(小於五公分)	Micro & general dermabrasion(<5cm)
+62042B	微晶 & 一般磨皮術(五至十公分)	Micro & general dermabrasion(5-10cm)
+62043B	微晶 & 一般磨皮術(超過十公分)	Micro & general dermabrasion(>10cm)
+62044B	肌肉切片	Muscle biopsy
+62045B	局部皮瓣(小於一公分)	Local flap (<1cm)
+62046C	局部皮瓣(一至二公分)	Local flap (1-2cm)
+62047C	局部皮瓣(超過二公分)	Local flap (>2cm)
+62049B	手部V-Y型皮瓣手術	V-Y advancement flap (hand)
+62051B	三角胸皮瓣	Delto-pectoralis flap
+62052B	舌瓣	Tongue flap
+62053B	肌移位術	Muscle rotation flap
+62054B	皮腱膜移位術	Fasciocutaneous rotation flap
+62055B	皮肌移位	Myocutaneous rotation flap
+62056B	腹股溝皮瓣移植術	Groin flap
+62058B	大胸肌皮瓣	Pectoralis major myocutaneous flap
+62059B	旋轉皮瓣移植術(手部以外)	Rotation flap
+62060B	移前皮瓣移植術	Advance flap
+62062C	腫瘤組織檢查切片術,部位未明示	Tumor unspecified site biosy
+62063B	舌再接手術	Replantation of tongue
+62064C	皮膚全層植補術FTSG - 每增加十平方公分	Full-thickness skin graft --add 10 c㎡
+62065C	臉、頸部植皮-五平方公分	Face neck -5c㎡
+62066C	臉、頸部植皮- 每增加五平方公分	Face neck -every 5 c㎡ of increase
+62067C	手部、會陰、腳植皮 -五平方公分	Skin graft for hand perineum and foot-5c㎡
+62068C	手部、會陰、腳植皮 - 每增加五平方公分	Skin graft for hand perineum and foot-every 5c㎡
+62069C	V-Y 形皮瓣	V-Y plasty
+62070B	口腔粘膜皮瓣手術	Oral mucous flap
+62071B	鉺雅鉻雷射手術	Erb-YAG laser operation
+62072B	水刀清創	Hydrosurgery debridement
+62073B	顯微血管游離瓣手術－穿通枝瓣移植－單區塊組織瓣	Microvascular free flap - perforator flap one-perforator
+62074B	顯微血管游離瓣手術－穿通枝瓣移植－雙區塊組織瓣	Microvascular free flap - perforator flap two-perforators
+62075B	顯微血管游離瓣手術－穿通枝瓣移植－三區塊以上組織瓣	Microvascular free flap - perforator flap three-perforators and above
+63001B	部份乳房切除術－ 單側	Partial mastectomy unilateral
+63002B	部份乳房切除術－ 雙側	Partial mastectomy bilateral
+63003B	單純乳房切除術－ 單側	Simple mastectomy unilateral
+63004B	單純乳房切除術－ 雙側	Simple mastectomy bilateral
+63005C	乳房腫瘤切除術－ 單側	Excision of breast tumor unilateral
+63006C	乳房腫瘤切除術－ 雙側	Excision of breast tumor bilateral
+63007B	改良式乳房根除手術－ 單側	Modified radical mastectomy unilateral
+63008B	改良式乳房根除手術－ 雙側	Modified radical mastectomy bilateral
+63009C	皮下乳房切除術	Subcutaneous mastectomy
+63010C	乳房腫瘤組織檢查切片術	Breast tumor biopsy
+63011C	術前定位下乳房腫瘤切除術，單側	Breast tumor excision after needle localization
+63012B	乳房部分切除手術併前哨淋巴結摘除手術－單側	Partial mastectomy and sentinel node(s) excision－unilateral
+63013B	乳房部分切除手術併標準腋下淋巴廓清術－單側	Partial mastectomy + axillary lymph node dissection－unilateral
+63014B	乳房全切除手術併前哨淋巴結摘除手術－單側	Simple mastectomy + sentinel lymph node biopsy－unilateral
+63015B	乳房部分切除手術－單側	Partial mastectomy－unilateral
+63016B	乳房全切除手術－單側	Simple mastectomy－unilateral
+63017B	前哨淋巴結摘除手術－單側	Sentinel lymph node excision
+64001B	骨開窗術	Fenestration
+64002B	骨或軟骨移植術	Bone or osteochondral graft
+64003C	骨髓炎之死骨切除術或蝶形手術及擴創術（包含指骨、掌骨、蹠骨）	Sequestretomy or saucerization & debridement for osteomyelitis (including phalanges, metacarpals, metatarsals)
+64004C	骨髓炎之死骨切除術或蝶形手術及擴創術（包含脛骨、腓骨、橈骨、尺骨、膝骨、骨盤）	Sequestretomy or saucerization & debridement for osteomyelitis(including tibia, fibula, radius ulna humerus, pelvis)
+64005B	骨髓炎之死骨切除術或蝶形手術及擴創術(包括：頭骨、顱骨、股骨、肋骨、脊椎骨)	Sequestrectomy or saucerization & debridement for osteomyelitis
+64006B	矯正切骨術－肱骨、尺骨、橈骨、股骨、脛骨或腓骨	Corrective osteotomy of humerus,ulna,radius,femur,tibia or fibula
+64007B	骨片切取術	Ostectomy
+64008C	鼻骨骨折閉鎖復位術	Closed reduction of nasal bone fracture
+64012B	脊椎肋骨突起切除術	Costo-transversectomy
+64013B	鎖骨部份摘除術	Excision of clavicle, partial
+64014B	鎖骨全部摘除術	Excision of clavicle, total
+64015C	鎖骨骨折開放復位術	Open Reduction of clavicle fracture
+64016C	鎖骨骨折固定術	Close reduction & immobilization of fractured clavicle
+64017C	肋骨骨折固定術（膠布固定法）	Immobilization of rib fracture
+64018B	肋骨切除術	Excision of rib
+64019B	肋骨切除術	Excision of rib
+64020B	肋骨部份切除術	Partial excision of rib
+64021B	胸壁無熱性膿瘍根治手術	Radical curettage of thoracic cold abscess
+64022B	四肢切斷術－ 大腿	Amputation of limbs thigh
+64023B	四肢切斷術－ 小腿、上臂、前臂	Amputation of limbs leg, arm, forearm
+64024B	四肢切斷術－ 腕、踝	Amputation of limbs wrist, ankle
+64025C	四肢切斷術－ 指、趾	Amputation of limbs finger, toe
+64026B	斷端成形術－ 大腿、小腿、上臂、前臂	Revision of amputated stump (need osteoplasty) thigh, leg, arm, forearm
+64027C	斷端成形術－ 指、趾	Revision of amputated stump (need osteoplasty) finger,toe
+64028C	股骨幹骨折開放性復位術	Open reduction for fracture of femoral shaft
+64029B	股骨頸骨折開放性復位術	Open reduction for fracture of femoral neck
+64030B	股骨頸骨折開放性復位術,帶肌肉血管骨移植	Open reduction for fracture of femoral neck with muscle pedicle bone graft
+64031C	脛骨骨折開放性復位術	Open reduction for fracture of tibia
+64032B	橈骨、尺骨骨折開放性復位術	Open reduction for fracture of radius,ulna
+64034B	膝蓋骨骨折開放性復位術	Open reduction for fracture of patella
+64035C	腕、跗、掌、蹠骨骨折開放性復位術	Open reduction for fracture of carpal, tarsal,meta-carpal,meta-tarsal
+64036C	指、趾骨骨折開放性復位術	Open reduction for fracture of fingers and toes
+64037B	手、足骨摘除術	Excision of carpal and tarsal bone
+64041C	大腿骨骨折徒手復位術	Close reduction for fracture of femur bone
+64042C	脊椎骨、盆骨骨折徒手復位術	Close reduction for fracture of spine or pelvis bone
+64043C	下腿骨、上臂骨骨折徒手復位術	Close reduction for fracture of tibia, humerus
+64044C	前臂骨骨折徒手復位術	Close reduction for fracture of forearm bone
+64045C	腕骨骨折徒手復位術	Close reduction for fracture of carpal bone
+64046C	踝骨骨折徒手復位術	Close reduction for fracture of ankle bone
+64047C	掌骨骨折徒手復位術	Close reduction for fracture of metacarpal bone
+64048C	蹠骨骨折徒手復位術	Close reduction for fracture of metatarsal bone
+64049C	指、趾骨骨折徒手復位術	Close reduction for fracture of bones for fingers and toes
+64050B	膝蓋骨(髕骨)位置重整術	Realiqnment of patella
+64052B	急性化膿性關節炎切開術－ 股關節	Arthrotomy for acute septic joint hip
+64053B	急性化膿性關節炎切開術－ 肩關節、肘關節、腕關節、膝關節、踝關節	Arthrotomy for acute septic joint shoulder, elbow, wrist , knee or ankle
+64054B	滑膜切除術或關節囊切除術－ 股關節	Synovectomy or/and capsulectomy hip
+64055B	滑膜切除術或關節囊切除術－ 膝關節	Synovectomy or/and capsulectomy knee
+64056B	滑膜切除術或關節囊切除術－ 肩關節、肘關節、腕關節或踝關節	Synovectomy or/and capsulectomy shoulder elbow, wrist or ankle
+64057B	滑膜切除術或關節囊切除術－ 指趾	Synovectomy or/and capsulectomy phalanges
+64058B	指、趾關節固定術	Arthrodesis of finger, toe
+64059B	肘關節截斷術	Disarticulation of elbow
+64060B	腕關節截斷術	Disarticulation of wrist
+64061B	膝關節截斷術	Disarticulation of knee
+64062B	踝關節截斷術	Disarticulation of ankle
+64063C	指、趾關節截斷術	Disarticulation of finger or toe
+64064B	股關節脫位開放性復位術	Open reduction for dislocation of hip joint
+64065B	肩關節脫位開放性復位術	Open reduction for dislocation of shoulder joint
+64066C	肘關節脫位開放性復位術	Open reduction for dislocation of elbow joint
+64067C	膝關節脫位開放性復位術	Open reduction for dislocation of knee joint
+64068C	腕關節脫位開放性復位術	Open reduction for dislocation of wrist joint
+64069C	踝關節脫位開放性復位術	Open reduction for dislocation of ankle joint
+64070C	指、趾關節脫位開放性復位術	Open reduction for dislocation of finger, toe
+64071B	胸鎖關節脫位開放性復位術	Open reduction for dislocation of sterno-clavicular
+64072B	肩鎖關節脫位開放性復位術	Open reduction for dislocation of acromio-clavicle joint
+64073C	股關節脫位徒手復位術	Close reduction for dislocation of hip joint
+64074C	肩關節脫位徒手復位術	Close reduction for dislocation of shoulder joint
+64075C	肘關節脫位徒手復位術	Close reduction for dislocation of elbow joint
+64076C	膝關節脫位徒手復位術	Close reduction for dislocation of knee joint
+64077C	腕關節脫位徒手復位術	Close reduction for dislocation of wrist joint
+64078C	踝關節脫位徒手復位術	Close reduction for dislocation of ankle joint
+64079C	指、趾關節脫位徒手復位術	Close reduction for dislocation of finger,toe
+64080C	徒手關節授動術	Brisement force (manipulation of joint)
+64081C	板機指手術	Trigger finger
+64082B	肌炎手術－腰肌炎、臂肌炎或大腿肌炎	Myositis myositis of positis , gluteal or femural
+64083B	肌炎手術－其他部位	Myositis other myositis
+64084B	斜角肌切斷術	Myotomy of scalaneus muscle
+64085B	斜頸手術	Operation for torticollis/wry neck
+64086B	頸部瘻管、頸部囊腫摘出術	Excision of cervical fistula, cervical cyst
+64087C	腱鞘囊摘出術、液囊腫瘤摘出術	Excision of ganglion or hygroma
+64088C	腱、韌帶皮下斷裂縫合術	Subcutaneous tenorrhaphy
+64089C	腱、韌帶皮下切斷手術	Subcutaneous tenectomy
+64090C	肌腱修補術－ 單腱	Tendon repair single
+64091C	肌腱修補術－ 每增加一條	Tendon repair one added
+64092B	指關節側韌帶切除術	Capsulectomy of digital joint
+64095B	Gillie氏手術（瞼外翻手術）	Gillies' operation
+64096B	顴骨，封閉性復位	Zygoma, close reduction
+64098B	顴骨，開放性復位－ 簡單	Zygoma, open reduction simple
+64099B	顴骨，開放性復位－ 複雜	Zygoma, open reduction complicated
+64100B	顎骨、口蓋、舌良性腫瘤摘除術	Extirpation of benign tumors on palate or tongue
+64101B	顎骨骨折開放手術－ 單一骨折	Open reduction for fracture of palate single
+64102B	顎骨骨折開放手術－ 複雜骨折	Open reduction for fracture of palate multiple
+64103B	下顎骨斷離術	Mandibular osteotomy
+64104B	下顎骨切除術－ 邊緣切除	Resection of mandible marginal
+64105B	下顎骨切除術－ 部份切除	Resection of mandible partial
+64106B	下顎骨切除術－ 半切除	Resection of mandible hemi-resection
+64107C	下顎骨脫位復位術	Reduction of dislocation of mandibular
+64108B	下顎骨骨折開放性復位（簡單）	Open reduction of mandible(simple)
+64109B	上顎骨懸掛式鋼絲	Maxilla suspension wiring
+64110B	上顎骨簡單開放性復位	Maxilla open reduction, simple
+64111B	上顎骨複雜開放性復位	Maxilla open reduction, complicated
+64112B	眼眶底開放性復位術－ 矽板植入	Orbital floor open reduction silicon sheet implant
+64113B	眼眶底開放性復位術－ 自體植入	Orbital floor open reduction autograft
+64114B	上下顎間鋼絲固定	Inter-maxillary wiring (Inter-dental wiring)
+64115B	顎關節強直解除術	Release of TM joint ankylosis
+64116C	頸部良性腫瘤切除，簡單	Benign neck mass excision (simple)
+64117C	跟腱斷裂縫合術	Rupture of achilles tendon primary suture
+64118B	臏骨韌帶斷裂縫合術	Rupture of patella tendon repair
+64119B	雙頭肌腱斷裂縫合術	Rupture of biceps tendon repair
+64120B	四頭肌腱斷裂縫合術	Rupture of quadriceps tendon repair
+64121B	肩旋轉袖破裂修補術－小破裂	Rotator cuff tear repair small
+64122B	肩旋轉袖破裂修補術－大破裂	Rotator cuff tear repair large or massive
+64123B	臀大肌，肩三角肌纖維化(攣縮)鬆弛術	Gluteal deltoid muscle contracture or snaping hip release.
+64124B	肩峰成形術	Acromioplasty
+64125C	脛骨粗隆結節切除術或骨融合術	Excision or fusion of tibial tuberosity
+64126B	臏骨半脫位外側放鬆術	Patella subluxation lateral release
+64127C	臏骨軟骨軟化症造孔術	Chondromalacia of patella(drilling or shaving)
+64128B	足踝韌帶修補術	Repair of ankle joint ligaments
+64132C	大腳趾外翻	Hallux valgus (McBride procedure)
+64133C	大腳趾外翻（截骨術）	Hallux valgus (Chevron)
+64134B	拇指基關節韌帶成形術	Ligament reconstruction of basal joint
+64135B	拇指基關節韌帶植入術	Ligament interposition of basal joint
+64136B	掌骨肌膜植入術	Fascial interposition for carpal bone
+64137B	手部根蒂皮瓣移植術	Regional hand pedicle flap
+64138C	根蒂皮瓣分離術	Division of pedicle flap
+64140C	甲床與手指重建術	Reconstruction of nail
+64141C	一般瘢痕攣縮鬆弛術	Release of scar contracture
+64142B	骨瘻抑制術	Epiphysiodesis (include stapling)
+64143B	骨關節腫瘤摘除術	Excision of tumor mass of bone and joint
+64144B	脊椎椎體搔爬術或切除術，單節椎體	Curettage or excision of single vertebral body
+64148B	骨盤半切斷術	Hemipelvectomy
+64149B	上顎骨惡性腫瘍摘除術合併淋巴切除	Excision operation of malignant tumor of upper jaw with lymphadectomy
+64150B	上顎骨惡性腫瘍摘除術合併頸部清除術	Excision operation of malignant tumor of upper jaw with neck dissection
+64151B	下顎骨惡性腫瘍摘除術合併淋巴切除	Excision operation of malignant tumor of lower jaw with lymphadectomy
+64152B	下顎骨惡性腫瘍摘除術合併頸部清除	Excision operation of malignant tumor of lower jaw with neck dissection
+64153B	斷指再接手術－ 一隻手指	Replantation one finger
+64154B	斷指再接手術－ 二隻手指	Replantation two fingers
+64155B	斷指再接手術－ 三隻手指	Replantation three fingers
+64156B	斷指再接手術－ 四隻手指	Replantation four fingers
+64157B	斷指再接手術－ 五隻手指	Replantation five fingers
+64158B	斷肢再接手術	Replantation-arm, leg ,metatarsal or foot
+64159B	趾至指斷指再接手術，一指，包括趾切斷及受植部位準備	Including toe replantation, toe to finger amputation & recipient site preparation, one finger
+64160B	脊椎骨折開放性復位術	Open reduction for fracture of spine
+64161B	骨盆骨折開放性復位術	Open reduction for fracture of pelvis
+64162B	全股關節置換術	Total hip replacement (THR)
+64163B	全肩關節置換術	Total shoulder replacement (TSR)
+64164B	全膝關節置換術	Total knee replacement (TKR)
+64165B	全肘關節置換術	Total elbow replacement
+64166B	全腕關節置換術	Total wrist replacement
+64167B	全踝關節置換術	Total ankle replacement
+64168B	全指、趾關節置換術	Total finger or toe replacement
+64169B	部分關節置換術併整型術－ 只置換股骨髁或脛骨高丘或半膝關節或只換髕骨	Partial joint replacement femoral condylar or tibial plateau or unicompartment
+64170B	部分關節置換術併整型術－ 只置換髖臼或股骨或半股關節或半肩關節	Partial joint replacement cup or hip prosthesis or unicompartment
+64171B	股關節整型術	Arthroplasty of hip joint
+64172B	肘關節整型術	Arthroplasty of elbow joint
+64173B	肩關節整形術	Arthroplasty of shoulder joint
+64174B	腕關節整形術	Arthroplasty of wrist joint
+64175B	踝關節整形術	Arthroplasty of ankle joint
+64176B	膝關節整形術	Arthroplasty of knee joint
+64177B	全指、趾關節、全掌指及蹠趾成形術	Arthroplasty of finger、toe、metatarsal or metacarpal joint
+64178B	股關節固定術	Arthrodesis of hip joint
+64179B	肩關節固定術	Arthrodesis of shoulder joint
+64180B	膝關節固定術	Arthrodesis of knee joint
+64181B	肘關節固定術	Arthrodesis of elbow joint
+64182B	腕關節或腕骨、掌骨關節固定術	Arthrodesis of wrist joint or carpal joint
+64183B	踝關節固定術	Arthrodesis of ankle joint
+64184B	股關節截斷術	Disarticulation of hip
+64185B	肩關節截斷術	Disarticulation of shoulder
+64186B	顎關節授動術	Arthoplasty of temporomandibular joint
+64187B	十字韌帶重建術	Reconstruction of cruciate ligament
+64188B	十字韌帶修補術	Repair of cruciate ligament
+64189B	肌腱移植術－單腱	Tendon graft-single
+64190B	肌腱移植術－ 每增加一條加	one added
+64191B	肌腱轉移或移位	Tendon transposition or tendon transfer
+64192B	肌腱轉移或移位－ 每增加一條加	one added
+64193B	肌腱放長術	Tendon lengthening
+64194C	肌腱黏連分離術	Tenolysis
+64195C	肌腱或韌帶完全切斷修補	Tendon or ligament repair (complete disruption)
+64196B	肌腱或韌帶修補，囊內	Tendon or ligament repair , intraarticular
+64197C	肌腱切開或筋膜切開	Tenotomy or fasciotomy
+64198B	人工關節移除－ 股、肩、膝	Removal of prosthesis hip, shoulder, knee
+64199B	人工關節移除－ 腕、踝	Removal of prosthesis wrist, ankle
+64200B	人工關節移除－ 指、趾	Removal of prosthesis finger, toe
+64201B	人工全髖關節再置換	Revision total hip replacement (THR)
+64202B	人工全膝關節再置換	Revision total knee replacement (TKR)
+64203B	髖關節切除成形術	Girdlestone procedure of hip
+64204B	惡性骨瘤廣泛切除(一次)	Wide excision-bone tumor,malignant
+64205B	惡性骨瘤二次廣泛切除	Wide excision-bone,soft tissue,tumor, malignant, two stage
+64206B	良性骨瘤刮除術及骨移植	Benign bone tumor, curettage and bone graft
+64207B	軟組織惡性腫瘤廣泛切除	Wide excision – soft tissue,tumor, malignant
+64208C	軟組織良性腫瘤切除術,大或深	Excision of soft tissue tumor, benign, large or deep
+64209B	上肢廣泛性肩關節截除術	Forequater amputation
+64210B	跟腱斷裂重建術	Rupture of achilles tendon reconstruction
+64211B	臏骨韌帶斷裂重建術	Rupture of patella tendon reconstruction
+64212B	膝內外側韌帶修補術	MCL, LCL repair
+64213B	膝內外側韌帶重建術	MCL, LCL reconstruction
+64214B	踝前脛腓韌帶重建術	ATF reconstruction
+64218B	半月軟骨部分切除或修補術	Partial menisetomy or meniscus repair
+64219B	復發性肩關節前脫臼,開放性復位及關節囊成形術	Recurrent anterior shoulder dislocation capsular shift procedure
+64227B	拇指基關節置換術	Prothetic arthroplasty of basal joint
+64228B	區域筋膜切除術	Regional fasciectomy
+64229B	島狀根帶蒂皮瓣移植	Island pedicle flap
+64230B	游離骨骼肌肉移植術	Free vascularized bone graft, free muscle graft
+64231B	拇指重建手術	Pollicization
+64232B	掌側板關節成形術	Volar plate arthroplasty
+64233B	人工肌鍵植入術	Tendon prosthesis implant
+64234B	遠端橈尺關節重建術	Distal radio-ulnar joint reconstruction
+64235B	近關節肩岬骨骨折開放性復位術	Open reduction for scapula fracture juxta-articular
+64236B	髖臼骨折開放性復位術	Open reduction for acetabulum or hip socket fracture
+64237C	骨骼外固定器裝置術	Application of external fixation appratus
+64238B	股骨頭壞死鑽洞手術	Cord decompression for ANFH (trephing)
+64239B	開放性或閉鎖性肱骨粗隆或骨幹或踝部骨折，開放性復位術	Open reduction for closed or open humeral fracture; tuberosity, shaft or coudyles
+64240B	骨整形術－縮短	Osteoplasty Shorting
+64241B	骨整形術－延長	Osteoplasty Lengthening
+64242B	橈骨頭切除術	Excision,radial head
+64243B	關節鏡手術－關節鏡探查手術，併施行滑膜切片，灌洗，清創	Arthroscopy with synovial biopsy，irrigation & larvage ，debridement
+64244B	關節鏡手術－關節鏡下關節面磨平成形術，打洞，游離體或骨軟骨碎片取出手術	Arthroscopic shaving or abrasion arthroplasty，drilling or pinning or removal of loose body or osteochrondral fragment
+64245C	骨內固定物拔除術－骨盆，髖骨，肱骨，股骨，尺骨，橈骨，脛骨	Removal of internal fixator
+64246B	骨內固定物拔除術－脊椎	Removal of internal fixator-spine
+64247C	骨內固定物拔除術－其他部位	Removal of internal fixator-other
+64248C	尾胝骨骨折及脫位徒手復位術	Close reduction for fracture or dislocation of coccyx joint
+64249B	膝蓋骨切除術	Patellectomy
+64251B	龐氏杵狀足矯正術	Clubfoot Ponseti manipulation
+64254C	貝克氏囊腫截除術	Baker’s cyst excision
+64255B	顎骨矯正術(先天畸型矯正)	Orthognathic surgery
+64257B	顏面骨移植術(先天畸形或外傷腫瘍摘除)	Facial bone graft
+64258B	人工半髖關節再置換術	Revision of bipolar prothesis
+64259B	半肩關節成形術	Shoulder joint hemiarthroplasty
+64260B	三重骨盆股骨切開加股骨縮短術(先天髖關節脫臼)	Pelvic triple osteotomy and femorl shortening(CHD)
+64261C	肌腱固定術	Tenodesis
+64262C	肌肉修補術(四肢)	Muscle repair
+64263B	膝關節半月軟骨修補術	Meniscus repair
+64264C	肌切開術	Myotomy
+64265C	內視鏡腕道減壓術	Endoscopic carpal tunnel release (ECTR)
+64266B	脊椎骨全部切除術	Vertebroectomy
+64267C	舟狀骨骨折開放性復位術	Scaphoid Bone Fracture （Open reduction of Scaphoid Fracture）
+64268B	矯正切骨術-其他部位;骨盆除外	Corrective osteotomy-others;pelvic bone excluded
+64269B	脊椎體矯正切骨術(一節)	Corrective osteotomy for one vertebral segment
+64270B	脊椎體矯正切骨術，每多一節	Each additional vertebral segment of corrective osteotomy
+64271C	橈骨尺骨遠心端骨折經皮穿刺內固定復位手術	Percutaneous internal fixation for fracture of distal radius or ulna
+64272C	腓外踝或脛內踝單一骨折開放性復位術	Open reduction for unimalleolar fracture of ankle
+64273C	足踝關節內、外或後踝之雙踝或三踝骨折開放性復位術	Open reduction for bimalleolar or trimalleolar fracture of ankle
+64274C	臉、頸部瘢痕攣縮鬆弛術	Release of scar contracture, face, neck
+64275C	手、腳、會陰瘢痕攣縮鬆弛術	Release of scar contracture, hand, foot, perineum
+64276B	脊椎椎體搔爬術或切除術，每多一節椎體	Curettage or excision of vertebral body, each additional vertebral body
+64277C	肌腱或韌帶不完全切斷修補	Tendon or ligament repair (incomplete disruption)
+64278B	手指移位以重建手指	Transposition of digit for finger reconstruction
+64279B	重行椎間盤切除術：頸椎、胸椎、腰椎	Revisional diskectomy：cervical、 thoracic、lumbar
+64280B	重行脊椎後融合術-有固定物	Revisional posterior spinal fusion with instrumentation
+64281B	後足關節固定術、三關節固定術	Hindfoot Arthrodesis、Triple arthrodesis, etc.
+64282B	脛-距-跟骨融合術	Tibia-talus-calcaneus arthrodesis
+64283B	十字韌帶再重建手術	Revision cruciate ligament reconstruction
+64284B	人工全肩關節再置換手術	Revision total shoulder replacement (TSR)
+64285B	反置人工全肩關節置換手術	Reverse total shoulder replacement (TSR)
+64286B	關節鏡下旋轉肌腱破裂縫合術	Arthroscopic rotator cuff repair
+64287B	關節鏡下肩關節盂唇修補手術 (單一部位肩盂唇修補)	Arthroscopic labrum repair
+65001B	鼻息肉切除術－ 孤立性	Nasal polypectomy single
+65002B	鼻息肉切除術－ 多發性	Nasal polypectomy multiple
+65003B	鼻甲電燒灼	Nasal turbinate, electric cauterization
+65004B	粘膜下中膈矯正術	(SMR) Submucous resection of septum
+65005B	全部或部分鼻甲切除	Turbinectomy, total or partial
+65006B	上頷竇造口術	Antrostomy for maxillary sinus
+65007B	冷凍手術	Cryosurgery
+65008C	鼻咽切片	Nasopharyngenal biopsy
+65009B	上頷竇切開術，單側	Caldwell Luc's operation, unilateral
+65010B	上頷竇與篩竇切開術	Caldwell Luc's operation & ethmoidectomy
+65011B	竇瘻管修復術	Repair of sinus fistula
+65012B	鼻內篩骨竇手術	Endonasal ethmoidectomy
+65013B	多竇副鼻竇手術	Multiple sinusectomy
+65014B	全副鼻竇切除術	Pansinusectomy
+65015B	術後頰囊腫摘出術	Post operation cheek cyst, revised Luc's op
+65016B	淚囊鼻腔造瘻術	Dacryocystorhinostomy
+65017C	鼻粘連解除術	Lysis of nasal synechia
+65018B	鼻中膈鼻道成形術－ 單側	Septomeatal plasty unilateral
+65019B	鼻中膈鼻道成形術－ 雙側	Septomeatal plasty bilateral
+65020C	鼻部軟組織切片	Biopsy nose soft tissue
+65021C	鼻中膈膿瘍或血腫引流	Drainage. abscess or hematoma nasal septal
+65022C	鼻內膿瘍或鼻側軟骨血腫引流	Drainage abscess intranasal or hematoma of lateral cartilage
+65023B	粘膜下鼻甲切除術(SMT)－ 單側	Submucous turbinectomy unilateral
+65024B	粘膜下鼻甲切除術(SMT)－ 雙側	Submucous turbinectomy bilateral
+65025B	鼻竇探查術	Exploratory antrotomy
+65026B	萎縮性鼻炎手術，單側	Atrophic rhinitis operation ,unilateral
+65028B	口腔鼻腔瘻管修補術	Repair of oroantral fistula
+65029B	下鼻甲成型術	Infestor turbinoplasty
+65030B	經鼻外篩竇切除術	Ethmoidectomy external
+65031B	鼻中膈穿孔縫合術	Closure of perforation of septum
+65032B	鼻中膈造形術	Septal reconstruction/septoplasty
+65033B	一般鼻甲黏膜切除術	Ordinary conchotomy
+65034B	鼻成形術	Rhinoplasty
+65035B	翼管神經切除術	Vidian neurectomy
+65036B	鼻腫瘤切除並植皮	Excision of nasal tumor with skin graft
+65037B	前額竇切除術	Lynch's operation
+65038B	上頷骨切除術－ 部份	Maxillectomy partial
+65039B	上頷骨切除術－ 全部	Maxillectomy total
+65040B	經軟顎鼻咽探查術	Nasopharyngeal exploration through palate approach
+65041B	鼻內惡性腫瘤切除術	Excision of intranasal tumor, malignant
+65042B	後鼻孔閉鎖症開放術	Opening of choanal atresia
+65043B	上頷篩竇骨蝶骨根本手術	Maxillary ethmoid sphenoid sinus radical operation
+65044B	腫瘤切除從額竇	Excision of tumor from frontal sinus
+65045B	腫瘤切除從上額竇	Excision of tumor from maxillary sinus
+65046B	腫瘤切除從篩竇	Excision of tumor from ethmoidal sinus
+65047B	鼻後孔成形術－ 經鼻	Choanal plasty trans nasal
+65048B	鼻後孔成形術－ 經口	Choanal plasty trans oral
+65049B	Denker's 手術	Denker's operation
+65050B	鼻咽腫瘤切除術	Excision of nasopharyngeal tumor
+65051B	Killian 手術 （額竇前壁切除術）	Killian operation
+65052B	蝶竇手術	Sphenoidectomy
+65053B	鼻與顎囊腫切除	Excision of nasopalatinal cyst
+65054B	經鼻鼻後孔閉塞修補	Repair choanal atresia intranasal
+65055B	經鼻中膈鼻後孔閉塞修補	Repair choanal atresia transseptal
+65056B	經上顎鼻後孔閉塞修補	Repair choanal atresia transspalatine
+65057B	顱顏合併手術	Craniofacial resection
+65058B	脫手套法正中顏面手術併顏面骨復位術	Degloving midfacial surgery with facial bone reposition
+65059B	鼻骨折開放性復位	Open reduction of nasal fracture
+65060B	經外側篩竇切除修補腦脊髓液鼻漏	External ethmoidectomy for CSF rhiorrhea
+65063B	內視鏡功能鼻竇手術－ 單側	Endoscopic functional sinus surgery unilateral
+65064B	內視鏡功能鼻竇手術－ 雙側	Endoscopic functional sinus surgery bilateral
+65065B	經外側前額竇及篩竇切除術	External frontoethmoidectomy
+65066B	經外側前額竇及篩竇切除術及粘膜骨膜瓣重建術	External frontoethmoidectomy with mucoperitoneal flap reconstruction
+65067B	前額竇骨成形術	Osteoplastic approach for frontal sinus surgery
+65068B	前額竇骨成形術及脂肪填塞	Osteoplastic approach for frontal sinus surgery with fat obliteration
+65069B	前額竇開窗術	Trephination of frontal sinus
+65070B	鼻鈕扣放置術	Nasal button insertion
+65071B	側鼻切開腫瘤摘除術併顏面骨復位術	Lateral rhinotomy with facial bone reposition
+65072B	鼻雷射手術	Nasal laser surgery
+65074B	黏膜下透熱法	Submucosal diathermy
+65075B	副咽腫瘤-經下顎骨切開	Parapharyngeal tumor excision - transmandibular approach
+65076B	脫手套法正中顏面手術不合併顏面骨復位術	Degloving midfacial surgery without facial bone reposition
+65077B	側鼻切開腫瘤摘除術不合併顏面骨復位術	Lateral rhinotomy without facial bone reposition
+65078B	內視鏡修正式Lothrop手術	Endoscopic modified Lothrop procedure
+65079B	內視鏡蝶腭動脈結紮術	Endoscopic Sphenopalatine Artery Ligation
+65080B	立體定位多竇副鼻竇手術	Multiple sinusectomy under navigation
+65081B	立體定位全副鼻竇切除術	Pansinusectomy under navigation
+66002B	單純性喉直達鏡並做聲帶或會厭軟骨腫瘤切除或剝去	Simple laryngoscopy, operative including excision of tumor and/or stripping or vocal cords or epiglottis
+66003B	聲帶內 Teflon 注射	Teflon intracordal injection
+66004B	喉成形術－單純性	Laryngeal plasty simple
+66005B	喉成形術－複雜性	Laryngeal plasty complicated
+66006B	氣管永久造孔術	Permanent tracheostomy
+66007B	喉軟骨整形術－單純性	Thyroid cartilage plasty simple
+66008B	喉軟骨整形術－複雜性	Thyroid cartilage plasty complicated
+66009B	喉切開術	Laryngotomy
+66012B	全喉切除術不含頸淋巴腺根除術	Laryngectomy without neck dissection
+66013B	全喉切除術併行頸淋巴腺根除術	Laryngectomy with radical neck dissection
+66014B	全喉切除術同時併行氣管食道分路手術	Laryngectomy with T-E shunt
+66015B	水平式喉部份切除術	Horizontal partial laryngectomy
+66016B	垂直式（側方或前方）喉部份切除術	Vertical (lateral/anerior) partial laryngectomy
+66017B	頸淋巴腺根除術	Radical neck dissection
+66018B	杓狀軟骨截除術或杓狀軟骨固定術	Arytenoidectomy or Arytenoidopexy
+66019B	經內視鏡做杓狀軟骨切除	Arytenoidectomy, endoscopic
+66020B	聲帶上部份喉切除術	Supraglottic laryngectomy
+66021B	氣管膺復重建	Laryngotracheal reconstruction
+66022B	喉膺復重建	Larynx reconstruction
+66023B	喉咽切除術	Laryngopharyngectomy
+66024B	機能性喉頭軟骨整形術－兩型性	Thyroid cartilage plasty-two types
+66025B	懸壅顎咽成形術	UPPP uvulopalatopharyngoplasty
+66026B	環咽肌切開術	Cricopharyn geal myotomy
+66028B	氣管造口整形術	Stomaplasty
+66029B	甲狀舌骨囊腫切除	Total excision of thyroglossal duct cyst
+66030B	腮弓囊腫切除	Excision of branchial arch cyst
+66031C	喉部腫瘤雷射手術	Laryngo micro-surgery with CO2 laser
+66032B	複雜性喉直達鏡並做聲帶或會厭軟骨腫瘤切除或剝去	Complicated laryngoscopy, operative including excision of tumor and/or stripping or vocal cords or epiglottis
+67001B	胸壁切除術(小於十公分)	Chest wall resection<10cm
+67002B	開胸探查術	Exploratory thoracotomy
+67003B	胸骨或肋骨骨折開放復位手術	Correction for sternal or rib fracture open reduction
+67004B	經胸迷走神經切斷術	Trans-thoracic vagotomy
+67005B	胸腺切除術	Thymectomy
+67006C	密閉式引流術	Closed drainage
+67007B	開放式引流術	Open drainage
+67008B	簡單胸廓擴創術 小於十公分	Simple debridement of chest wall <10cm
+67009B	探查式肺切開術	Exploratory pneumonotomy
+67010B	肺單元切除術	Segmental resection
+67011B	肺楔狀或部份切除術	Wedge or partial resection of lung
+67012C	氣管、支氣管、細支氣管異物除去術－氣管鏡	by bronchoscopy
+67013B	氣管支氣管傷修補術	Repair of tracheo-bronchial tree
+67014B	氣管支氣管再造術	Reconstruction of tracheo-bronchial tree
+67015B	胸壁切除術及肌肉移植術	Chest wall resection & myoplasty
+67016B	胸腔成形術合併肌肉移植或人工網膜修補術	Thoracoplasty with myoplasty (or mesh)
+67019B	肺膜剝脫術	Decortication of pleura
+67020B	胸膜內( 外 )肺鬆解術（剝離術）	Pneumonolysis, intrapleural(extrapleural)
+67022B	全肺切除及胸廓成形術或支氣管成形術	Pneumonectomy with concomitent thoracoplasty or bronchoplasty
+67023B	一葉肺葉切除	Lobectomy
+67024B	肺全切除術	Pneumonectomy, total
+67025B	球填充術	Plombage thoracoplasty
+67026B	空洞成形術	Cavernostomy
+67027B	支氣管瘻管閉鎖術	Close of bronchial fistula
+67028B	肺合併臟器切除	Combined resection of lung cancer
+67029B	肺袖式切除	Sleeve resection
+67030B	重次開胸手術	Re-thoracotomy
+67031B	門脈減壓術	Surgery of portal hypertension
+67032B	氣管、支氣管、細支氣管異物除去術－開胸術	by exploration
+67033B	支氣管鏡併做腫瘤切(摘)除	Bronchoscopic excision/removal of tumor
+67034B	胸膜固定(黏合)術	Pleurodesis
+67035B	肺膿瘍切開術	Lung incision for abscess
+67036B	先天性凹凸胸矯正術	Reconstruction of congenital funnel or pigeon chest
+67037B	支氣管內擴張術	Endobronchial dilatation
+67038B	胸壁切除術(十公分以上)	Chest wall resection≧10cm
+67039B	惡性腫瘤胸壁切除	Wide excision of malignant chest wall diseases
+67040B	廣泛性胸腺切除	Extensive thymectomy
+67041B	複雜胸廓擴創術 十公分以上	Complicated debridement of chest wall≧10cm
+67042B	二葉肺葉切除	Bilobectomy
+67043B	簡單凹凸胸矯正術 (小於六根)	Reconstruction of congenital funnel or pigeon chest
+67044B	複雜凹凸胸矯正術 (六根以上)	Complicated correction of chest wall deformity
+67045B	成人凹凸胸矯正術	Correction of adult chest wall deformity
+67046C	氣管內腔置管術	Tracheal stent intubation
+67047B	胸腔鏡肺膜剝脫術	Thoracoscopic Decortication of Pleura (VATS)
+67048B	胸腔鏡肋膜黏合術	Thoracoscopic Pleurodesis (VATS)
+67049B	胸腔鏡全肺切除術	Thoracoscopic Pneumonectomy (VATS)
+67050B	胸腔鏡肺葉切除術	Thoracoscopic Lobectomy (VATS)
+67051B	胸腔鏡肺楔狀或部分切除術	Thoracoscopic wedge or Partial resection of the Lung (VATS)
+67052B	胸腔鏡胸管結紮術	VATS with thoracic duct ligation
+67053B	胸腔鏡肺分葉切除術	Thoracoscopic segmentectomy of lung (VATS)
+67054B	胸腔鏡肺葉袖形切除術	Thoracoscopic sleeve lobectomy (VATS)
+67055B	納氏胸廓異常矯正術	Nuss Procedure for chest wall deformity
+68001B	探查性心包膜切開術	Pericardiotomy with exploration
+68002B	心包膜穿刺放液術	Pericardiocentesis
+68003B	心包膜切除術	Pericardiectomy
+68005B	心臟縫補術	Cardiorrhaphy for heart wound or injury
+68006B	探查性開心術：包括移除異物	Exploratory cardiotomy including removal of foreign body
+68007B	人工ASD Blalock-Hanlon 法	Creation of atrial septal defect, Blalock-Hanlon type, closed
+68008B	人工ASD Rashkind 法	Creation, atrial-septal-defect Rashkind type, including-cardiac catheterization
+68009B	人工 ASD血流進口阻斷法	Creation of ASD with inflow occlusion
+68010B	心內腫瘤切除及繞道手術	Excision of tumor intracardiac
+68011B	經胸切開術裝置或置換永久性心內節律器及心肌電極	Insertion or replacement of permanent internal pacemaker & myocardial electrodes by thoracotomy
+68012B	插入或置換永久性節律器—單導線	Insertion or replacement of permanent pacemaker —Single electrode catheter
+68013B	經靜脈插入暫時性電極	Temporary insertion, transvenous electrode
+68015B	瓣膜成形術	Valvular and/or annuloplasty
+68016B	主動脈瓣或二尖瓣或三尖瓣之置換手術	Single valve replacement
+68017B	兩個瓣膜換置	Double valves replacement
+68018B	三個瓣膜換置	Triple valves replacement
+68019B	心室動脈瘤之修補	Repair, ventricular aneurysm
+68020B	ASD修補	Repair, atrial septal defect, secundum
+68021B	心內膜墊缺陷之修補手術	Repair, endocardial cushion defect
+68022B	Valsalva-sinus 瘻管之修補手術	Repair, fistula sinus of valsalva
+68023B	冠狀動脈繞道手術－ 一條血管	Coronary artery bypass grafting(CABG) one vessel
+68024B	冠狀動脈繞道手術－ 二條血管	Coronary artery bypass grafting(CABG) two vessels
+68025B	冠狀動脈繞道手術－ 三條血管	Coronary artery bypass grafting(CABG) three vessels
+68026B	腔靜脈回流右心房異常之修補手術	Repair, anomalous venous return total or partial
+68027B	室中隔缺損(VSD)修補手術	Repair ventricular septal defect
+68028B	四合群症之修補	(T.F) Repair tetralogy of Fallot
+68029B	二尖瓣擴張術	Closed mitral or open mitral commissurotomy
+68030B	心內膜切片	Endocardium biopsy
+68031B	心外膜切片	Epicardium biopsy
+68032B	主動脈轉位症手術	Correction of transposition of great arteries
+68034B	心臟摘取	Heart procurement
+68035B	心臟植入	Heart implantation
+68036B	體外循環維生系統(ECMO)建立(第一次)	Extracorporeal circulation – first time
+68037B	肺臟移稙－單肺	Lung transplantation Unilateral lung
+68038B	肺臟摘取	Lung harvest (donor pneumonectomy)
+68039B	四合群症之繞道手術	B-T shunt of TF
+68040B	經導管主動脈瓣膜置換術	Transcatheter Aortic Valve Implantation(TAVI)
+68041B	插入或置換永久性節律器—多導線	Insertion or replacement of permanent pacemaker —Multiple electrode catheters
+68042B	右心室至肺動脈心導管連接術(萊斯特利術式)	（Rastelli operation）
+68043B	A型急性主動脈剝離術	Surgery for A type aortic dissection
+68044A	經皮移除心臟內電極導線	Removal of Cardiac Lead from Heart, Percutaneous Approach
+68047B	肺臟移稙－雙肺，連續性或同時性	Lung transplantation bilateral sequential or en bloc double lung
+68048B	經皮穿腔心臟中膈肌切除術	Percutaneous transluminal septal myocardial ablation
+68049B	胸腔鏡心包膜開窗術	Thoracoscopic Pericardial Window (VATS)
+68050B	心房切割隔間之不整脈手術	Arrhythmia surgery via atriotomy
+68051B	心室輔助裝置植入	Ventricular Assist System implantation
+68052B	「體外心肺循環	」(Cardiopulmonary bypass)
+68053B	冠狀動脈繞道手術－ 四條血管	Coronary artery bypass grafting(CABG) four vessels
+68054B	冠狀動脈繞道手術－ 五條血管	Coronary artery bypass grafting(CABG) five vessels
+68055B	冠狀動脈繞道手術－ 六條血管	Coronary artery bypass grafting(CABG) six vessels
+68056B	心房-肺動脈迴路成形術	Fontan operation
+68057B	經導管肺動脈瓣膜置換術	Transcatheter pulmonary valve implantation ,TPVI
+68058B	尾崎式手術（主動脈瓣之自體/人工心包膜新瓣葉重建手術）	Ozaki procedure: Aortic Valve Neocuspidization with Glutaraldehyde-treated Autologous Pericardium
+68059B	尾崎式手術（主動脈瓣之自體/人工心包膜新瓣葉重建手術）-包含心臟瓣膜彌補物尺寸器	Ozaki procedure: Aortic Valve Neocuspidization with Glutaraldehyde-treated Autologous Pericardium-with Ozaki AVNeo Sizer
+68060B	經導管二尖瓣緣對緣修補術	Transcatheter edge-to-edge Mitral valve repair
+68061B	經靜脈心臟再同步治療裝置植入術	Transvenous cardiac resynchronization therapy devices implantation
+69001B	動脈栓塞物切除術	Embolectomy, arterial
+69002B	經動脈導管之栓塞物切除術	Embolectomy, arterial catheter
+69003B	靜脈血栓切除術	Thrombectomy, venous
+69004B	動脈內膜切除術	Arterial endarterectomy with or without bypass graft
+69005B	血管探查	Exploration, vascular
+69006C	血液透析用之血管插管（自靜脈到靜脈）	Insertion cannula for hemodialysis or other purpose, vein to vein
+69007B	動靜脈之血管插管：Scribner型	Insertion cannula arterio-venous, external scribner type
+69008B	血管吻合術	Anastomosis of blood vessel
+69009B	動脈縫合	Arteriorrhaphy
+69010B	頸動脈之結紮	Ligation external, carotid artery
+69011B	股靜脈結紮	Ligation, femoral vein
+69012B	下腹動脈結紮後分離（用於產後大出血或骨盆出血）	Hypogastric artery ligation related to postpartum hemorrhage or uncontrolled bleeding of pelvis
+69013B	長隱靜脈於隱－股交接處的結紮和分離	Ligation & division of long saphenous vein at sapheno-femoral junction
+69014B	長或短隱靜脈的結紮，分離和完全剝出－單側	Ligation and division and complete stripping of long or short saphenous vein unilateral
+69015B	長或短隱靜脈的結紮，分離和完全剝出－雙側	Ligation and division and complete stripping of long or short saphenous vein bilateral
+69016B	長及短隱靜脈的結紮，分離和完全剝出－單側	Ligation and division and complete stripping of long and short saphenous vein unilateral
+69017B	長及短隱靜脈的結紮，分離和完全剝出－雙側	Ligation and division and complete stripping of long and short saphenous vein bilateral
+69018B	頸靜脈結紮	Ligation of jugular venous
+69019B	根除性筋膜下剝出(如Luinton法)有或無皮膚移植	Stripping, subfascial, radical as Linton type with or without skin graft
+69020B	小隱靜脈在隱－膝膕靜脈交接處的結紮和分離	Ligation and division of short saphenous vein at sapheno- popliteal junction
+69021C	其他小靜脈曲張之縫合，結紮或剝除	Suture, ligation or stripping of minor varicose vein
+69022B	肺動脈栓塞切除術	Embolectomy, pulmonary artery
+69023B	頸 (肢體)動靜瘻管之切除移植及直接修補，右繞道手術	Excision and graft bypass or direct repair of A-V fistula, neck or extremity
+69024B	胸（腹）部動靜瘻管之切除移植及直接修補手術—升主動脈	Excision and graft bypass or direct repair A-V fistula of chest or abdomen
+69025B	肺動脈結紮	Pulmonary artery banding
+69026B	主動脈－肺動脈開窗之修補手術	Repair aorto-pulmonary window
+69027B	主動脈狹窄之修補	Repair coarctation aorta
+69028B	頸動脈體瘤切除術	Excision tumor, carotid body
+69029B	術後出血或栓塞探查術－頸部	Exploration for postoperative hemorrhage or thrombosis neck
+69030B	術後出血或栓塞探查術－胸部	Exploration for postoperative hemorrhage or thrombosis chest
+69031B	存開性動脈導管手術	Surgical obliteration for PDA
+69032C	末稍血管修補及吻合術	Repair and anastomosis of peripheral vessel
+69033B	肺動脈瓣氣球擴張術	Balloon pulmonary valvuloplasty
+69034C	動靜脈造瘻術合併人工血管使用(兩處吻合)	A-V shunt with goretex graft
+69035B	主動脈根部術（含主動脈瓣置換或保留）	Bentall procedure
+69036B	胸（腹）部動靜瘻管之切除移植及直接修補手術—主動脈弓	Excision and graft bypass or direct repair A-V fistula of chest or abdomen
+69037B	胸（腹）部動靜瘻管之切除移植及直接修補手術—降主動脈	Excision and graft bypass or direct repair A-V fistula of chest or abdomen
+69038C	末稍血管修補及吻合術併血管移植	Repair or anastomosis of peripheral vessel with graft
+69039B	內頸靜脈切開，永久導管放置術	Permanent Catheter implantation through internal jugular vein
+69040B	子宮動脈結紮與分離	uterine artery ligation
+69041B	開放性周邊動靜脈血管繞道手術-使用人工血管	Open vascular bypass grafting with synthetic graft
+69042B	開放性周邊動靜脈血管繞道手術-使用自體血管— 一條血管繞道	Open vascular bypass grafting with autologous venous graft single bypass grafting
+69043B	開放性周邊動靜脈血管繞道手術-使用自體血管— 兩條以上血管繞道	Open vascular bypass grafting with autologous venous graft multiple bypass grafting
+69044B	頸部外傷探查術	Exploration of neck for trauma
+70001B	脾臟切除術	Splenectomy
+70002B	脾臟修補術	Splenorrhaphy
+70003B	部份脾切除術	Partial splenectomy
+70004B	自體脾再植	Auto-implantation of spleen
+70005B	脾腎靜脈分流術（包含脾摘除）	Splenorenal shunt (including splenectomy)
+70006B	腹腔鏡脾切除術	Laparoscopic Splenectomy
+70201C	淋巴腺活體切片	Biopsy lymphnode
+70202C	結核性淋巴腺炎瘻管切除－ 淺部	Excision of T.B lymphadenitis fistula superficial
+70203B	結核性淋巴腺炎瘻管切除－ 深部	Excision of T.B lymphadenitis fistula deep
+70204B	腋下淋巴腺腫切除術	Removal of axillary lymphnode
+70205B	標準腋下淋巴廓清術	Axillary lymph node dissection
+70206C	腹股溝淋巴腺腫切除術	Excision of inguinal lymphnode
+70207B	腹股溝淋巴腺腫根治清除術	Radical inguinal lymphnode dissection
+70208B	骨盆腔淋巴腺切除術	Pelvic lymphadenectomy
+70209B	後腹膜腔淋巴腺切除術	Retroperitoneal lymphadenectomy
+70210B	髖鼠蹊部淋巴根除術－ Unilateral 單側	Ileo-inguinal lymphadenectomy Unilateral
+70211B	髖鼠蹊部淋巴根除術－ Bilateral 雙側	Ileo-inguinal lymphadenectomy Bilateral
+70212B	淋巴囊腫去除術	Lymphocelectomy
+70213B	根除性淋巴切除術(肺葉切除或全肺切除時)	Radical lymphadenectomy (with lobectomy or pneumonectomy)
+70214B	縱膈腔或胸腔內淋巴根除術	Mediastinal or thoacic LN dissections
+70215B	腹腔鏡骨盆腔淋巴腺切除術	Laparoscopic pelvic lymphadenectomy
+70216B	腹腔鏡後腹膜腔淋巴腺切除術	Laparoscopic retroperitoneal lymphadenectomy
+70401B	良性簡單縱膈腔腫瘤切除(小於五公分)	Benign mediastinal mass excision (< 5cm)
+70402B	縱膈膜切開術	Mediastinotomy
+70403B	由胸部穿過肋膜進入取出異物	Removal of foreign body, mediastinum transthoracic,intercostal approach
+70404B	橫膈摺疊術	Diaphragmatic fundo-plication
+70405B	經由腹腔之橫膈赫尼亞之修補	Repair of diaphragmatic hernia trans-abdominal
+70406B	經胸廓進入橫膈赫尼亞之修補	Repair of diaphragmatic hernia transthoracic
+70407B	外傷性急性橫膈赫尼亞之修補	Repair of acute traumatic Diaphragmentic hernia
+70408B	由頸部進入縱膈腔切開術合併探查或引流	Mediastinotomy with exploration or drainage,cervical approach
+70409B	由胸部進入縱膈腔切開術合併探查或引流	Mediastinotomy with exploration or drainage transthoracic intercostal apporach
+70410B	由胸骨切開進入縱膈腔切開術合併探查或引流	Mediastinotomy with exploration or drainage by sternal split
+70411B	由頸部進入取出異物	Removal foreign body of mediastinum,cervical of approach
+70412B	由胸骨切開進入取出異物	Removal of foreign body mediastinum by sternal split
+70413B	由胸腹部合併進入橫膈赫尼亞之修補	Repair of diaphragmatic hernia, combined thoraco-abdominal approach
+70414B	良性複雜縱膈腔腫瘤切除(五公分以上)	Benign complicated mediastinal mass excision (≧5cm)
+70415B	惡性縱膈腔腫瘤切除	Malignant mediastinal tumor resection
+70416B	胸腔鏡縱膈腔腫瘤切除術(小於五公分)	Thorecoscopic Excision of Mediastinal Tumor (<5cm)
+70417B	胸腔鏡縱膈腔腫瘤切除術(五公分以上)	Thorecoscopic Excision of Mediastinal Tumor (≧5cm)
+70418B	腹腔鏡Nissen氏胃摺疊術	Laparoscopic Nissen Fundoplication
+70419B	Nissen氏胃摺疊術	Nissen Fundoplication
+70420B	腹腔鏡經由腹腔之橫膈疝氣之修補	Laparoscopic repair of diaphragmatic hernia trans-abdominal
+71001B	口腔或口咽腫瘤切除	Oral tumor or oropharynx excision
+71002C	蝦蟆腫切開術	Incision of ranula
+71003C	蝦蟆腫切除術	Excision of ranula
+71004B	舌部份／楔狀切除術	Partial/wedge glossectomy
+71005C	舌修補術	Repair of tongue injury or wound
+71006C	顎扁桃摘出術	Resection of Platine tonsil
+71007C	舌扁桃切除術	Lingual tonsillectomy
+71008C	咽扁桃切除術	Adenoid tonsillectomy
+71009C	冷凍扁桃腺手術	Cryotherapy for tonsillar
+71010B	下頷腺切除術	Ablation of submaxillary gland
+71011C	口腔黏膜切片	Biopsy of oral mucosa
+71012B	口腔或口咽腫瘤切除，並頸淋巴腺根除術	Oral tumor or oropharynx excision with radical neck dissection
+71013B	舌癌摘出術，包括淋巴節切除及頸部清除術	Tongue cancer excision with lymphadenectomy & radical neck dissection
+71014B	舌骨上區清除術	Suprahyoid dissection
+71015B	耳下腺腫瘤切除術	Excision of parotid tumor
+71016B	舌半切除術	Hemiglossectomy
+71017B	舌全切除術	Total glossectomy
+71018B	內上頷動脈結紮	Ligation of internal maxillary artery
+71019B	腮腺切除術，全葉摘除	Parotidectomy, total lobectomy
+71020B	腮腺切除術，切除	Parotidectomy, excision
+71021B	口腔底部整體切除術	Commando op.
+71022B	口腔複合性切除術	Composite resection for oral cancer
+71023B	深頸部切開引流術	Deep neck incision & drainage (I&D)
+71201B	食道肌切開術	Esophageal myomectomy
+71202B	食道憩窒切除術	Excision of esophageal diverticulum
+71203C	食道內腔置管術	Endoesophageal intubation
+71204B	食道胃底改道術	Esophagofundostomy bypass
+71205B	食道胃底吻合術	Esophagofundostomy
+71206B	食道胃改道術	Esophagogastrostomy bypass
+71207B	逆行食道擴張術	Retrograde esophageal dilatation (esophagectasia, retrograde)
+71208B	食道、胃瘻管縫合術	Esophagogastric fistula closure
+71209B	食道切除術	Esophagectomy
+71210B	食道切除再造術	Esophagectomy & reconstruction
+71211B	食道切開術	Esophagotomy
+71212B	食道瘤及囊腫切除術	Excision of esophageal cyst & tumor
+71213B	食道再造術－以胃管重建	Esophageal reconstruction with gastric tube
+71214B	食道裂傷修補術	Repair of esophageal laceration
+71215B	一般性食道癌摘除術（含淋巴節清掃）	Simple excision of esophageal cancer, with lymphadenectomy
+71216B	食道靜脈瘤曲張結紮,經胸或經腹	Ligation of esophageal varices, transthoracic or transabdominal
+71217B	食道靜脈瘤曲張結紮，脾臟切除併近心端胃血管去除－經胸	Devascularization procedure transthoracic
+71218B	食道靜脈瘤曲張結紮，脾臟切除併近心端胃血管去除－經腹	Devascularization procedure transabdominal
+71219B	胃食道內管留置（胃賁門癌或食道癌）	Esophagogastric stent for esophagus or cardia portion cancer
+71220B	食道再造術－以大腸重建	Esophageal reconstruction with colon
+71221B	食道再造術－以小腸重建	Esophageal reconstruction with small intestine
+71222B	複雜性食道癌摘除術（含淋巴節清掃）	Complicated excision of esophageal cancer, with lymphadenectomy
+71223B	胸腔鏡食道瘤及囊腫切除術	Thoracoscopic Excision of Esophageal Cyst and Tumor (VATS)
+71224B	胸腔鏡食道切除術	Thoracoscopic Esophagectomy (VATS)
+71225B	胸腔鏡或腹腔鏡食道肌肉切開術	Thoracoscopic or Laparoscopic Esophagomyotomy(Heller myotomy) (VATS)
+71226B	胸(腹)腔鏡食道憩窒切除術	Thoracoscopic (Laparoscopic) excision of esophageal diverticulum (VATS)
+71227B	胸(腹)腔鏡食道胃管重建術	Thoracoscopic (Laparoscopic) esophageal reconstruction with gastric conduit (VATS)
+71228B	腹腔鏡食道靜脈瘤曲張結紮，經胸或經腹	Laparoscopic ligation of esophageal varices, transthoracic or transabdominal
+71229B	腹腔鏡食道靜脈瘤曲張結紮，脾臟切除併近心端胃血管去除－經腹	Laparoscopic devascularization procedure- transabdominal
+72001B	胃切開術－ 探查性	Gastrotomy exploration
+72002B	胃切開術－ 異物移除	Gastrotomy removal of foreign body
+72003B	幽門肌肉切開術(Fredet-Ramstedt型手術）	Pyloromyotomy, Fredet-Ramstedt
+72006B	胃潰瘍或腫瘤的局部切除	Local excision, ulcer or tumor
+72007B	胃全部切除術	Gastrectomy,total & angreconstruction
+72008B	胃造瘻術及幽門成形術	Gastrostomy & pyloroplasty
+72009B	次全或半胃切除術及胃十二指腸吻合術－無迷走神經切除	Subtotal gastrectomy or hemigastrectomy with gastro-duodenostomy without vagotomy
+72010B	次全或半胃切除術－伴有迷走神經切除	Gastrectomy,subtotal or hemigastrectomy with vagotomy
+72011B	迷走神經切斷術加幽門成形術	Vagotomy and pyloroplasty
+72012B	幽門成形術	Pyloroplasty
+72013B	胃十二指腸造口吻合術	Gastro-duodenostomy
+72014B	胃空腸造口吻合術	Gastrojejunostomy
+72015B	胃小腸造口吻合術	Gastroenterostomy
+72016B	胃空腸造口吻合術（伴有迷走神經切斷術）	Gastrojejunostomy with vagotomy
+72017C	胃造口術	Gastrostomy
+72018B	十二指腸縫合術（十二指腸潰瘍穿孔的縫合）	Duodenorrhpahy, suture of perforated ulcer
+72019B	胃縫合術（胃潰瘍穿孔及胃部傷口的縫合）	Gastrorrhaphy, suture or repair wound, injury perforated ulcer of stomach
+72020B	胃十二指腸造口再修正併或不併迷走神經切除	Revision of gastroduodenostomy with or without vagotomy
+72021B	胃切除後因出血而再剖開	Re-exploration for postgastrectomy bleeding
+72022C	胃造口閉口	Closure of gastrostomy
+72023B	十二指腸造口術	Duodenostomy
+72024B	十二指腸腫瘤切除	Excision of duodenum tumor
+72025B	十二指腸憩室切除或內翻	Excision or inversion of duodenal diverticulum
+72026B	十二指腸瘻管閉合	Closure of duodenal fistula
+72027B	十二指腸阻塞	Duodenal obstruction
+72028B	高度選擇性迷走神經切斷術	Highly selective vagotomy
+72029B	迷走神經切斷術	Vagotomy
+72030B	胃賁門及食道切除再造術	Proximal gastrectomy & esophagectomy & reconstruction
+72031B	胃全部切除術併行脾或部份胰切除	Gastrectomy, total, with splenectomy or partital pancreatectomy
+72032B	全胃切除及淋巴清除及腸胃重建	Total gastrectomy, with LN dissection, with reconstruction (any type)
+72033B	胃空腸造口再修正	Revision of gastrojejunostomy
+72034B	殘留胃竇切除術	Resection of retained antrum, postgastrectomy
+72036B	經十二指腸括約肌成形術	Transduodenal sphinteroplasty
+72037B	胃折疊術	Plication of stomach
+72038B	胃固定術(胃扭結)	Gastropexy for gastric volvulus
+72039B	消化道華達壺腹切開術	EPT (endoscopic papillectomy)
+72040B	抗胃食道逆流術	Belsy’s mark iv anti-reflux procedure
+72042B	胃切開術－ 潰瘍縫合及止血	Gastrotomy with suture repair of bleeding ulcer
+72043B	次全或半胃切除術及胃空腸吻合術－無迷走神經切除	Subtotal gastrectomy or hemigastrectomy with gastrojejunostomy without vagotomy
+72044B	次全或半胃切除術及胃空腸吻合術 Roux-en-Y 型－無迷走神經切除	Subtotal gastrectomy or hemigastrectomy with Roux-en-Y gastrojejunostomy -without vagotomy
+72045C	腹腔鏡胃造瘻術	Laparoscopic gastrostomy
+72046B	95%胃切除及淋巴清除及腸胃重建	Near total gastrectomy, with LN dissection, with reconstruction
+72047B	次全胃切除及淋巴清除及腸胃重建	Radical subtotal gastrectomy, with reconstruction
+72048B	腹腔鏡胃亞全切除術	Laparoscopic subtotal gastrectomy
+72049B	腹腔鏡胃迷走神經切斷術合併引流術	Laparoscopic valgotomy and drainage
+72050B	內視鏡黏膜切除術	Endoscopic mucosal resection (EMR)
+72051B	腹腔鏡胃袖狀切除術	Laparoscopic Sleeve Gastrectomy
+72052B	腹腔鏡胃繞道手術	Laparoscopic Gastric Bypass
+72053B	腹腔鏡幽門肌肉切開術	Laparoscopic pyloromyotomy, Fredet-Ramstedt
+72054B	腹腔鏡胃部分切除術（潰瘍或腫瘤）	Laparoscopic partial gastrectomy（ulcer or tumor）
+72055B	腹腔鏡胃空腸造口吻合術	Laparoscopic gastrojejunostomy
+72056B	腹腔鏡十二指腸縫合術（十二指腸潰瘍穿孔的縫合）	Laparoscopic duodenorrhaphy, suture of perforated ulcer
+72057B	腹腔鏡胃縫合術（胃潰瘍穿孔及胃損傷縫合）	Laparoscopic gastrorrhaphy(perforated peptic ulcer or stomach injury)
+72058B	腹腔鏡全胃切除-併淋巴清除及腸胃重建	Laparoscopic total gastrectomy with lymph node dissection,with reconstruction (any type)
+72059B	腹腔鏡次全胃切除-併淋巴清除及腸胃重建	Laparoscopic subtotal gastrectomy with lymph node dissection,with reconstruction (any type)
+72060B	內視鏡及透視鏡導引腸胃道金屬支架置放術	Endoscopy and fluoroscopy guided metallic gastroduodenal stent placement
+73001B	腸粘連分離術	Enterolysis, freeing adhesion
+73002B	腸粘連分離術－併行腸減壓	Enterolysis with bowel decompression
+73003B	腸粘連分離術－併有腸切除及吻合	Enterolysis with resection & anastomosis of intestine
+73004B	腸外置術（Mikulicz切除）	Exteriorization of intestine, Mikulicz resection
+73005B	腸套疊之還原	Reduction of intussusception
+73006B	腸套疊還原及腸切除和吻合	Reduction of intussusception with bowel resection & anastomosis
+73007B	腸套疊還原及腸造口或結腸造口	Reduction of intussusception with enterostomy or colostomy
+73008B	良性腸病灶切除術	Excision, Benign bowel lesion
+73009B	邁克氏憩室切除術	Meckel's diverticulectomy
+73010B	小腸切除術加吻合術	Resection of small bowel, with anastomosis
+73011B	結腸部分切除術加吻合術	Colectomy, partial, with anastomosis
+73012B	根治性半結腸切除術加吻合術，升結腸	Colectomy, radical hemicolectomy with anastomosis, ascending colon
+73013B	降結腸或乙狀結腸切除術加吻合術	Left hemicolectomy or sigmoid colectomy
+73014B	降結腸或乙狀結腸切除術併行吻合術及淋巴節清掃	Left hemicolectomy or sigmoid colectomy with anastomosis with lymph node
+73015B	結腸全切或次全切除術－ 良性	Colectomy, total or subtotal benign
+73017B	結腸全切除術併行直腸切除術及迴腸造口	Colectomy, total with proctectomy, with ileostomy
+73018B	單純性結腸造口或腸造口矯正	Revision of colostomy or enterostomy simple,superficial
+73020C	蹄形小腸或結腸造瘻管關閉	Closure of enterostomy or Colostomy（loop or double-barrel）
+73022B	腸造口術(包括結腸、空腸、永久性小腸)	Enterostomy (including colostomy、Jujunostomy、permanent enterostomy)
+73023B	小腸瘻管關閉術－ 小腸與皮膚	Closure of intestinal fistula Enterocutaneous
+73024B	小腸瘻管關閉術－ 小腸與結腸（或與小腸）	Closure of intestinal fistula entero-colic or entero-entero
+73025B	小腸瘻管關閉術－ 其他器官或包括合併症	Closure of intestinal fistula fistula of bowel with other organs or complicated
+73026B	結腸瘻管關閉術－ 結腸與皮膚	Closure of colon fistula colocutaneous
+73027B	結腸瘻管關閉術－ 胃與結腸(不包括胃切除)	Closure of colon fistula gastroclic without gastrectomy
+73028B	結腸瘻管關閉術－ 胃與結腸(包括胃切除)	Closure of colon fistula gastroclic with gastrectomy
+73029B	結腸瘻管關閉術－ 結腸與其他器官或合併症	Closure of colon fistula fistula of colon with other organs or complicated
+73030B	腸吻合術－小腸與小腸（十二指腸）吻合術	Anastomosis of bowel entero-enterostomy or duodeno-enterostomy
+73031B	腸吻合術－ 迴腸與結腸吻合術，有間路法	Anastomosis of bowel ileo-colostomy,side to side anas.
+73032B	腸吻合術－ 由小腸閉鎖或狹窄引起	Anastomosis of bowel for intestinal atresia or stenosis
+73033B	小腸穿孔縫補術	Repair of intestinal perforation
+73034B	腸系膜之縫合及修補	Suture and repair of mesentery
+73035B	小腸瘜肉切除術	Resection of intestinal polyp
+73036B	小腸折瘻術	Intestinal plication, Noble type
+73037B	管腸造口或管盲腸造口	Tube enterostomy or tube cecostomy
+73038B	迴腸結腸吻合處切開及重建術	Take down of anastomosis, revision of ileo-colostomy and reconstruction
+73039B	經由剖腹術行小腸或結腸造瘻管關閉及吻合	Closure of enterostomy or colostomy anastomosis ,by laparotomy
+73040B	迴腸尿液引流袋修正術	Revision of ileasl conduit
+73041B	腸反逆流合術	Antireflux procedure in the intestine
+73042B	複雜性（進入腹腔）結腸造口或腸造口矯正	Revision of colostomy or enterostomy complicated, deep
+73043B	腹腔鏡腸粘連剝離術	Laparoscopic adhesionolysis
+73044B	腹腔鏡空腸造瘻術	Laparoscopic jejunostomy
+73045B	經腹腔鏡右側大腸切除術加吻合術	Laparoscopic right colectomy and anastomosis
+73046B	經腹腔鏡乙狀結腸切除術加吻合術－ 良性	Laparoscopic Anterior resection and anastomosis (sigmoid colon resection) benign
+73047B	結腸全切或次全切除術－ 惡性	Colectomy, total or subtotal malignant
+73048B	經腹腔鏡乙狀結腸切除術加吻合術－ 惡性	Laparoscopic Anterior resection and anastomosis (sigmoid colon resection) malignant
+73049B	小腸移植術	Isolated small bowel transplantation
+73050B	屍體小腸摘取術	Cadaveric small intestine harvest
+73051B	腹腔鏡腸套疊之還原	Laparoscopic reduction of intussusception
+73052B	腹腔鏡腸套疊還原-併腸切除和吻合	Laparoscopic reduction of intussusception with bowel resection & anastomosis
+73053B	腹腔鏡腸套疊還原-併腸造口或結腸造口	Laparoscopic reduction of intussusception with enterostomy or colostomy
+73054B	腹腔鏡良性小腸病灶切除術	Laparoscopic excision of benign small intestine lesion
+73055B	腹腔鏡部分小腸切除術加吻合術	Laparoscopic resection of small intestine,with anastomosis
+73056B	腹腔鏡部分大腸切除術	Laparoscopic partial colectomy
+73057B	腹腔鏡左半結腸切除術	Laparoscopic left hemicolectomy
+74001B	闌尾膿瘍之引流	Drainage of appendiceal abscess transabdominal
+74002B	闌尾切除術	Appendectomy
+74003B	闌尾瘻管關閉	Closure of appendiceal fistula
+74004B	腹腔鏡闌尾切除術	Laparoscopic appendectomy
+74005B	腹腔鏡闌尾膿瘍之引流	Laparoscopic drainage of appendiceal abscess
+74201C	直腸周圍膿瘍之切開引流	Incision and drainage for periproctal abscess (I&D)
+74202C	直腸活體組織切片	Rectal incisional biopsy
+74203C	直腸裂傷或損傷之修補	Repair of rectal laceration or injury
+74204B	直腸固定術	Thiersh or Delorme, Rectopexy by stitches fixation
+74205B	根治性直腸切除術 (含骨盆腔淋巴腺切除術)	Radical protectomy with pelvic lymph node dissection
+74206B	Hartmann 氏直腸手術－ 良性	Harmann operation benign
+74207C	經直腸大腸息肉切除術	Transrectal colonic Polypectomy
+74208B	直腸脫出根治手術（經會陰接近及吻合）	Rectal procidentia, perineal approach ,with resection & anastomosis
+74209B	直腸脫出手術（腹部接近）	Rectal procidentia, abdominal approach
+74210B	薦骨與尾骨腫瘤切除，良性	Excision, sacrococcygeal tumor, benign
+74211B	直腸上皮絨毛腺腫廣泛性切除術或癌症局部切除	Extensive excision of sacrococcygeal rectal villous adenoma or malignancy
+74212B	直腸狹窄整形術	Rectoplasty for stricture or stenosis
+74213B	復原性直腸切除以及直腸、肛門吻合術	Restorative proctectomy with colo-anal anastomosis
+74214B	復原性大腸直腸切除迴腸儲存袋以及迴腸肛門吻合術	Restorative proctocolectomy, pelvic ileal pouch with ileoanal anastomosis
+74215B	直腸膀胱瘻管切除術	Closure fistula,reco-vesical
+74216B	直腸癌腹部會陰聯合切除術	Combined abdominoperineal resection for rectal cancer
+74217B	乙狀結腸及直腸切除後 Pull through 方法行直腸肛門吻合術	Proctosigmoidectomy with pull through colon anal anastomosis
+74219B	經尾骨由直腸後部切開行良性病灶切除方法	Posterior proctotomy, transacrococcygeal excision of benign lesion
+74220B	經尾骨由直腸後部切開行直腸癌切除方法	Posterior proctotomy, transacrococcygeal resection of malignant tumor
+74221B	腹腔鏡低前位直腸切除術	Laparoscopic low anterior resection of rectum
+74222B	乙狀結腸及直腸切除後 Pull through 方法行結腸造袋及結腸袋肛門吻合術	Proctosigmoidectomy with pull through colon anal anastomosis,reconstruction with colonic pouch
+74223B	Hartmann 氏直腸手術－ 惡性	Harmann operation malignant
+74224B	腹腔鏡腹部會陰聯合切除術	Laparoscopic combined abdominoperineal resection
+74225B	腹腔鏡Hartmann氏直腸手術	Laparoscopic Hartmann's operation
+74401C	皮下瘻管切開術或切除術	Fistulotomy or fistulectomy,simple, subcutaneous
+74402C	肛門括約肌切開術	Sphincterotomy ,anal
+74403C	肛門裂縫切除術或潰瘍切除術	Fissurectomy or ulcerectomy, anal
+74404C	隱窩切除術－ 單一	Cryptectomy single
+74405C	隱窩切除術－ 多數	Cryptectomy multiple
+74406C	外痔完全切除術	Hemorrhoidectomy, external
+74407C	內外痔部份切除術	Hemorrhoidectomy, partial, internal & external
+74408C	肛門乳突切除術－ 單一	Papillectomy anal single
+74409C	肛門乳突切除術－ 多數	Papillectomy anal multiple
+74410C	內外痔完全切除術	Hemorrhoidectomy, internal & external
+74411C	肛門瘻切除或切開術併痔瘡切除	Anal fistulectomy or fistulotomy with hemorrhoidectomy
+74412C	外痔血栓切除	Thrombectomy, external hemorrhoid
+74413B	肛門狹窄整形術	Anoplasty for stricture or imperforate
+74414B	肛門括約肌失禁整形術	Sphincteroplasty for anal incontinence
+74415B	APR術後Karlex海棉除去術	Removal of Karlex sponge s/p APR
+74416C	結腸肛門止血術	Check anal or colon bleeding
+74417C	內痔結紮	Internal hemorrhoid ligation
+74418B	肛門重建或整形術以S形蒂狀移植	Anal reconstruction or anoplasty with S-pedicle graft
+74419B	提肛肌折疊術	Levator plication procedure
+74420C	複雜性皮下瘻管切開術或切除術	Fistulotomy or fistulectomy,complicated, subcutaneous
+75001B	楔狀活體切片（剖腹探查術）	Wedge biopsy of liver, laparotomy
+75002B	肝部分切除術	Partial hepatectomy
+75003B	肝區域切除術－ 一區域	Segemental hepatectomy one segement
+75004B	肝區域切除術－ 二區域	Segemental hepatectomy two segements
+75005B	肝區域切除術－ 三區域	Segemental hepatectomy three segements
+75006B	肝囊腫或肝膿瘍引流或造袋術	Drainage or marsupialization of cyst or abscess of liver
+75007B	縫肝術（肝損傷縫合，小於五公分）	Hepatorrhaphy, suture of liver wound < 5cm
+75008B	縫肝術及總膽管或膽囊之引流術	Hepatorrhaphy, with common duct or gallbladder drainage
+75009B	縫肝術（複雜肝損傷之縫合或大於五公分）	Hepatorrhaphy, suture of liver wound,complicated or >5cm
+75010B	肝動脈結紮	Hepatic artery ligation for liver bleeding
+75011B	肝腸吻合	Hepato-Enterostomy (Longmire Op.)
+75012B	肝門靜脈分流術	Portocavo shunt (H-graft)
+75014B	Warren氏分流術	Warren's shunt
+75015B	右肝葉切除術	Right lobectomy
+75016B	左肝葉切除術	Left lobectomy
+75017B	擴大右肝葉切除術	Extended right lobectomy
+75018B	擴大左肝葉切除術	Extended left lobectomy
+75019B	切肝取石術	Hepaticotomy or hepaticostomy, Removal of Calculus
+75020B	肝臟移植	Liver(Hepatic) transplantation
+75021B	屍體捐肝摘取	Cadaveric liver harvest(donor hepatectomy)
+75022B	活體捐肝摘取	Partial hepatectomy for livingrelated liver transplantation
+75023B	腹腔鏡肝臟囊腫去頂術	Laparoscopic fenestration for hepatic cyst
+75024B	腹腔鏡楔狀肝臟切片	Wedge biopsy of liver,laparoscopy
+75025B	腹腔鏡肝部分切除術	Laparoscopic liver resection - partial hepatectomy
+75026B	腹腔鏡肝區域切除術－ 一區域	Laparoscopic liver resection one segment
+75027B	腹腔鏡肝區域切除術－ 二區域	Laparoscopic liver resection two segments
+75028B	腹腔鏡肝區域切除術－ 三區域	Laparoscopic liver resection three segments
+75029B	腹腔鏡縫肝術（肝損傷縫合，小於五公分）	Laparoscopic hepatorrhaphy,suture of liver wound < 5 cm
+75030B	腹腔鏡右肝葉切除術	Laparoscopic liver resection - right lobectomy
+75031B	腹腔鏡左肝葉切除術	Laparoscopic liver resection - left lobectomy
+75032B	腹腔鏡擴大右肝葉切除術	Laparoscopic liver resection - extended right lobectomy
+75033B	腹腔鏡擴大左肝葉切除術	Laparoscopic liver resection - extended left lobectomy
+75034B	腹腔鏡活體捐肝摘取	Laparoscopic living donor hepatectomy
+75201B	膽囊造瘻術	Cholecystostomy
+75202B	膽管截石術（經十二指腸）	Choledocholithotomy (transduodenal)
+75203B	膽囊切除術	Cholecystectomy
+75204B	總膽管空腸吻合術	Choledochojejunostomy
+75205B	膽囊消化管吻合術	Cholecystoenterostomy
+75206B	總膽管全切除術	Total excision of common bile duct with reconstruction
+75208B	總膽管切開及Ｔ形管引流	Choledochotomy with T-tube drainage
+75209B	總膽管切開摘石術及Ｔ形管引流	Choledocholithotomy with T-tube drainage
+75210B	膽管成形術	Choledochoplasty
+75211B	膽道組織檢查切片術	Biopsy of biliary tract
+75212B	總膽管十二指腸吻合術	Choledochoduodenostomy
+75213B	肝外膽管成形術	Plasty of extrahepatic bile duct
+75214B	肝瘻管縫合術	Closure of biliary fistula
+75215B	腹腔鏡膽囊切除術	Laparoscopic cholecystectomy
+75216B	ROUX-EN-Y 總肝管腸吻合術	ROUX-EN-Y hepaticojejunostomy
+75218B	腹腔鏡膽管截石術	Laparoscopic choledocholithotripsy
+75219B	腹腔鏡總膽管空腸吻合術	Laparoscopic choledochojejunostomy
+75220B	腹腔鏡總膽管切開摘石術（無或有Ｔ型管引流）	Laparoscopic choledocholithotomy with/without placement of T-tube
+75221B	腹腔鏡膽道組織切片術	Laparoscopic biopsy of bile duct
+75222B	腹腔鏡肝外膽管成形術	Laparoscopic plasty of extrahepatic bile duct
+75401B	胰臟膿瘍或胰炎引流術	Drainage of pancreatic abscess or cyst or pancreatitis
+75402B	胰組織檢查切片	Pancreas incisional biopsy
+75403B	胰臟腫瘤或囊腫切除或摘除術	Excision or enucleation of pancreatic tumor or cyst
+75404B	胰臟尾端部分切除術	Distal partial pancreatectomy
+75405B	胰臟體部分切除術	Body partial pancreatectomy
+75406B	胰瘻切除術	Pancreatic fistulectomy
+75407B	胰囊腫至腸胃道之內部直接引流吻合術	Anastomosis of pancreatic cyst to GI tract direct internal drainage
+75408B	胰囊腫至腸胃道之Ｙ型內部吻合術	Anastomosis of pancreatic cyst to GI tract directinternal drainage (Roux-en-Y)
+75409B	胰臟結石去除術	Removal pancreatic calculus
+75410B	胰臟次全切除術	Pancreatectomy subtotal
+75411B	胰臟全切除術	Total pancreatectomy (95%)
+75412B	Whipple 氏胰、十二指腸切除術	Pancreatico-duodenectomy, Whipple type,with reconstruction
+75413B	胰臟空腸吻合術	Pancreatico-Jejunostomy
+75414B	胰囊腫造袋術	Marsupialization of pancreatic cyst
+75415B	胰臟尾端部分切除術-脾臟保留	Distal partial pancreatectomy - spleen preservation
+75416B	胰臟體部分切除術-脾臟保留	Body partial pancreatectomy - spleen preservation
+75417B	Whipple 氏胰、十二指腸切除術 幽門保留式	Pancreatico-duodenectomy, Whipple type,with reconstruction (pylorus sparing whipple op)
+75418B	屍體胰臟器官移植	Cadaver Pancreas Transplant
+75419B	屍體捐胰摘取	Pancreas Harvest
+75420B	腹腔鏡胰組織切片術	Laparoscopic incisional biopsy of pancreas
+75421B	腹腔鏡胰臟腫瘤或囊腫切除或摘除術	Laparoscopic excision or enucleation of pancreatic tumor or cyst
+75422B	腹腔鏡遠端胰臟尾端切除術	Laparoscopic distal pancreatectomy
+75423B	腹腔鏡胰臟體部分切除術	Laparoscopic body partial pancreatectomy
+75424B	腹腔鏡胰臟結石去除術	Laparoscopic Removal pancreatic calculus
+75425B	腹腔鏡次全胰臟切除術	Laparoscopic subtotal pancreatectomy
+75426B	腹腔鏡胰臟全切除術	Laparoscopic total pancreatectomy
+75427B	腹腔鏡胰十二指腸切除術	Laparoscopic pancreatico-duodenectomy,Whipple type,with reconstruction (including partial gastrectomy)
+75428B	腹腔鏡胰臟空腸吻合術	Laparoscopic Pancreatico-Jejunostomy
+75429B	腹腔鏡胰臟尾端切除術-脾臟保留	Laparoscopic distal pancreatectomy- spleen preservation
+75430B	腹腔鏡Whipple氏胰、十二指腸切除術(幽門保留)	Laparoscopic pancreatico-duodenectomy,Whipple type,with reconstruction (pylorus- preserving)
+75601C	腹壁膿瘍引流術	Drainage of abdominal wall abscess
+75602C	腹壁腫瘤切除術－ 良性	Excision of abdominal wall tumor benign
+75603B	腹壁腫瘤切除術－ 惡性	Excision of abdominal wall tumor malignant
+75604B	腹壁疝氣修補術－ 併腸切除	Repair of ventral hernia with bowel resection
+75605C	腹壁疝氣修補術－ 無腸切除	Repair of ventral hernia without bowel resection
+75606B	鼠蹊疝氣修補術－ 併腸切除	Repair of inguinal hernia with bowel resection
+75607C	鼠蹊疝氣修補術－ 無腸切除	Repair of inguinal hernia without bowel resection
+75608B	腰椎疝氣修補術	Repair of lumbar hernia
+75609B	腹腔膿瘍灌洗	Peritoneal lavage
+75610B	腹腔鏡疝氣修補術	Laparoscopic herniorrhaphy
+75611C	腹壁疝氣修補術，嵌頓性 － 無腸切除	Repair of ventral hernia incarceration-without bowel resection
+75612C	腹壁疝氣修補術，復發性 － 無腸切除	Repair of ventral hernia recurrence-without bowel resection
+75613C	鼠蹊疝氣修補術，嵌頓性－ 無腸切除	Repair of inguinal hernia incarceration -without bowel resection
+75614C	鼠蹊疝氣修補術，復發性－ 無腸切除	Repair of inguinal hernia recurrence - without bowel resection
+75615C	股疝氣修補術－ 無腸切除	Repair of femoral hernia - without bowel resection
+75616B	腹腔鏡腹壁疝氣修補術－併腸切除	Laparoscopic Repair of ventral hernia with bowel resection
+75617C	腹腔鏡腹壁疝氣修補術－ 無腸切除	Laparoscopic Repair of ventral hernia without bowel resection
+75618B	腹腔鏡鼠蹊疝氣修補術－ 併腸切除	Laparoscopic Repair of inguinal hernia with bowel resection
+75619C	腹腔鏡鼠蹊疝氣修補術－ 無腸切除	Laparoscopic Repair of inguinal hernia without bowel resection
+75620B	腹腔鏡腰椎疝氣修補術	Laparoscopic repair of lumbar hernia
+75621C	腹腔鏡腹壁疝氣修補術，嵌頓性－無腸切除	Laparoscopic Repair of ventral hernia incarceration-without bowel resection
+75622C	腹腔鏡腹壁疝氣修補術，復發性－無腸切除	Laparoscopic Repair of ventral hernia recurrence-without bowel resection
+75623C	腹腔鏡鼠蹊疝氣修補術，嵌頓性－無腸切除	Laparoscopic Repair of inguinal hernia incarceration -without bowel resection
+75624C	腹腔鏡鼠蹊疝氣修補術，復發性－無腸切除	Laparoscopic Repair of inguinal hernia recurrence - without bowel resection
+75625C	腹腔鏡股疝氣修補術－無腸切除	Laparoscopic Repair of femoral hernia - without bowel resection
+75801C	腹腔內膿瘍引流術治療急性穿孔性腹膜炎	Drainage of intraabdominal abscess for acute perforation peritonitis
+75802B	膈下膿瘍引流術	Drainage of subphrenic abscess
+75803C	骨盆腔膿瘍引流術－ 經腹	Drainage of pelvic abscess transabdominal
+75804C	骨盆腔膿瘍引流術－ 經肛門	Drainage of pelvic abscess transanal
+75805B	剖腹探查術	Exploratory laparotomy
+75806B	腹腔良性腫瘤切除術	Excision of intraabdominal tumor, benign
+75807B	後腹腔良性腫瘤切除術	Excision of retroperitoneal tumor, benign
+75808B	腹腔內異物卻除術	Removal of intraabdominal foreign body
+75809B	後腹腔剖腹探查術	Retroperitoneal exploratory laparotomy
+75810B	腹腔惡性腫瘤切除術	Excision of intraabdominal tumor, malignant
+75811B	後腹腔惡性腫瘤切除術併後腹腔淋巴腺摘除術	Excision of retroperitoneal tumor, malignant with retroperitoneal lymphadenectomy
+75812B	腹腔靜脈分流術	Peritoneo-Venous shunt
+75813B	臍尿管或瘻管切除術與部分膀胱切除術	Excision of Urachal duct or fistula with partial cystectomy
+75814B	腹壁損傷修復術－ 簡單	Repair of abdominal wall injury simple with/without reconstruction
+75815B	腹壁損傷修復術－ 廣泛性	Repair of abdominal wall injury extensive with reconstruction or prosthesis
+75816B	腹壁縫合裂開剜臟術，第二次縫合	Suture of abdominal wall for evisceration of dehiscence for secondary closure
+75817C	腹腔鏡腹腔內膿瘍引流術治療急性穿孔性腹膜炎	Laparoscopic Drainage of intraabdominal abscess for acute perforation peritonitis
+75818B	腹腔鏡膈下膿瘍引流術	Laparoscopic drainage of subphrenic abscess
+75819C	腹腔鏡骨盆腔膿瘍引流術－經腹	Laparoscopic Drainage of pelvic abscess- transabdominal
+75820B	腹腔鏡腹腔探查術	Exploratory Laparoscopic Surgery
+75821B	腹腔鏡腹腔內良性腫瘤切除術	Laparoscopic excision of intraabdominal tumor, benign
+75822B	腹腔鏡後腹腔良性腫瘤切除術	Laparoscopic excision of retroperitoneal tumor,benign
+75823B	腹腔鏡腹腔內異物卻除術	Laparoscopic removal of intraabdominal foreign body
+75824B	腹腔鏡後腹腔探查術	Laparoscopic retroperitoneal exploration
+75825B	腹腔鏡腹腔內惡性腫瘤切除術	Laparoscopic excision of intraabdominal tumor, malignant
+75826B	腹腔鏡後腹腔惡性腫瘤切除術併後腹腔淋巴腺摘除術	Laparoscopic excision of retroperitoneal tumor,malignant with retroperitoneal lymphadenectomy
+75827B	軀幹體腔出血緊急填塞止血手術（損傷控制手術）	Torso cavity packing for hemostasis
+76001B	腎周圍或腎臟腫瘤之引流術	Drainage abscess perirenal or renal
+76002B	腎盂切開探查引流或切除	Pyelotomy with exploration drainage or pyelolithotomy
+76003B	腎臟切片手術	Open renal biopsy Open renal biopsy
+76004B	腎切除術	Nephrectomy
+76005B	腎部份切除術	Partial nephrectomy
+76006B	腎囊切除術，單側	Decapsulation cyst kidney, unilateral
+76007B	根治性腎切除術併行淋巴清掃術或合併局部淋巴切除術	Radical nephrectomy with lymphadectomy,or with regional LND
+76008B	腎袋狀成形術	Kidney masupialization
+76009C	腎臟固定術：固定式懸掛	Nephropexy fixation or suspension
+76010C	腎臟造瘻術（手術）	Nephrostomy, operative
+76011B	腎內取石及腎盂取石術	Nephro-pyelolithotomy
+76012B	腎鹿角石取石術	Stag-horn stone nephro-pyelolithotomy
+76013B	腎縫合術	Nephrorrhaphy
+76014B	腎盂成形術	Pyeloplasty
+76015B	腎盂造瘻術	Pyelostomy
+76016B	經皮腎結石取石術	Percutaneous nephrostolithotomy (PCNSL)
+76017B	經PCN腎臟鏡術	Nephroscope (including secondary surgical operation of PCNSL)
+76018B	屍體捐腎切除術	Nephrectomy from cadaver donor
+76019B	活體捐腎切除術	Nephrectomy from living donor
+76020B	腎臟移植	Renal implantation
+76021B	腹腔鏡腎切除術	Laparoscopic nephrectomy
+76022B	腎血管肌脂肪瘤摘除術	Enucleation of renal hematoma
+76023B	萎縮性腎結石截除術	Anatrophic nephrolithotomy
+76024B	內視鏡腎盂切開術	Endoscopic pyelotomy
+76025B	腎輸尿管切除術，不包括輸尿管膀胱袖口切除術	Nephroureterectomy without bladder cuff excision
+76026B	腎輸尿管切除術，包括輸尿管膀胱袖口切除術	Nephroureterectomy with bladder cuff excision
+76027B	根治性腎切除術	Radical nephrectomy
+76028B	根治性腎切除術合併下腔靜脈瘤栓切除術	Radical nephrectomy without regional LND,with IVC tumor thrombectomy
+76029B	(後)腹腔鏡腎臟囊腫除頂術	(Retroperitoneoscopy) Laparoscopy, Renal cyst unroofing
+76030B	(後)腹腔鏡腎臟輸尿管切除術	(Retroperitoneoscopy) Laparoscopy,Nephroureterectomy
+76031B	(後)腹腔鏡部分腎臟切除術	(Retroperitoneoscopy) Laparoscopy, Partial nephrectomy
+76032B	(後)腹腔鏡腎盂取石術	(Retroperitoneoscopy) Laparoscopy, Pyelolithotomy
+76033B	(後)腹腔鏡腎盂成形術	(Retroperitoneoscopy) Laparoscopy, Pyeloplasty
+76034C	(後)腹腔鏡腎臟固定術	(Retroperitoneoscopy) Laparoscopy, Nephropexy
+76035B	腹腔鏡腎盂成形術	Laparoscopic pyeloplasty
+76036B	腹腔鏡活體捐腎切除術	Laparoscopic nephrectomy from living donor
+76037B	腹腔鏡根治性腎切除術	Laparoscopic radical nephrectomy
+77001B	輸尿管除（取）石術－ 上或下三分之一輸尿管	Ureterolithotomy
+77002B	輸尿管除（取）石術－ 中三分之一輸尿管	Ureterolithotomy
+77003B	輸尿管切除術，包括膀胱袖口	Ureterectomy, with bladder cuff
+77004B	輸尿管成形術－ 單側	Ureteroplasty unilateral
+77005B	輸尿管成形術－ 雙側	Ureteroplasty bilateral
+77006B	輸尿管剝離術－ 單側	Ureterolysis unilateral
+77007B	輸尿管剝離術－ 雙側	Ureterolysis bilateral
+77008B	輸尿管腎盂造口吻合術或重建術	Ureteropyelostomy or ureteropyeloplasty
+77009B	輸尿管和輸尿管吻合術	Ureteroureterostomy
+77010B	輸尿管及對側輸尿管吻合術	Transureteroureterostomy
+77011B	輸尿管膀胱重建術－ 單側	Ureteroneocystomy unilateral
+77012B	輸尿管膀胱重建術－ 雙側	Ureteroneocystomy bilateral
+77013B	輸尿管小腸吻合術－單側	unilateral
+77014B	輸尿管小腸吻合術－ 雙側	bilateral
+77015B	輸尿管乙狀結腸造口吻合術	Ureterosigmoidostomy
+77016B	以腸管取代全部或部分輸尿管，包括腸管吻合術－ 單側	Replacement ureter of all or part of ureter by bowel segment unilateral
+77017B	以腸管取代全部或部分輸尿管，包括腸管吻合術－ 雙側	Replacement ureter of all or part of ureter by bowel segment bilateral
+77018B	輸尿管皮膚吻合術－ 單側	Ureterostomy, unilateral, transplantation of ureter to skin unilateral
+77019B	輸尿管皮膚吻合術－ 雙側	Ureterostomy, unilateral, transplantation of ureter to skin bilateral
+77020B	表皮輸尿管瘻管閉合術	Closure fistula, ureterocutaneous
+77021B	輸尿管膀胱瘻管閉合術	Closuer fistula, ureterovisceral
+77022B	輸尿管迴腸皮膚吻合術	Uretero-ileal cutaneous diversion(ilelal conduit)
+77023C	輸尿管插管術	Ureter catheterization
+77024B	輸尿管狹窄內擴張術	Internal dilatation of ureteral stricture
+77026B	輸尿管鏡取石術及碎石術－ 單純內視鏡操作方式	Ureteroscopy & removal of ureteral stone simple endoscopic
+77027B	輸尿管鏡取石術及碎石術－併用超音波或電擊方式	Ureteroscopy & removal of ureteral stone with SONO/EHL
+77028B	輸尿管鏡取石術及碎石術－ 併用雷射治療方式	Ureteroscopy & removal of ureteral stone
+77029B	腹式會陰尿道懸吊術	Abdominal perineal urethral suspension (APUS)
+77030B	腹腔鏡輸尿管取石術	Laparoscopic Ureterolithotomy
+77031B	輸尿管膀胱波氏瓣接合術	Ureterorrhapy
+77032B	輸尿管迴腸經皮分流術(單側)	Ureteroileal cutaneous driversion,unilateral
+77033B	輸尿管迴腸經皮分流術(雙側)	Ureteroileal cutaneous driversion, bilateral
+77034B	經內視鏡輸尿管切開術	Endoscopic ureterotomy
+77035B	經尿道輸尿管憩室切開術	Transurethral incision of ureterocele
+77036B	腹腔鏡高位輸尿管皮膚吻合術（單側）	Laparoscopy, High cutaneous ureterostomy (unilateral)
+77037B	腹腔鏡高位輸尿管皮膚吻合術（雙側）	Laparoscopy, High cutaneous ureterostomy (bilateral)
+77038B	腹腔鏡輸尿管成形術－單側	Laparoscopic Ureteroplasty-unilateral
+77039B	腹腔鏡輸尿管膀胱重建術－ 單側	Laparoscopic ureteroneocystostomy unilateral
+77040B	腹腔鏡輸尿管膀胱重建術－ 雙側	Laparoscopic ureteroneocystostomy bilateral
+78001C	膀胱抽吸	Aspiration bladder, with catheterization
+78002C	膀胱造口術	Open method Cystostomy Open method
+78003C	膀胱造口術	Trocar method Cystostomy Trocar method
+78004C	膀胱造口閉合	Closure of cystostomy
+78005B	膀胱取石術	Cystolithotomy
+78006B	單純膀胱頸切開術	Bladder neck incision
+78007B	膀胱憩室之切除（單個或多發性者）	Cystotomy for excision of bladder diverticulum, single or multiple
+78008C	膀胱腫瘤之切除－ 內視鏡下(含膀胱鏡檢)	Cystotomy for excision of bladder tumor TURB tumor resection (TURBT)
+78009B	膀胱腫瘤之切除－ 手術	Cystotomy for excision of bladder tumor open method
+78010C	膀胱部分切除術	Partial cystectomy
+78011B	膀胱全切除術	Cystectomy without pelvis LND without urethrectomy without bladder reconstruction
+78012B	膀胱全切除術合併原位新膀胱重建術	Cystectomy without pelvis LND without urethrectomy with orthotopic neo-bladder reconstruction
+78013B	膀胱全切除術合併骨盆腔淋巴切除術	Cystectomy with pelvis LND without urethrectomy without bladder reconstruction
+78014B	膀胱全切除術及骨盆腔淋巴切除術合併原位新膀胱重建術	Cystectomy with pelvis LND without urethrectomy with orthotopic neo-bladder reconstruction
+78015B	膀胱成形術或膀胱尿道成形術	Cystoplasty or cystourethroplasty
+78016B	膀胱尿道成形術併單側或雙側輸尿管膀胱吻合術	Cystourethroplasty with unilateral or bilateral uretero neo cystotomy
+78017B	膀胱頸尿道前固定術或尿道固定術	Vesicourethropexy, anteriro or Urethropexy as Marshall-Marchetti type
+78018B	膀胱縫合術	Cystorrhaphy
+78019B	膀胱陰道瘻管閉合術，由腹部開刀	Closure fistula, vesicovaginal abdominal approach
+78020B	膀胱子宮瘻管閉合術，包含子宮切除術	Closure fistula, vesicouterine with or without hysterectomy
+78021B	膀胱腸管成形術，包含腸吻合	Enterocystoplasty including bowel anastomosis
+78022C	皮膚膀胱造口術	Cutaneous vesicostomy
+78023C	膀胱尿道鏡伴有輸尿管切開術	Cystourethroscopy with internal ureterotomy
+78024C	膀胱尿道鏡及輸尿管取石	Cystourethroscopy with removal of ureteral calculus
+78025B	經尿道膀胱頸切開術	Tur for bladder neck
+78026C	碎石取出術、簡單（在膀胱內壓碎並除去）	Endoscopic cystolitholapaxy, simple crushing of calculus in bladder and remove
+78027C	碎石洗出術複雜性或大結石	Endoscopic cystalitholapaxy, complicated
+78028B	腹式尿失禁手術	Transabdominal urinary incontinence surgery
+78029B	陰道式尿失禁手術（含	Kelly plication） Transvaginal urinary incontinence surgery (Kelly plication included)
+78030B	Burch尿失禁手術	Burch Colposuspension
+78031C	間質性膀胱炎膀胱尿道鏡擴張術	Cystourethroscopy with dilation of bladder for interstitial cystitis
+78032C	膀胱憩室電燒	Coagulation of bladder diverticulum
+78033C	部份膀胱及膀胱憩室切除術	Partial cystectomy with excision of bladder diverticulum
+78034B	膀胱破裂修補術	Repair of bladder rupture
+78035B	小腸膀胱增大術	Augmentation of U-B with intestine
+78036B	膀胱懸吊術	Suspension of urinary bladder
+78037B	KELLY手術	KELLY operation
+78038B	尿道人工擴約肌植入術	Artificial urinary sphincter implantation
+78039B	膀胱攝護腺根除術	Cystoprostatectomy without PLND without urethrectomy without bladder reconstruction
+78040B	膀胱全切除術合併尿道全切除術	Cystectomy without pelvis LND with urethrectomy without bladder reconstruction
+78041B	膀胱攝護腺根除術合併原位新膀胱重建術	Cystoprostatectomy without pelvis LND without urethrectomy with orthotopic neo-bladder reconstruction
+78042B	膀胱全切除術及尿道全切除術合併禁尿膀胱重建術	Cystectomy without pelvis LND with urethrectomy with continent reservoir reconstruction
+78043B	膀胱攝護腺根除術合併骨盆腔淋巴切除術	Cystoprostatectomy with pelvis LND without urethrectomy without bladder reconstruction
+78044B	膀胱全切除術及尿道全切除術合併骨盆腔淋巴切除術	Cystectomy with pelvis LND with urethrectomy without bladder reconstruction
+78045B	膀胱攝護腺根除術及骨盆腔淋巴切除術合併原位新膀胱重建術	Cystoprostatectomy with pelvis LND without urethrectomy with orthotopic neo-bladder reconstruction
+78046B	膀胱全切除術及骨盆腔淋巴切除術及尿道全切除術合併禁尿膀胱重建術	Cystectomy with pelvis LND with urethrectomy with continent reservoir reconstruction
+78047B	(後)腹腔鏡膀胱頸懸吊術	(Retroperitoneoscopy) Laparoscopy, Bladder neck suspension
+78048B	(後)腹腔鏡膀胱憩室切除術(單個或多發性者)	(Retroperitoneoscopy) Laparoscopy, Bladder diverticulectomy
+78049C	膀胱腫瘤之切除－ 內視鏡下(含膀胱鏡檢及輸尿管鏡檢查)	Cystotomy for excision of bladder tumor TURB tumor resection (TURBT)
+78050B	腹腔鏡膀胱全切除術合併骨盆腔淋巴切除術合併正位新膀胱重建	Laparoscopic Cystectomy with pelvis LND with orthotopic neo-bladder reconstruction
+78051B	腹腔鏡膀胱全切除術及骨盆腔淋巴切除術合併雙側輸尿管迴腸經皮分流術	Laparoscopic radical cystectomy with pelvis LND with ileal conduit
+78201C	尿道結石（異物）除去術	Remove of urethral stone or foreign body
+78202B	尿道狹窄修補手術－ 前段尿道	Repair of urethral stricture anterior urethral
+78203B	尿道狹窄修補手術－ 後段尿道	Repair of urethral stricture posterior urehtral
+78204B	尿道整形術－ 包括陰莖或陰囊轉換	Urethroplasty, formation of urethral as Dennis Brown type procedure including urinary diversion, penile or penoscrotal
+78205B	尿道整形術－ 重複	Urethroplasty, formation of urethral as Dennis Brown type procedure repeat procedure
+78206C	外尿道口息肉切除術	Polypectomy, external urethral
+78207C	尿道造瘻術	Urethrostomy
+78208B	尿道憩室手術－前（後）部尿道	Urethral diverticulectomy, anterior (posterior) urethral
+78209C	尿道內切開術	Otis urethrotomy
+78210C	直視下尿道切開術	Optic uretrotomy
+78211B	尿道破裂手術－ 後段尿道	Repair of urethral rupture Posterior urethral
+78212B	尿道破裂手術－ 前段尿道	Repair of urethral rupture Anterior urethral
+78213B	尿道下裂手術	glandular type Operation for hypospadias glandular type
+78214B	尿道下裂手術	others Operation for hypospadias others
+78215B	經尿道前列腺切開術	TUI(Transurothral incision of prostate )
+78216B	尿道腫瘤切除術	Resection of urethral tumor
+78217B	修補尿道皮瘻術	Repair of urethral cutanous fistula
+78218B	尿道瘻管修補術(後段)	Urethral fistulectomy (posterior)
+78219B	雙側海棉體破裂修復術	Repair of ruptured corpus cavernosum, bilateral
+78220B	尿道瘻管修補術(前段)	Urethral fistulectomy (anterior)
+78221B	單側海棉體破裂修復術	Repair of ruptured corpus cavernosum,unilateral
+78222B	尿道下裂重建術及陰莖痛性勃起矯正	Reconstruction of hypospadias and correction of painful erection
+78223B	尿道下裂第一次重建術	One stage reconstruction of hypospadias
+78224B	全尿道切除術	Total urethrectomy
+78225B	尿道周膿瘍切開引流術	I&D for peri-urethral abscess
+78401C	陰莖切片	Biopsy penis
+78402B	陰莖部份切除術	Partial amputation of penis
+78403B	陰莖全部切除術	Total amputation of penis
+78404B	陰莖癌陰莖全部切除術	Radical operation of penis cancer (partial penectomy)
+78405B	陰莖癌陰莖部份切除合併鼠蹊淋巴切除術	Partial penectomy with inguinal LND
+78406B	陰莖重度創傷修補術	Penis repair for severe trauma
+78407C	陰囊水腫切除術	Hydrocelectomy
+78408C	陰囊異物移除	Removal of foreign body, scrotum
+78409B	陰囊切除術	Resection of scrotum
+78410B	芮斯比式治療陰莖彎曲術	Nesbit procedure for curvature of penis
+78411C	陰囊修補術	Scrotal repair
+78412C	陰囊膿瘍切開引流術	I&D for scrotal abscess
+78413B	陰莖癌陰莖全部切除合併會陰部尿道造口術	Total penectomy, with perineal cutaneous urethrostomy
+78414B	陰莖癌陰莖全部切除合併鼠蹊淋巴切除術及會陰部尿道造口術	Total penectomy with inguinal LND, with perineal cutaneous urethrostomy
+78601C	睪丸切片－單側切開	Testis biopsy incisional,unilateral
+78602C	睪丸切片－雙側切開	Testis biopsy incisional,bilateral
+78603C	睪丸切除術－ 單側	Orchiedectomy unilateral
+78604B	睪丸切除術－ 雙側	Orchiedectomy bilateral
+78605C	睪丸固定術－ 單側	Orchiopexy unilateral
+78606C	睪丸固定術－ 雙側	Orchiopexy bilateral
+78607C	隱睪單側睪丸固定術	Orchiopexy for undescended testis,unilateral
+78608C	睪丸受傷之縫合或修補	Suture or repair testicular injury
+78609B	睪丸惡性腫瘤高位切除術	Orchidectomy for malignant tumor
+78610B	睪丸惡性腫瘤高位切除術併後腹腔淋巴切除術	Orchidectomy for malignant tumor including lymphadenectomy
+78611C	腹腔鏡睪丸切除術	Laparoscopic orchiectomy
+78612C	隱睪雙側睪丸固定術	Orchiopexy for undescended testis,bilateral
+78801C	副睪丸切除術－ 單側	Epididymectomy unilateral
+78802B	副睪丸切除術－ 雙側	Epididymectomy bilateral
+78803B	輸精管副睪丸吻合術－ 單側	Epididymo-vasostomy unilateral
+78804B	輸精管副睪丸吻合術－ 雙側	Epididymo-vasostomy bilateral
+78805C	副睪丸膿瘍切開引流	I & D for epididymal abscess drainage
+79001C	輸精管切開單側或雙側	Vasotomy, unilateral or bilateral
+79002B	精囊全摘除術	Vesiculectomy, seminal vesicle
+79201C	精索切除	Excision lesion, spermatic cord
+79202B	精索靜脈瘤手術	Varico-celectomy
+79203C	精索靜脈高位結紮術	High ligation or internal spermatic vein for varicocele
+79204C	腹腔鏡精索靜脈曲張結紮	Laparoscopic high ligation of internal spormatic vein
+79401C	前列腺切片－控取式	Biopsy prostate (punch)
+79402C	前列腺切片－切開式	Biopsy prostate (incisional)
+79403B	攝護腺癌根除性攝護腺切除術	Radical prostatectomy without pelvic lymph node dissection
+79404B	被膜下前列腺切除術	Suprapubic prostatectomy
+79405B	恥骨下前列腺切除術	Retropublic prostatectomy
+79406B	經尿道攝護腺切除術－切除之攝護腺重量 五至十五公克	TUR of prostate gland 5 - 15 gms (TURP)
+79407C	經尿道切片術	Transurethral biopsies.
+79408C	前列腺膿瘍切開引流	Abscess drainage prostatic
+79409C	經腹腔前列腺囊腫切除術	Laparoscopic prostate cyst resection
+79410B	攝護腺癌根除性攝護腺切除術併雙側骨盆腔淋巴切除術	Radical prostatectomy with bilateral pelvic lymph node dissection
+79411B	經尿道攝護腺切除術－切除之攝護腺重量十五至五十公克	TUR of prostate gland 15 - 50 gms (TURP)
+79412B	經尿道攝護腺切除術－切除之攝護腺重量大於五十公克	TUR of prostate gland ＞ 50 gms (TURP)
+79413B	雙極前列腺刮除術/汽化術－切除之攝護腺重量 五至十五公克	Bipolar TURP/TUVP 5 - 15 gms
+79414B	雙極前列腺刮除術/汽化術－切除之攝護腺重量 十五至五十公克	Bipolar TURP/TUVP 15 - 50 gms
+79415B	雙極前列腺刮除術/汽化術－切除之攝護腺重量 大於五十公克	Bipolar TURP/TUVP ＞ 50 gms
+79416C	前列腺切片-超音波導引	Transrectal ultrasound guided prostate biopsy
+79417B	腹腔鏡攝護腺癌根除性攝護腺切除術併雙側骨盆腔淋巴切除術	Laparoscopic Radical prostatectomy with bilateral pelvic lymph node dissection
+79601C	會陰膿腫切開引流（非產科）	Incision and drainage of perineal abscess (Non-obstetric) (I&D)
+79602C	會陰修補	repair of perineum
+79603C	女陰白斑切除術	Excision of genital leukoderma
+79604C	會陰修補及肛門損傷修補	Repair of perinueum with repair of anal defects
+79605C	會陰修補及括約肌修補	Repair of perinueum with sphincter repair
+79801C	廣泛性外陰膿瘍引流術	Extended drainage of external genital abscess
+79802C	巴氏腺囊腫造袋術	Marsupialization of Bartholin's gland cyst
+79803C	巴氏腺囊切除術	Excision of Bartholin's gland
+79804B	女陰切除術或廣泛性外陰癌組織切除(未合併皮膚或皮下組織重建)	Simple vulvectomy or wide local excision of valvar cancer
+79806C	陰蒂切除術	Clitoridectomy
+79807B	陰蒂整形術	Clitoroplasty
+79808C	陰道前膜切開術	Hymenotomy
+79809B	根治女陰切除術	Radical Vulvgectomy
+79810B	女陰切除術(合併皮膚或皮下組織重建)	Simple vulvectomy (with skin graft or reconstruction of subcutaneous tissue)
+80001C	陰道切開探查術或骨盆腔膿腫引流	Vaginotomy or drainage of pelvic abscess
+80002C	陰道囊腫切除術	Excision of vaginal cyst
+80003B	陰道中膈切除術	Resection of vaginal Septum
+80004B	陰道後穹窿切開術	Incision of posterior fornix
+80005C	陰道縫合術（縫合陰道損傷，非產科）	Vaginal wall repair (Non-obstetric)
+80006C	陰道會陰縫合術：縫合陰道及會陰損傷（非產科）	Colpoperineorrhaphy, suture of injury of vagina and/or perineum nonobstetrical
+80007B	前側陰道縫合術	Colporrhaphy, anterior
+80008B	後側陰道縫合術	Colporrhaphy, Posterior
+80009B	前後側陰道縫合術	Anterior and posterior colporrhaphy
+80010B	前後側陰道縫合術：包含腸膨出修補術	Anterior and posterior colporrhaphy, (including repair of enterocele)
+80011B	從腹腔進入陰道固定術	Transabdominal colpopexy
+80012C	麻醉下之陰道擴張術	Vaginal dilation under anesthesia
+80014C	腹腔鏡式骨盆腔子宮內膜異位症電燒及切除 — 輕度：子宮內膜異位症分級指數小於或等於五分	。Laparoscopic fulguration or excision of pelvic endometriosis — Minimal to mild
+80015B	陰道切除術 － 陰道部份切除	Partial resection of vagina
+80016B	陰道切除術 － 陰道全部切除，陰道式	Complete resection of vagina, vaginal approach
+80017B	陰道閉合術	LeFort colpocleisis
+80018B	人工陰道重建術 (陰道狹窄或陰道缺失)－無皮膚移植	Reconstruction of vagina (vaginal stenosis or vaginal defects,without skin graft)
+80019B	人工陰道重建術 (陰道狹窄或陰道缺失)－有皮膚及大腸等移植	Reconstruction of vagina (vagina stenosis or vaginal defects, with skin, colon or other graft)
+80021B	初次直腸陰道瘻管修補術	Primary recto-vaginal fistula repair
+80022B	尿道陰道瘻管修補術	Urethral vaginal fistula repair
+80023B	膀胱陰道瘻管修補術	Vesico vaginal fistula repair
+80024B	從陰道進入之陰道固定術	Colpopexy, vaginal approach
+80025B	腹腔鏡陰道懸吊術	Laparoscopic colpopexy
+80026B	經腹腔及陰道合併之骨盆底重建術(含子宮切除術，陰道懸吊術，陰道前後壁修補但不含尿失禁手術)	Combined abdominal and vaginal pelvic floor reconstrction (abdominal hysterectomy, sacrocolpopexy, colporrhaphy combined anterior-posterior)
+80027B	經陰道骨盆底重建手術（含子宮切除術，陰道懸吊術，陰道前後壁修補但不含尿失禁手術）	Transvaginal pelvic floor reconstruction (transvaginal hysterectomy vaginal suspension, colporrhaphy combined anterior-posterior)
+80028B	經陰道骨盆底重建手術(陰道懸吊術，陰道前後壁修補，不含尿失禁手術)	Transvaginal pelvic floor reconstruction (vaginal suspension, colporrhaphy combined anterior-posterior)
+80029C	腹腔鏡式骨盆腔子宮內膜異位症電燒及切除 — 中度：子宮內膜異位症分級指數六至四十分	。 Laparoscopic fulguration or excision of pelvic endometriosis — Moderate
+80030B	陰道切除術 － 陰道全部切除，腹式合併陰道式	Complete resection of vagina, combined abdominal and vaginal approach
+80031C	腹腔鏡式骨盆腔子宮內膜異位症電燒及切除 — 重度：子宮內膜異位症分級指數大於四十分	。 Laparoscopic fulguration or excision of pelvic endometriosis — Severe
+80032B	再次直腸陰道瘻管修補術	Recurrent recto-vaginal fistula repair
+80033B	經腹腔之骨盆底重建術	Transabdominal pelvic floor reconstruction
+80034B	陰道人工網膜外露修復術	Vaginal mesh extrusion repair
+80035B	陰道式會陰尿道懸吊術	Vaginal perineal urethral suspension(VPUS)
+80036C	陰道息肉或肉芽組織切除術	Excision of vaginal granulation tissue or polypectomy
+80037C	陰道息肉或肉芽組織切除術—併冷凍或電燒止血	Excision of vaginal granulation tissue or polypectomy
+80038C	陰道息肉或肉芽組織切除術—併藥物止血	Excision of vaginal granulation tissue or polypectomy
+80201C	陰道式子宮頸切除術	Vaginal trachelectomy
+80202C	子宮頸整形術	Tracheloplasty
+80203C	子宮頸縫合術	Cervical cerclage
+80204C	子宮頸殘餘部擴張刮除術	Dilation and curettage of cervical stump
+80205C	子宮頸楔狀切除術	Cervical conization
+80206B	子宮頸切斷術	Cervical amputation
+80207C	子宮頸蒂瘤切除術	Cervical polypectomy
+80208B	陰道式殘餘子宮頸切除術	Vaginal excision of cervical stump
+80209B	經陰道子宮懸吊合併子宮頸部份切除術	Manchester operation (Transvaginal uterine suspension with partial cervicectomy)
+80210C	腹式子宮頸切除術	Abdominal trachelectomy
+80211C	根除式子宮頸切除術	Radical trachelectomy
+80212B	腹式殘餘子宮頸切除術	Abdominal excision of cervical stump
+80401C	診斷性或治療性子宮擴張刮除術（非產科）	Diagnostic or therapeutic dilation and curettage (Non- obstetric)
+80402C	一般子宮肌瘤切除術	Uncomplicated myomectomy
+80403B	一般全子宮切除術	Uncomplicated total hysterectomy
+80404C	次全子宮切除術	Subtotal hysterectomy
+80405C	骨盆腔粘連分離術	Lysis of pelvic (abdominal) adhesion
+80406B	子宮懸吊術	Uterine suspension
+80407B	子宮廣韌帶裂傷修補或切除術	Repair or resection of broad ligament
+80408B	子宮輸卵管造口吻合術	Hysterosalpingostomy
+80409B	子宮縫合術	Hysterorrhaphy
+80410B	子宮整形術	Metroplastic surgery
+80411B	Spalding-Richardson 氏子宮脫出手術	Spalding-Richardson's operation
+80412B	廣泛性全子宮切除術	Extended hysterectomy
+80413B	子宮頸癌全子宮根除術	Radical hysterectomy for cervical cancer
+80414B	陰道式子宮根治手術 (Schauta 式手術)	Hysterectomy vaginal radical, Schauta type procedure
+80415C	子宮鏡切除子宮腔隔膜或子宮肌瘤	Hysteroscopic resection of uterine septum or hysteroscopic myomectomy
+80416B	腹腔鏡全子宮切除術	Laparoscopic hysterectomy
+80417B	婦癌分期手術	Gynecologic cancer staging surgery
+80418B	婦癌減積手術	Gynecologic cancer debulking surgery
+80419B	婦癌二次剖腹探查術	Gynecologic oncology second-look laparotomy
+80420C	複雜性子宮肌瘤切除術	Complicated myomectomy
+80421B	複雜性全子宮切除術	Complicated total hysterectomy
+80422C	子宮鏡移除異物或息肉	Hysteroscopic removal of foreign body or polyp
+80423C	子宮鏡剝離子宮腔粘黏或子宮內膜電燒	Hysteroscopic lysis of uterine adhesion or endometrial ablation
+80424B	腹腔鏡式婦癌分期手術	Laparoscopic gynecologic oncology staging surgery
+80425C	腹腔鏡子宮肌瘤切除術	Laparoscopic myomectomy
+80426C	腹腔鏡骨盆腔粘連分離術	Laparoscopic pelvic adhesiolysis
+80427B	腹腔鏡子宮懸吊術Laparoscopic uterine suspension(含	Gilliam)
+80428B	腹腔鏡卵巢懸吊術	Laparoscopic ovarian transposition
+80429B	腹腔鏡子宮頸癌全子宮根除術	Laparoscopic radical hysterectomy for cervical cancer
+80430B	腹腔鏡次全子宮切除術	Laparoscopic subtotal hysterectomy
+80603C	輸卵管整形術	Salpingoplasty
+80604C	輸卵管剝離術	Salpingolysis with microscopic
+80605B	輸卵管吻合術	End to end anastomosis
+80606C	輸卵管造口術	Salpingostomy without microscopic
+80607B	輸卵管補植術	Reimplantation with microscopic
+80608C	腹腔鏡輸卵管整形術	Laparoscopic salpingoplasty
+80801B	卵巢切除術附加大網膜切除術	Oophorectomy with omentectomy
+80802C	子宮附屬器部份或全部切除－ 單側	Partial or complete adnexectomy unilateral
+80804C	卵巢膿瘍切開引流術	Incision and drainage of ovarian abscess (I&D)
+80805C	卵巢部份切片術	Biopsy ovary, incisional
+80807C	腹腔鏡子宮附屬器部分或全部切除術－ 單側	Laparoscopic partial or complete adnexectomy unilateral
+80809B	卵巢癌再次手術探查術	Second look operation for ovarian cancer
+80811C	子宮附屬器部份或全部切除－ 雙側	Partial or complete adnexectomy bilateral
+80812C	腹腔鏡子宮附屬器部分或全部切除術－ 雙側	Laparoscopic partial or complete adnexectomy bilateral
+81001C	葡萄胎或絨毛膜癌除去術	Removal of molar pregnancy or choriocarcinoma
+81002C	子宮外孕手術	Ectopic pregnancy operation
+81003C	胎盤取出術	Manual removal of placenta
+81004C	無妊娠併發症之剖腹產術	Cesarean section in normal pregnancy
+81005C	剖腹產合併次全子宮切除術	Subtotal hysterectomy after Cesarean section
+81006C	妊娠前十二週流產刮宮術	D&C（≦12.Week）
+81007C	妊娠超過十二週流產或死胎刮宮術	D&C（ >12.Week）
+81008B	子宮切開流產術	Hysterotomy for termination of pregnancy
+81009C	死胎之引產（十二至二十四週）	Medical induction for fetal death (12-24 weeks)
+81010C	死胎之引產（超過二十四週）	Medical induction for fetal death (after 24 weeks)
+81011C	有妊娠併發症之剖腹產術	Cesarean section in complicated pregnancy
+81012B	死胎破取術	Destruction of the dead fetus
+81013B	骨盤腔臟器摘除術	Pelvic exenteration-Total or Anterior or Posterior
+81014C	骨盆腔子宮內膜異位症，電燒及切除—輕度：子宮內膜異位症分級指數小於或等於五分	。 Fulguration or excision of pelvic endometriosis, minimal to mild
+81015C	經腹部子宮內避孕器移除術	Transabdominal removal of intrauterine device
+81016B	薦骨前神經截斷術	Pre-sacral neurectomy
+81017C	無妊娠併發症之陰道產	Vaginal delivery in normal pregnancy
+81018C	雙胎分娩	Vaginal delivery of twins
+81019C	多胎分娩	Vaginal delivery of multiple pregnancy
+81020C	腹腔鏡子宮外孕手術(含腹腔鏡子宮外孕藥物注射)	Laparoscopic surgery for ectopic pregnancy (including laparoscopic local injection)
+81021B	骨盆腔惡性腫瘤消滅術	Debulking operation for pelvic cancer
+81022B	敗血性流產	Septic abortion treatment
+81023C	子宮內膜電燒及切除術	Endometrial ablation or transcervical endometrial resection
+81024C	前胎剖腹產後之陰道生產（接生費）	Vaginal birth after cesarean (VBAC) - delivery fee
+81025C	前胎剖腹產後之陰道生產（雙胎分娩）	Vaginal birth after cesarean (VBAC) - twin delivery
+81026C	前胎剖腹產後之陰道生產（多胎分娩）	Vaginal birth after cesarean (VBAC) - multiple delivery
+81028C	前置胎盤或植入性胎盤之剖腹產	C/S due to placenta previa or placenta accreta
+81029C	剖腹產合併全子宮切除術	Total hysterectomy after Cesarean section
+81030C	引產無效後之流產或死胎刮宮術	Dilation and evacuation after induction failure
+81031C	子宮內管刮除術	Endocervical curettage
+81032C	骨盆腔子宮內膜異位症，電燒及切除—中度：子宮內膜異位症分級指數六至四十分	。 Fulguration or excision of pelvic endometriosis, moderate
+81033B	骨盆腔子宮內膜異位症，電燒及切除—重度：子宮內膜異位症分級指數大於四十分	。 Fulguration or excision of pelvic endometriosis, severe
+81034C	有妊娠併發症之陰道產	Vaginal delivery in complicated pregnancy
+81036B	腹腔鏡式薦骨前神經截斷術	Laparoscopic pre-sacral neurectomy
+81037K	胎兒膀胱羊膜腔引流管置放術	Fetal vesicoamniotic shunting
+82001C	單側次全甲狀腺切除術	Unilateral subtotal thyroidectomy
+82002C	雙側次全甲狀腺切除術	Bilateral subtotal thyroidectomy
+82003C	甲狀腺囊腫切除術	Excision of thyroid cyst
+82004B	單側甲狀腺全葉切除術	Unilateral total thyroidectomy
+82005B	頸部淋巴腺刮除術－ 單側	Neck lymph node dissection unilateral
+82006B	頸部淋巴腺刮除術－ 雙側	Neck lymph node dissection bilateral
+82007B	副甲狀腺切除術－單純性	Parathyroidectomy Simple
+82008B	根治性甲狀腺切除術（含單側頸部淋巴腺切除術）	Radical thyroidectomy with unilateral neck lymphonode dissection
+82009B	腎上腺切除術，單側	Adrenalectomy, unilateral
+82010B	腎上腺切除術合併後腹腔腫瘤切除－單側	Adrenalectomy with retorperitoneal tumor dissection unilateral
+82011B	腎上腺切除術合併後腹腔腫瘤切除－雙側	Adrenalectomy with retorperitoneal tumor dissection bilateral
+82012C	副甲狀腺再植術	Re-implant parathyroid gland
+82013B	副甲狀腺切除加上自體移植	Parathyroidectomy+au totransplantation
+82014B	腹腔鏡腎上腺切除	Laparoscopic Adrenalectomy
+82015B	單側甲狀腺全葉切除術及另一側次全甲狀腺切除術	One side total and another side subtotal thyroidectomy
+82016B	雙側甲狀腺全葉切除術	Bilateral total thyroidectomy
+82017B	再次副甲狀腺切除術	Parathyroidectomy re-exploration
+82018B	副甲狀腺切除術－亞全切除術	Parathyroidectomy Subtotal
+82019B	副甲狀腺切除術－全切除術	Parathyroidectomy Total
+83001B	腦微血管減壓術	Microvascular decompression
+83002C	椎弓切除術（減壓）－ 二節以內	Laminectomy for decompression ≦2 segments
+83003C	椎弓切除術（減壓）－ 超過二節	Laminectomy for decompression ＞2 segments
+83004B	顳下減壓術－ 單側	Subtemporal decompression unilateral
+83005B	顳下減壓術－ 雙側	Subtemporal decompression bilateral
+83006C	正中神經或尺神經腕部減壓術－ 單側	Decompression of median or ulnar nerve at wrist unilateral
+83007C	正中神經或尺神經腕部減壓術－ 雙側	Decompression of median or ulnar nerve at wrist bilateral
+83008C	側股皮下神經或後脛神經減壓術－單側	Decompression of lateral femoral cutaneous nerve at inguinal or posterior tibial nerve at ankle unilateral
+83009C	側股皮下神經或後脛神經減壓術－ 雙側	Decompression of lateral femoral cutaneous nerve at inguinal or posterior tibial nerve at ankle bilateral
+83010B	腦組織活體切片	Brain biopsy
+83011B	凹陷性顱骨骨折之手術－ 簡單骨折	Depressed fracture of skull simple fracture
+83012B	凹陷性顱骨骨折之手術－ 開放骨折	Depressed fracture of skull open fracture
+83013C	頭顱穿洞術（止血引流、穿刺檢查）	Burr hole (trephination) for hemostasis, drainage or ventricular puncture
+83014C	頭顱穿洞術－每加一孔	Burr hole (trephination) one hole added
+83015C	顱骨切除術	Craniectomy
+83016B	頭顱成形術	Cranioplasty
+83017B	腦瘤切除－腦瘤大小三公分以內	Brain tumor (ICT / cephalocele) ≦3cm
+83018B	腦瘤切除－腦瘤大小介於三至六公分	Brain tumor (ICT / cephalocele) 3~6cm
+83019B	腦瘤切除－腦瘤大小六公分以上	Brain tumor (ICT / cephalocele) ＞6cm
+83020B	脊髓切斷術	Myelotomy
+83021B	後根切斷術	Posterior rhizotomy
+83022C	椎間盤切除術－ 頸椎	Diskectomy cervical
+83023C	椎間盤切除術－ 胸椎	Diskectomy thoracic
+83024C	椎間盤切除術－ 腰椎	Diskectomy lumbar
+83025C	頸交感神經切除術	Cervical sympathectomy
+83026C	胸交感神經切除術	Dorsal sympathectomy
+83027C	腰交感神經切除術	Lumbar sympathectomy
+83028C	神經切斷術	Neurectomy
+83029C	神經切斷術-每加一條	Neurectomy one added
+83030B	神經分離術—肩、臀關節以上，包括臂神經叢，坐骨神經	Neurolysis
+83032B	神經移植—肩、臀關節以上，包括臂神經叢，坐骨神經	Nerve graft
+83033B	椎弓整形術	Lamino plasty
+83034B	神經修補—肩、臀關節以上，包括臂神經叢，坐骨神經	Nerve repair
+83035B	顏面舌下神經吻合術	Facial hypoglossal nerve anastomosis
+83036C	硬腦膜外血腫清除術	Removal of epidural hematoma
+83037C	急性硬腦膜下血腫清除術	Removal of acute subdural hematoma
+83038C	慢性硬腦膜下血腫清除術	Removal of chronic subdural hematoma
+83039B	腦內血腫清除術	Removal of intracerebral hematoma
+83040B	良性脊髓腫瘤切除術	Benign intraspinal tumor, excision
+83041B	惡性脊髓腫瘤切除術	Malignant intraspinal tumor, excision
+83042B	脊椎內脊髓內腫瘤切除術	Intraspinal intramedullary tumor, excision
+83043B	脊椎融合術－前融合 1.無固定物 (1)≦四節	Spinal fusion anterior spinal fusion without spinal instrumentation ≦4 motion segments
+83044B	脊椎融合術－前融合 2.有固定物 (1)≦四節	Spinal fusion anterior spinal fusion with spinal instrumentation ≦4 motion segments
+83045B	脊椎融合術－後融合1.無固定物	Spinal fusion posterior spinal fusion without spinal instrumentation
+83046B	脊椎融合術－後融合 2.有固定物 (1)≦六節	Spinal fusion posterior spinal fusion with spinal instrumentation ≦6 motion segments
+83047B	腦膜或脊髓膜突出修補術	Repair of meningocele or encephalocele
+83048C	頭皮腫瘤	Scalp tumor
+83049B	腦室腹腔分流手術	V-P shunt
+83050B	水腫症腦室心房分流手術	V-A shunt
+83051B	腦室體外引流	External ventricular drainage (EVD)
+83052C	歐氏貯囊置放手術	Omaya reservoir implantation
+83053B	腰椎蜘蛛網膜下-腹腔分流手術	Lumbar-peritoneal shunt
+83054B	腰椎腦脊髓液池體外引流	External lumbar cisternal drainage
+83055B	腦脊髓液分流管重置	Revision of CSF shunt
+83056B	癲癇症腦葉切除術	Brain lobectomy for epilepsy
+83057B	經由蝶竇之腦下垂體瘤切除	Transsphenoidal removal of pituitary adenoma
+83058B	頸動脈栓塞術	Carotid embolization
+83059B	頸動脈結紮術－ 急性結紮	Carotid artery ligation Acute ligation
+83060B	頸動脈結紮術－ 漸進性 1.血流遮斷器置入	Carotid artery ligation gradual occlusion with special clamp application of clamp
+83061B	頸動脈結紮術－ 漸進性2.血流遮斷器取出	Carotid artery ligation gradual occlusion with special clamp removal of clamp
+83063B	顱內外血管吻合術	EC-IC by-pass
+83064B	開顱術摘除血管病變－ 腦血管瘤 1.無病徵的	Craniotomy for vascular lesions aneurysms asymptomatic
+83065B	開顱術摘除血管病變－ 腦血管瘤 2.有病徵的	Craniotomy for vascular lesions aneurysms symptomatic
+83066B	開顱術摘除血管病變－ 腦血管瘤 3.巨大的	Craniotomy for vascular lesions aneurysms giant
+83067B	開顱術摘除血管病變－ 動靜脈畸型 1.小型 (1)表淺	Craniotomy for vascular lesions Arteriovenous malformations small superficial
+83068B	開顱術摘除血管病變－ 動靜脈畸型 1.小型 (2)深部	Craniotomy for vascular lesions Arteriovenous malformations small deep
+83069B	開顱術摘除血管病變－ 動靜脈畸型 2.中型 (1)表淺	Craniotomy for vascular lesions Arteriovenous malformations medium superficial
+83070B	開顱術摘除血管病變－ 動靜脈畸型 2.中型 (2)深部	Craniotomy for vascular lesions Arteriovenous malformations medium deep
+83071B	開顱術摘除血管病變－ 動靜脈畸型 3.大型	Craniotomy for vascular lesions Arteriovenous malformations large
+83072B	脊椎腔內動靜脈畸型切除術－ 二節以內	Excision of intraspinal AVM ≦2 segments
+83073B	脊椎腔內動靜脈畸型切除術－ 超過二節	Excision of intraspinal AVM ＞2 segments
+83074C	面神經痙攣－ 酒精阻斷	Facial tic Alcohol block
+83075B	面神經痙攣－ 選擇性神經切除術	Facial tic Selective neurectomy
+83077B	顱骨縫線早期封閉症手術－ 簡單的縫合線顱骨咬除	Operation for craniosynostosis Simple suturectomy
+83078B	顱骨縫線早期封閉症手術－ 顱骨分割法	Operation for craniosynostosis Morcellation
+83079B	高頻熱凝療法	Radiofrequency coagulation
+83080B	顱內壓監視置入	ICP monitoring
+83081B	立體定位術－ 切片	Stereotaxic procedure for biopsy
+83082B	立體定位術－ 抽吸	Stereotaxic procedure for aspiration
+83083B	立體定位術－ 放射同位素置放	Stereotaxic procedure for implantation of radio-isotope
+83084B	立體定位術－ 功能性失調	Stereotaxic procedure for functional disorder
+83085B	經內視鏡胸交感神經切斷術	Transendoscopic dorsal sympathectomy
+83087B	顏面神經減壓術	Facial nerve decompression
+83088B	顱底瘤手術	Skull Base Tumor Surgery
+83089B	神經分離術—上臂、前臂、大腿、小腿處之神經	Neurolysis
+83090B	神經分離術—手、足的神經	Neurolysis
+83091B	神經移植—上臂、前臂、大腿、小腿處之神經	Nerve graft
+83092B	神經移植—手、足的神經	Nerve graft
+83093B	神經修補—上臂、前臂、大腿、小腿處之神經	Nerve repair
+83094B	神經修補—手、足的神經	Nerve repair
+83095B	脊椎融合術－前融合 1.無固定物 (2)每增加≦四節	Spinal fusion anterior spinal fusion without spinal instrumentation 4 additional motion segments add
+83096B	脊椎融合術－前融合 2.有固定物 (2)每增加≦四節	Spinal fusion anterior spinal fusion with spinal instrumentation 4 additional motion segments add
+83097B	脊椎融合術－後融合 2.有固定物 (2)每增加≦六節	Spinal fusion posterior spinal fusion with spinal instrumentation 6 additional motion segments add
+83098B	神經移轉手術－上肢肩、下肢臀關節以上，包括腦神經的轉移	Never transfer
+83099B	神經移轉手術－上肢腕、下肢足踝關節以上，神經的轉移	Never transfer
+83100B	神經移轉手術－上肢腕、下肢足踝關節以下，神經的轉移	Never transfer
+83102K	迷走神經刺激術（VNS）─植入	Vagus nerve stimulation (VNS) - implantation
+83103B	脊髓刺激器暫時性植入手術	Spinal cord stimulator temporary implantation
+83104B	脊髓刺激器永久植入手術	Spinal cord stimulator permanent implantation
+83105B	永久性刺激器電池更換術	Permanent stimulator battery replacement
+83106B	急性缺血性腦中風機械取栓術	Fee for neurovascular mechanical endovascular thrombectomy in acute ischemic stroke
+84001C	耳介膿瘍或血腫切開引流術	I & D for auricle abscess or hematoma
+84002C	外耳道異物除去術，使用耳道鏡	Ear canal foreign body removal with otoscope
+84003C	外耳道異物除去術，使用耳道鏡，並有麻醉	Ear canal foreign body removal, with otoscope, under anesthesia
+84004C	TD傳統耳膜切開術	Myringotomy with TD plunger
+84005C	耳前瘻管或囊腫切除術	Excision of preauricular fistula or cyst
+84006C	外耳道普通創傷縫合術	Suture of ear injury
+84007C	顯微鏡／內視鏡下鼓膜切開術	Myringotomy under microscope or telescope
+84008B	外耳道腫瘤顯微鏡切除術	Removal of external ear tumor (microscope)
+84009B	外耳道惡性腫瘤切除術	Removal of external ear malignant tumor
+84010B	外耳道閉鎖症手術	Meatoplasty & canaloplasty
+84011B	外傷性耳成形術	Traumatic otoplasty
+84012B	外耳道成形術	Ear canal plastic operation
+84013B	耳膜成形術	Myringoplasty
+84014B	中耳耳茸摘出術	Polypectomy, middle ear
+84015B	顯微鏡下鼓膜切開術，併鼓室通氣管插入	Myringotomy with ventilation tube insertion Under microscope
+84016B	鼓室探查術	Exploratory tympanotomy
+84017B	鼓膜成形術	Myringoplasty
+84018B	鼓室成形術－ 不包括乳突鑿開術	Tympanoplasty without mastoidectomy
+84019B	鼓室成形術－ 包括乳突鑿開術	Tympanoplasty with mastoidectomy
+84020B	聽小骨重建術	Ossiculoplasty
+84021B	乳突鑿開術－ 簡單式	Mastoidectomy simple
+84022B	乳突鑿開術－ 修正式	Mastoidectomy modified
+84023B	耳性顱內合併症手術	Intracranial operation otologically
+84024B	耳性硬腦膜外膿瘍切開術	Drainage of otogenic epidural abscess
+84025B	鐙骨截除及修補	Stapedectomy with prosthesis
+84026B	鐙骨鬆動術	Stapes mobilization
+84027B	耳後瘻孔縫合術	Suture of postauricular
+84028B	內耳全摘除術	Transtympanic transmastoid labyrinthectomy
+84029B	內淋巴囊減壓術	Endolymphatic sac decompression
+84030B	迷路開窩術	Labyrinthotomy
+84031B	迷路切除術	Labyrinthectomy
+84032B	聽神經腫瘍切除術（經耳的）	Translabyrinthine acoustic neuroma excision
+84033B	顳骨錐部切除術	Petrouectomy (apicectomy, petrous)
+84034B	顳骨全切除術併乳突鑿開術	Temporal bone resection with mastoidectomy
+84035B	耳病性暈眩手術	Sacculotomy for Meniere's disease
+84036B	半規管造窗術	Fenestration of semicircular canals
+84037B	耳再接手術	Replantation of ear
+84038B	人工電子耳手術(人工耳蝸植入術)	Cochlear implant surgery
+85001C	眼球剜出術	Enucleation
+85002C	眼球內容物剜除術	Evisceration of eyeball
+85003C	眼球傷口之修補－ 鞏膜穿孔	Repair of eyeball wound scleral perforation
+85004C	眼球傷口之修補－ 角、鞏膜穿孔	Repair of eyeball wound corneoscleral perforation
+85201C	角膜切開術	Keratotomy
+85202C	角膜穿刺	Paracentesis
+85203C	翼狀贅肉簡單切除合併角膜切除	Excision pterygium, simple with keratectomy
+85204C	翼狀贅肉複雜切除合併角膜切除	Excision pterygium, complicated with keratectomy
+85205C	角膜縫線拆除術（顯微鏡下）	Removal of corneal stitches under microscope
+85206C	角膜縫合術	Suture of cornea
+85207C	角膜周邊結膜切開術	Peritomy
+85208B	角膜鞏膜緣環鑽術	Trephining corneosecleral
+85209C	角膜崁頓異物摘除	Removal of corneal embedded foreign body
+85210C	角膜切除術	Keratectomy
+85211B	表層角膜晶體移植術	Epikeratophakia
+85212B	板層角膜移植術	Lamellar keratoplasty
+85213B	穿透性角膜移植術	Penetrating keratoplasty
+85214C	輪部移植術	Limbal transplantation
+85215B	深層前角膜移植	Deep Anterior Lamellar Keratoplasty
+85216B	角膜內皮移植	Descemet's Stripping Automated Endothelial Keratoplasty
+85217B	角膜內皮移植（使用已分離之角膜）	Descemet's Stripping Automated Endothelial Keratoplasty with precut cornea
+85218C	角膜內注射	Intracorneal injection
+85401C	前房異物取出術	Removal of foreign body in anterior chamber
+85402C	診斷性前房水抽吸	Diagnostic aspiration aqureous
+85403C	前房穿刺治療玻璃體脫出	Paracentesis, anterior chamber for vitreal prolapse
+85404C	前房隅角穿刺	Goniopuncture
+85405C	前房角切開術	Goniotomy
+85406C	前房空氣注入術	Air injection into anterior chamber
+85407C	眼前房血塊清除	Removal of hyphema paracentesis
+85601C	青光眼鞏膜切開術	Sclerotomy, for glaucoma
+85602B	艾利阿特氏手術	Elliot's operation
+85604B	後鞏膜切開術併液體吸出	Sclerotomy, posterior, with drainage of fluid
+85605B	後鞏膜切開術，合併磁鐵吸除眼異物	Sclerotomy, posterior, with removal of intraocular foreign body by magnetic extraction
+85606B	後鞏膜切開術，非磁性吸除眼異物	Sclerotomy, posterior, with removal of intraocular foreign body by nonmagnetic extraction
+85607B	眼球穿傷，鞏膜任何方式切除及修復	Perforating injury of eye ball, any type of scleral repair.
+85608B	鞏膜切除併植入或扣壓	Resection, scleral, with graft or buckling
+85609B	鞏膜覆蓋術	Sclera graft
+85610B	鞏膜表面異物除去術	Removal of scleral surface foreign body
+85611B	鞏膜切除術	Sclerectomy
+85801C	虹膜切開術	Iridotomy
+85802C	虹膜粘連分離術	Synechiotomy (iridodialysis)
+85803C	睫狀體冷凍治療	Cyclocryotherapy
+85804C	睫狀體透熱法	Cyclodiathermy
+85805C	小樑切開術	Trabeculotomy under microscope
+85806C	小樑切除術	Trabeculectomy under microscope
+85807C	光學性虹膜切除術	Optical iridectomy
+85808C	周邊虹膜切除術	Peripheral iridectomy
+85810C	虹膜鉗頓術	Iridencleisis for glaucoma
+85811B	角鞏膜虹膜切除術	Corneoscleral iridocyclectomy
+85812C	虹膜斷裂之復原	Repair of iridodialysis
+85813C	睫狀體分離術	Cyclodialysis
+85814C	全虹膜切除術	Complete iridectomy
+85815C	虹膜燒灼	Cauterization, iris
+85816B	虹膜囊腫切除術	Iridocystectomy
+85817C	虹膜牽張術	Iridotasis stretching of iris
+85818C	虹膜成形術：固定戳穿（顯微鏡下手術）	Iridoplasty fixation transfixation (microsurgery)
+85820B	睫狀體脫出部份之切除	Ciliarybody excision of prolapse
+85821B	睫狀體活體切片	Ciliary body biopsy
+85822B	前粘連分離術	Division of synechiae
+85823B	青光眼導管置入術	Glaucoma tube shunt surgery
+86001C	膜性白內障切開術	Discission of membranous cataract under microscope
+86002C	白內障線狀摘出術	Linear extraction for cataract
+86005C	白內障切囊術	Capsulectomy for cataract
+86006C	水晶體囊切開吸引術	Lens capsulotomy and aspiration of lens under microscope
+86007C	水晶體囊外（內）摘除術	Extracapsular (intracapsular) lens extraction (ECLE) (ICLE)
+86008C	水晶體囊內（外）摘除術及人工水晶體置入術	Intracapsular (extracapsular) lens extraction under microscope + IOL insertion
+86009C	囊外水晶體超音波乳化術	Phacoemulsification
+86010B	坦部水晶體切除術	Pars plana lensectomy (ocutome)
+86011C	人工水晶體植入術－第一次植入	IOL implantation primary
+86012C	人工水晶體植入術－第二次植入	IOL implantation secondary
+86013C	人工水晶體植入術－調整術	IOL implantation reposition
+86201C	玻璃體內注射	Intravitreous injection
+86203C	前玻璃體切除術	Anterior vitrectomy (vitrector)
+86204B	眼前段再造術	Anterior segment reconstruction (vitrector)
+86205B	瞳孔遮斷前玻璃體切開術	Discission, anterior hyaloid for pupillary block
+86206C	眼坦部玻璃體切除術－ 簡單	Pars plana vitrectomy (vitrector) simple
+86207B	眼坦部玻璃體切除術－ 複雜	Pars plana vitrectomy (vitrector) complicated
+86208C	晶體切除術合併玻璃體切除術	Lensectomy & vitrectomy (vitrector)
+86209C	移位晶體摘除合併玻璃體切除術	Removal of dislocated lens combined vitrectomy(vitrector)
+86210B	玻璃體吸引術	Aspiration of vitreous
+86211B	玻璃體移植術（包括鞏膜切開）	Transplantation vitreous including sclerotomy
+86212B	原發性玻璃體切除術	Primary vitrectomy for pathologic vitreous
+86213B	玻璃體內異物除去術	Remove intraocular FB
+86214C	矽油排除術	Removal of silicon oil
+86215C	液氣體交換術	Fluid gas exchange
+86216C	玻璃體內注射眼科新生血管抑制劑	Intravitreal injection of an anti-VEGF agent
+86401B	磁鐵吸除眼內磁性異物（表面）	Removal of intraocular foreign body with magnet(surface)
+86402C	網膜透熱或冷凍法再附著術	Reattachment retina with diathermy or cryopexy
+86403B	網膜再附著術及排液術	Drainage with reattachment of retina
+86404B	視網膜變性或裂孔，冷凍治療法	Cryotherapy for retinal degeneration or break
+86405B	磁鐵吸除眼內磁性異物（植床）	Removal of intraocular foreign body with magnet (embeded)
+86406B	網膜剝離之表面鞏膜切除術	Lamellar sclera resection
+86407C	光線凝固治療－ 簡單	Photocoagulation therapy Simple
+86408B	光線凝固治療－ 複雜	Photocoagulation therapy Complicated
+86409B	眼坦部玻璃體切除術合併光線凝固治療－ 簡單	Pars plana vitrectomy (vitrector) with Photocoagulation therapy Simple
+86410B	眼坦部玻璃體切除術合併光線凝固治療－複雜	Pars plana vitrectomy (vitrector) with Photocoagulation therapy Complicated
+86411B	複雜眼坦部玻璃體切除術合併鞏膜切除併植入或扣壓	Complication Pars plana vitrectomy (vitrector) with Reattachment retina with diathermy or cryopex
+86412B	微創玻璃體黃斑部手術	Microincision vitreomacular surgery
+86413B	微創複雜性玻璃體切除合併鞏膜扣環手術	Microincision vitreoretinal surgery combined with scleral buckle
+86414B	微創玻璃體切除術－ 簡單	Microincision vitreoretinal surgery Simple
+86415B	微創玻璃體切除術－ 複雜	Microincision vitreoretinal surgery Complicated
+86601C	斜視矯正手術-放鬆及切除－ 一條	Recession and resection- strabismus
+86602C	斜視矯正手術-放鬆及切除－ 二條	Recession and resection- strabismus
+86603C	斜視矯正手術-放鬆及切除－ 超過二條，每增一條	Recession and resection- strabismus
+86604C	眼肌移植術	Transplant extraocular muscle
+86605C	眼肌腱縫合術	Suture or tucking of extraocular muscle tendon
+86801B	眼窩剖開探查術	Orbitotomy with exploration
+86802B	眼窩剖開術－ 併膿瘍引流	Orbitotomy with drainage of intraorbital abscess
+86803B	眼窩剖開術－ 併異物或良性腫瘤切除	Orbitotomy with removal of intraorbital foreign body or benign tumor
+86804B	眼窩腫瘤切除術－ 經前方途徑	Removal of orbital tumor anterior approach
+86805B	眼窩腫瘤切除術－ 經側方途徑	Removal of orbital tumor lateral approach
+86806B	眼窩腫瘤切除術－ 經顱腔途徑	Removal of orbital tumor cranial approach
+86807B	眼窩成形術	Reconstruction of orbital socket
+86808B	眼窩內容剜除術	Exenteration of orbit
+86809B	眼窩減壓術	Orbital decompression
+86810B	眼窩底修補術	Repair of orbital floor
+86811B	眼窩病變切除併骨移植	Excision of orbital lesion, with bone graft
+87001C	眼瞼良性腫瘤切除術	Excision of lid tumor, benign
+87002C	眼瞼惡性腫瘤切除術	Excision of lid tumor, malignant
+87003C	眼瞼瘤切除術合併眼瞼成形術	Excision of lid tumor with lid reconstruction
+87004C	眼瞼下垂前額懸吊術	Frontalis sling for ptosis
+87005C	眼瞼下垂擴筋膜懸吊術	Fascia lata sling
+87006C	眼瞼外翻或內翻植皮術	Skin graft for ectropion or entropion
+87007C	眼瞼乙狀成形術	Z-plasty
+87008C	眼瞼外翻矯正手術	Corrective operation for ectropion
+87009C	眼瞼內翻矯正手術	Correction of entropion
+87010C	簡單眼瞼內翻手術	Operation for entropion, simple
+87011C	眼瞼裂傷之修補	Repair lacerated eyelid
+87012C	眼緣縫合	Tarsorrhaphy for intermargin lid adhesion
+87013C	眥成形術	Canthoplasty
+87014C	眼瞼縫合術	Blepharorrhaphy
+87015B	眼瞼腫瘤冷凍術－ 良性	Cryotherapy on lid tumor benign
+87016B	眼瞼腫瘤冷凍術－ 惡性	Cryotherapy on lid tumor malignancy
+87017C	鍉上眼瞼肌切除術	Levator muscle resection
+87018C	眼瞼成形術	Blepharoplasty for double lid fold
+87019C	眥部切開術	Canthotomy
+87020C	眼瞼皮縫合術 （外眼部）	Suture of eyelid
+87021C	Wheeler 氏手術	Wheeler's operation
+87022C	瞼板腺除術	Excision of tarsal plate
+87023C	眼瞼眼球黏連分離術	Relief of symblepharon
+87024B	眼球黏連分離併用粘膜移植	Relief of symblepharon with conjunctiva or mucosa graft
+87025C	霰粒腫手術	Incision & curettage for chalazion
+87026C	眼瞼粘連分離術	Relief of ankyloblepharon
+87027B	原發性眼瞼痙攣症之眼肌切除術	Eyelid protractor myectomy of essential blepharospasm
+87028B	眼瞼板之硬顎移植術	Hard palate graft
+87029B	HUGHES 皮瓣	Hughes flap
+87030B	苗勒氏肌切除及提瞼肌放鬆	Mullerectomy
+87031C	下眼瞼攣縮併角膜暴露矯正術	Correction of lower lid retraction corneal exposure
+87202C	結膜縫合 一次	Suture of conjunctiva
+87203C	結膜切片	Biopsy of conjunctiva
+87204C	結膜病灶切除－ 小於三	mm Excision lesion of conjunctiva, benign less than 3mm
+87205C	結膜病灶切除－ 大於三	mm Excision lesion of conjunctiva, benign large than 3mm
+87206C	結膜病灶切除惡性，併粘膜移植	Excision lesion of conjunctiva, malignant with mucous membrane graft
+87207B	結膜成形術－ 有移植	Conjunctival plasty with graft
+87208B	結膜成形術－ 無移植	Conjunctival plasty without graft
+87209C	結膜瓣形成術	Conjunctival flap peritectomy
+87210C	結膜良性腫瘤冷凍術	Cryotherapy of conjunctival tumor, benign
+87211B	結膜惡性腫瘤冷凍術	Cryotherapy of conjunctival tumor, malignancy
+87212C	翼狀贅肉切除術－ 初發	Excision of pterygium primary
+87213C	翼狀贅肉切除術－ 復發	Excision of pterygium complicated or recurrent
+87214B	結膜囊部份成形術	Partial conjunctival sac reformation
+87215B	結膜囊全部成形術	Total conjunctival sac reformation
+87216B	皮膚及結膜成形術	Combined plastic surgery of conjuntiva and skin
+87217B	穿透傷或二次性傷口縫合結膜移植	Conjunctive flap for perforating injuries or secondary closure of operative
+87218C	結膜縫線拆除術(顯微鏡下)	Removal of conjunctival stitches under microscope
+87219B	外眼組織切片	Biopsy of external eye
+87401C	淚腺膿瘍引流	Drainage of lacrimal gland abscess
+87402B	淚腺切除術	Excision lacrimal gland (dacryoadenectomy)
+87403B	淚囊切除術	Dacryocystectomy (excision of lacrimal sac)
+87404B	淚腺或淚囊腫瘤切除術	Excision lacrimal gland or lacrimal sac tumor
+87405B	淚囊鼻腔造孔術	Dacryocystorhinostomy
+87406B	結膜淚囊鼻腔造孔術	Conjunctivodacryocystorhinostomy
+87407C	淚管切開術	Canaliculotomy
+87408C	淚管瘻管切除術	Fistulectomy for lacrimal fistula
+87409C	淚小管成形術	Plastic operation on canaliculi
+87410C	淚小管縫補	Suture of canaliculus
+87413C	淚器基本性修復	Lacrimal apparatus, primary repair
+87414B	淚器後繼性修復	Lacrimal apparatus, secondary repair
+87415B	鼻淚管造口術－ 簡單	Dacrocysto-hinostomy simple
+87416B	鼻淚管造口術－ 複雜	Dacrocysto-hinostomy complicated
+87417B	淚管開口縫合術	Suture of punctum
+88001B	新生兒壞死性腸炎手術－含腸切除及吻合術	Extensive necrotizing enterocolitis resection & anastomosis
+88002B	新生兒壞死性腸炎手術－含腸造口	Extensive necrotizing enterocolitis jejunostomy/ileostomy
+88003B	胎糞性腹膜炎	Meconium Peritonitsis
+88005B	總膽管囊腫切除術，膽管迴腸吻合術	Choledochocyst, excision & choledocho-jejunostomy
+88006B	食道閉鎖及食道氣管瘻管手術	Esophagoplasty with repair of T-E fistula
+88007B	新生兒胃穿孔修補術	Repair of Idiopathic Gastric Perforation,neonatal
+88008B	橫膈疝氣修補術	Repair of Diaphragmatic Hernia
+88009B	橫膈折疊術	Plication of Diaphragm, for diaphragm eventration
+88011B	先天性十二指腸閉鎖或輪狀胰	Congenital Duodenal Atresia, or Annular Pancreas
+88012B	腸旋轉復形術	Malrotation, Ladd's Procedure
+88013B	腸閉鎖，腸切除及吻合術	Resection & Anastomosis, intestinal atresia
+88014B	尾骨囊腫切除術	Sacrococcygeal tumor, excision
+88015B	尾骨囊腫廣泛性切除術	Sacrococcygeal tumor, extensive excision
+88016B	先天性膽道閉鎖探查術	Congenital Biliary Atresia, exploration without repair
+88017B	先天性膽道閉鎖，葛西手術或其他肝腸吻合手術	Congenital Biliary Atresia, Kasai's Procedure, or other Hepato/Jejunal Anastomosis
+88018B	先天性腹壁缺損直接修補術－單純性	Congenital abdominal wall defect, primary closure -simple
+88019B	先天性腹壁缺損直接修補術－複雜性	Congenital abdominal wall defect, primary closure -complex
+88020B	新生兒臍疝氣修補術－單純性	Omphalocele repair, primary closure-simple
+88021B	新生兒臍疝氣修補術－複雜性	Omphalocele repair, primary closure-complex
+88022B	膀胱外翻關閉術	Closure, extrophy bladder
+88023B	囊狀淋巴管瘤切除術	Cystic hygroma, complicated, excision
+88024B	低位肛門成形術	Imperforate anus, low type
+88025B	高位肛門成形術	Imperforate anus, high type
+88026B	先天性巨結腸症	Congenital Megacolon, pull-through
+88027B	先天性無神經巨結腸症	Congenital Megacolon, total aganglionosis,pull-through
+88028B	尿道下裂島皮瓣尿道整型術	Urethroplasty, Island flap procedure
+88029C	嬰兒鼠蹊疝氣	Inguinal hernia operation
+88030B	矯正前胸部缺損	Correction of anterior wall defect
+88031B	矯正尿道纖維黏連	Correction of chordee
+88032B	鰓裂囊腫切除、瘻管切除	Excision of branchial cleft sinus or cyst
+88034B	臍尿管或瘻管切除	Excision of urachus or its fistula
+88035B	臍腸系膜瘻管切除	Excision of vitelline duct or its fistula
+88036B	薦尾骨畸胎瘤切除	Excision of sacrococcygeal teratoma
+88037B	腦膜或脊髓突出修補術	Repair of Meningocele or Meningomyelocele
+88038B	骨內翻外翻	Bone Valgus or varus
+88039B	先天性髖脫臼－開放復位	Congenital dislocation of hips -open reduction
+88040B	先天性髖脫臼－閉鎖復位	Congenital dislocation of hips -closed reduction
+88041C	併指多指（趾）切除	Reconstruction of polydactyly or syndactyly
+88042C	多指（趾）切除每多加一個	Polydactyly/syndactyly excision, each additional digit
+88043B	裂唇成形術－單部分	Cheiloplasty -unilateral
+88044B	裂唇成形術－雙部分	Cheiloplasty -bilateral
+88045B	裂唇成形術－複部分	Cheiloplasty -revision
+88046C	血管瘤切除－未達二公分	Hemangioma excision
+88047C	血管瘤切除－二公分至五公分	Hemangioma excision
+88048B	血管瘤切除－超過五公分	Hemangioma excision
+88049B	小耳重建第一期	Microtia,stage one
+88051B	小耳重建第二期	Microtia,stage two
+88053B	小耳重建第三期	Microtia,stage three
+88054B	先天性髖脫臼-換石膏	Congenital dislocation of hips-change cast
+88055B	腹腔鏡總膽管囊腫切除術-併膽管空腸吻合術	Laparoscopic excision of choledochal cyst with choledocho-jejunostomy
+88056B	胸腔鏡食道閉鎖及食道氣管瘻管手術	Thoracoscopic esophagoplasty with repair of T-E fistula (VATS)
+88057B	胸(腹)腔鏡橫膈疝氣修補術	Thoracoscopic (Laparoscopic) repair of diaphragmatic hernia (VATS)
+88058B	腹腔鏡先天性十二指腸閉鎖或輪狀胰	Laparoscopic congenital duodenal atresia, or annular pancreas
+88059B	腹腔鏡腸旋轉復形術	Laparoscopic malrotation,Ladd’s procedure
+88060B	腹腔鏡腸閉鎖，腸切除及吻合術	Laparoscopic resection ＆ anastomosis, intestinal atresia
+88061B	腹腔鏡先天性膽道閉鎖探查術	Laparoscopic congenital biliary atresia, exploration without repair
+88062B	腹腔鏡先天性膽道閉鎖，葛西手術或其他肝腸吻合手術	Laparoscopic congenital biliary atresia, Kasai's procedure, or other hepato/jejunal anastomosis
+88063B	腹腔鏡高位肛門成形術	Laparoscopic imperforate anus, high type
+88064B	腹腔鏡先天性巨結腸症	Laparoscopic congenital megacolon, pull-through
+95001C	石膏固定，手、腕、踝、足	P.P cast, hand, wrist, ankle, foot, finger, toe
+95002C	石膏固定－短臂	short arm cast
+95003C	石膏固定－長臂	long arm cast
+95004C	石膏固定－短腿	short leg cast
+95005C	石膏固定－長腿	long leg cast
+95006C	步行石膏固定－短	short walking cast
+95007C	步行石膏固定－長	long walking cast
+95008C	圓筒石膏固定	Cylinder cast
+95009B	肩人形石膏固定	Shoulder spica cast
+95010B	股軀人形石膏固定	Hip spica cast
+95011B	軀部石膏固定	Body cast
+95012B	膝腱石膏固定	PTB cast
+95013C	石膏副木固定，指、趾	P.P splint, finger, toe, ankle
+95014C	石膏副木固定－短臂	short arm splint
+95015C	石膏副木固定－長臂	long arm splint
+95016C	石膏副木固定－短腿	short leg splint
+95017C	石膏副木固定－長腿	long leg splint
+95018B	Halo式固定及軀部石膏固定	Halo type fixation & body cast
+95019C	石膏切開，開窗	Cast spliting, bivalve
+95020C	石膏楔形矯正	Cast wedging
+95021C	石膏拆除	Cast removal
+95022C	骨骼牽引網線拆除	Removal of pins or wires (for skeletal traction)
+95023C	膝蓋可動性石膏固定	Cast brace of knee
+N20002	綠光雷射前列腺氣化術	GreenLight PVP
+N20003	銩雷射前列腺氣化切除術	Thulium Laser Vaporesection of the Prostate
+N20004	鈥雷射前列腺氣化切除術	HoLEP Vaporesection of the Prostate
+N20005	二極體雷射攝護腺挖除術	Diode laser ( 980nm ) enucleation of the Prostate
+N20007	微創內視鏡椎間盤切除術	Minimal invasive endoscopic discectomy (MED)
+N20009	腎動脈神經阻斷術	Renal artery sympathetic denervation(RDN)
+N20015	機械手臂輔助人工關節置換手術	Robotic-assisted joint replacement
+N21601	脊椎應用自動機械手臂持械影像導引定位輔助系統	Spine automatic robot arm assisted guiding system
+N21602	腦應用自動機械手臂持械影像導引定位輔助系統	Brain automatic robot arm assisted guiding system
+N21701	機械手臂輔助導引定位系統	Robotic-assisted guiding system
+N21801	機械手臂輔助經皮椎弓根螺釘定位合併脊椎融合術	Percutaneous robotic-assisted pedicle screw placement techniques in spinal fusion
+N21901	AR眼鏡手術導航系統	Surgical Navigation System
+N21902	AI輔助判讀顱內出血於電腦斷層造影－無造影劑	AI supported detection of intracerebral hemorrhage on computed tomography without contrast
+N21903	甲狀腺結節超音波智能分析	AI analysis for thyroid nodule ultrasound
+N21904	體抑素受體正子掃描	SSTR PET -positron emission tomography
+N21905	脊髓腔內藥物輸注幫浦植入手術	Intrathecal drug infusion pump implantation surgery
+N21906	電磁導航支氣管鏡檢查術	Electromagnetic navigation bronchoscopy
+N21907	橫膈節律器電極植入、定位術	Mapping & Insertion of diaphragmatic pacemaker lead into diaphragm
+N26001	機械手臂輔助瓣膜成形術	Robotic-assisted valvular and/or annuloplasty
+N26002	機械手臂輔助冠狀動脈繞道手術—一條	Robotic- assisted coronary artery byass grafting- one vessel
+N26003	機械手臂輔助冠狀動脈繞道手術—二條以上	Robotic-assisted coronary artery byass grafting- two vessel
+N26004	機械手臂輔助心內腫瘤切除	Robotic- assisted excision of tumor intracardiac
+N26005	機械手臂輔助心室中膈缺損修補術	Robotic-assisted ventricular septal defect repair
+N26006	機械手臂輔助其他心臟外科手術	Robotic-assisted other cardiac surgery
+N26007	機械手臂輔助單側甲狀腺全葉切除	Robotic-assisted unilateral total thyroidectomy
+N26008	機械手臂輔助	TORS
+N26009	機械手臂輔助其他頭頸部腫瘤手術	Robotic-assisted other head and neck tumor surgery
+N26010	機械手臂輔助肺葉切除	Robotic- assisted lobectomy
+N26011	機械手臂輔助肺葉楔狀或部分切除	Robotic-assisted wedge or partial lung resection
+N26012	機械手臂輔助食道切除重建及腸造廔	Robotic-assisted esophagectomy, esophageal reconstruction and enterostomy
+N26013	機械手臂輔助縱膈腔腫瘤切除	(<5cm) Robotic-assisted mediastinal tumor resection
+N26014	機械手臂輔助Whipple氏胰、十二指腸切除術	Robotic-assisted pylorus-preserved pancreaticoduodenectomy
+N26015	機械手臂其他輔助胰尾脾臟切除術	Robotic-assisted distal pancreatectomy and splenectomy
+N26016	機械手臂輔助膽道重建手術	Robotic-assisted biliary reconstruction
+N26017	機械手臂輔助其他總膽管探查術及膽囊切除術	Robotic-assisted exploration of biliary tract and Cholecystectomy
+N26018	機械手臂輔助其他右肝切除	Robotic-assisted Right lobectomy
+N26019	機械手臂輔助其他左肝切除	Robotic-assisted Left lobectomy
+N26020	機械手臂輔助肝臟移植—活體捐肝摘取	Robotic-assisted living donor hepatectomy
+N26021	機械手臂輔助其他肝切除	Robotic-assisted other hepatectomy
+N26022	機械手臂輔助低前位直腸切除術	Robotic-assisted radical protectomy with enterostomy
+N26023	機械手臂輔助直腸癌腹部會陰聯合切除術	Robotic-assisted combined abdomino perineal resection for rectal cancer
+N26024	機械手臂輔助胃袖狀切除手術	Robotic-assisted sleeve gastrectomy
+N26025	機械手臂輔助胃空腸繞道手術	Robotic- assisted gastric bypass surgery
+N26026	機械手臂輔助胃亞全切除手術	Rorbotic-assisted subtotal gastrectomy
+N26027	機械手臂輔助其他大腸直腸腫瘤切除手術	Robotic-assisted other colorectal tumor resection
+N26028	機械手臂輔助腎臟移植	Robotic- assisted renal implantation
+N26029	機械手臂輔助根治性前列腺切除術	Robotic- assisted Radical Prostatectomy
+N26030	機械手臂輔助部分腎臟切除術	Robotic-assisted partial nephrectomy
+N26031	機械手臂輔助其他腎臟手術	Robotic-assisted other renal surgery
+N26032	機械手臂輔助輸尿管膀胱手術	Robotic-assisted ureterovesical surgery
+N26033	機械手臂輔助輸尿管取石術	Robotic-assisted ureterolithotomy
+N26034	機械手臂輔助全子宮切除術	Robotic-assisted total hysterectomy
+N26035	機械手臂輔助子宮肌瘤切除術	Robotic-assisted myomectomy
+N26036	機械手臂輔助應用於其他手術	Robotic-assisted other surgery
+N26037	機械手臂輔助婦癌分期手術	Robotic-assisted gynecologic cancer staging surgery
+N26038	機械手臂輔助食道切除術	Robotic-assisted Esophagectomy
+N26039	機械手臂輔助其他食道再造術	Robotic-assisted Esophageal reconstruction
+N26040	機械手臂輔助心房中膈缺損修補術	Robotic-assisted atrial septal defect repair
+N26041	機械手臂輔助瓣膜成形術	Robotic-assisted valvular and/or annuloplasty
+N26042	機械手臂輔助主動脈瓣或二尖瓣或三尖瓣之置換手術	Robotic-assisted single valve replacement
+N26043	機械手臂輔助心房切割隔間之不整脈手術	Robotic-assisted arrhythmia surgery via atriotomy
+N26044	機械手臂輔助肺分葉切除術	Robotic-assisted segmentectomy of lung
+N26045	機械手臂輔助縱膈腔腫瘤切除術	(≧5cm) Robotic-assisted mediastinal tumor resection(≧5cm)
+N26046	機械手臂輔助Whipple氏胰、十二指腸切除術－幽門保留式	Robotic-assisted pylorus-preserved pancreaticoduodenectomy(pylorus-preserving)
+N26047	機械手臂輔助胰臟尾端部分切除術	Robotic-assisted distal pancreatectomy
+N26048	機械手臂輔助胰臟尾端部分切除術-脾臟保留	Robotic-assisted distal pancreatectomy, spleen-preserving
+N26049	機械手臂輔助胰臟體部分切除術	Robotic-assisted central pancreatectomy
+N26050	機械手臂輔助肝外膽管成形術	Robotic-assisted extrahepatic bile duct
+N26051	機械手臂輔助總膽管空腸吻合術	Robotic-assisted choledochojejunostomy
+N26052	機械手臂輔助膽囊切除術	Robotic-assisted cholecystectomy
+N26053	機械手臂輔助膽管截石術	Robotic-assisted choledocholithotripsy
+N26054	機械手臂輔助總膽管切開摘石術(無或有Ｔ型管引流)	Robotic-assisted choledocholithotomy with/without placement of T-tube
+N26055	機械手臂輔助右肝葉切除術	Robotic-assisted liver resection-right lobectomy
+N26056	機械手臂輔助擴大右肝葉切除術	Robotic-assisted liver resection-extended right lobectomy
+N26057	機械手臂輔助左肝葉切除術	Robotic-assisted liver resection-left lobectomy
+N26058	機械手臂輔助擴大左肝葉切除術	Robotic-assisted liver resection-extended left lobectomy
+N26059	機械手臂輔助肝部分切除術	Robotic-assisted liver resection-partial hepatectomy
+N26060	機械手臂輔助肝區域切除術（一區域）	Robotic-assisted liver resection-one segment
+N26061	機械手臂輔助肝區域切除術（二區域）	Robotic-assisted liver resection-two segments
+N26062	機械手臂輔助肝區域切除術（三區域）	Robotic-assisted liver resection-three segments
+N26063	機械手臂輔助胃繞道手術	Robotic-assisted gastric bypass
+N26064	機械手臂輔助胃空腸造口吻合術	Robotic-assisted gastrojejunostomy
+N26065	機械手臂輔助胃部分切除術	Rorbotic-assisted partial gastrectomy(ulcer or tumor)
+N26066	機械手臂輔助全胃切除-併淋巴清除及腸胃重建	Rorbotic-assisted partial gastrectomy(ulcer or tumor)
+N26067	機械手臂輔助次全胃切除-併淋巴清除及腸胃重建	Rorbotic-assisted subtotal gastrectomy with lymph node dissection,with reconstruction(any type)
+N26068	機械手臂輔助右側大腸切除術加吻合術	Rorbotic-assisted right colectomy and anastomosis
+N26069	機械手臂輔助乙狀結腸切除術加吻合術-良性	Rorbotic-assisted anterior resection and anastomosis(sigmoid colon resection)-benign
+N26070	機械手臂輔助乙狀結腸切除術加吻合術-惡性	Rorbotic-assisted anterior resection and anastomosis (sigmoid colon resection)-malignant
+N26071	機械手臂輔助左半結腸切除術	Rorbotic-assisted left hemicolectomy
+N26072	機械手臂輔助腹部會陰聯合切除術	Rorbotic-assisted combined abdominoperineal resection
+N26073	機械手臂輔助腎臟輸尿管切除術	Robotic-assisted nephroureterectomy
+N26074	機械手臂輔助根治性腎切除術	Robotic-assisted radical nephrectomy
+N26075	機械手臂輔助膀胱全切除術合併骨盆腔淋巴切除術合併正位新膀胱重建	Robotic-assisted cystectomy with pelvis LND with orthotopic neo-bladder reconstruction
+N26076	機械手臂輔助膀胱全切除術及骨盆腔淋巴切除術合併雙側輸尿管迴腸經皮分流術	Robotic-assisted radical cystectomy with pelvis LND with ileal conduit
+N26077	機械手臂輔助子宮頸癌全子宮根除術	Robotic-assisted radical hysterectomy for cervical cancer
+N26078	機械手臂輔助次全子宮切除術	Robotic-assisted subtotal hysterectomy
+N26079	機械手臂輔助陰道懸吊術	Robotic-assisted colpopexy
+N26080	機械手臂輔助骨盆腔子宮內膜異位症切除術(重度)	Robotic-assisted excision of pelvic endometriosis (severe)
+N26081	機械手臂輔助腹壁疝氣修補術-併腸切除	Robotic-assisted repair of ventral hernia -with bowel resection
+N26082	機械手臂輔助腹壁疝氣修補術-無腸切除	Robotic-assisted repair of ventral hernia -without bowel resection
+N26083	機械手臂輔助鼠蹊疝氣修補術-併腸切除	Robotic-assisted repair of inguinal hernia -with bowel resection
+N26084	機械手臂輔助鼠蹊疝氣修補術-無腸切除	Robotic-assisted repair of inguinal hernia -without bowel resection
+N26085	機械手臂輔助腹壁疝氣修補術，嵌頓性-無腸切除	Robotic-assisted repair of inguinal hernia incarceration -without bowel resection
+N26086	機械手臂輔助腹壁疝氣修補術，復發性-無腸切除	Robotic-assisted repair of ventral hernia recurrence-without bowel resection
+N26087	機械手臂輔助鼠蹊疝氣修補術，嵌頓性-無腸切除	Robotic-assisted repair of ventral hernia incarceration-without bowel resection
+N26088	機械手臂輔助鼠蹊疝氣修補術，復發性-無腸切除	Robotic-assisted repair of inguinal hernia recurrence - without bowel resection
+N26089	機械手臂輔助食道再造術－以大腸重建	Robotic-assisted esophageal reconstruction-with colon
+N26090	機械手臂輔助食道再造術－以小腸重建	Robotic-assisted esophageal reconstruction-with small intestine
+N26091	機械手臂輔助食道胃管重建術	Robotic-assisted esophageal reconstruction with gastric conduit
+N26092	機械手臂輔助局部膝關節置換手術	(PKA)
+N26093	機械手臂輔助全膝關節置換手術	(TKA)
+N26094	機械手臂輔助全髖關節置換手術	(THA)

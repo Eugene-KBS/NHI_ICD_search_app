@@ -11,7 +11,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="醫療碼">
 <meta name="mobile-web-app-capable" content="yes">
-<title>醫療碼搜尋（健保手術碼 + ICD-10-CM）</title>
+<title>醫療碼搜尋（健保碼 + ICD-10-CM）</title>
 <style>
   :root{
     --bg:#f1f5f9;--card:#fff;--ink:#0f172a;--sub:#64748b;--line:#e2e8f0;
@@ -79,290 +79,470 @@
   .toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
   .hidden{display:none !important;}
   @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;}}
+
+  .tags{margin-bottom:6px;}
+  .sect{font-size:11px;color:#64748b;background:#f1f5f9;border-radius:6px;padding:2px 7px;}
+  .nb{font-size:11px;color:#92400e;background:#fef3c7;border-radius:6px;padding:2px 7px;}
+  .card.dim{opacity:.55;}
+  .card.dim.sel{opacity:.9;}
+  .notebtn{display:inline-flex;align-items:center;min-height:40px;margin:2px 0 -8px -8px;padding:0 8px;border:none;background:transparent;color:var(--blue);font-size:13px;font-weight:600;cursor:pointer;}
+  .note{display:none;margin:6px -28px 0 0;padding:10px 12px;background:#f8fafc;border:1px solid var(--line);border-radius:10px;font-size:13px;color:#334155;cursor:default;user-select:text;-webkit-user-select:text;}
+  .note b{display:block;font-size:11px;color:#64748b;margin-bottom:4px;}
+  .note div{white-space:pre-wrap;word-break:break-word;}
+  .card.open .note{display:block;}
+  .sec-h{font-size:12px;font-weight:700;color:#64748b;margin:14px 2px 8px;letter-spacing:.5px;}
+  .sec-h:first-child{margin-top:0;}
+  .part-h{font-size:13px;font-weight:700;color:#334155;margin:16px 2px 8px;}
+  .part-h:first-child{margin-top:0;}
+  .part-h span{color:var(--blue);margin-right:4px;}
+  body.icd .part-h span{color:var(--teal);}
+  .morebtn{display:block;width:100%;min-height:44px;border:1px solid var(--line);background:#fff;border-radius:12px;color:#475569;font-size:14px;font-weight:600;cursor:pointer;margin:0 0 10px;}
+  .hint{text-align:center;padding:48px 16px;color:#94a3b8;font-size:15px;}
+  .foot-note{text-align:center;color:#94a3b8;font-size:11px;padding:14px 8px 4px;line-height:1.6;}
+  .clr{position:absolute;right:2px;top:50%;transform:translateY(-50%);width:40px;height:40px;border:none;background:transparent;color:#94a3b8;cursor:pointer;display:flex;align-items:center;justify-content:center;}
+  .clr svg{width:18px;height:18px;}
+  #q{padding-right:42px;}
+  .status:empty{margin:0;}
+  #q::placeholder{font-size:14px;color:#94a3b8;}
+  .status.warn{color:#b45309;}
+  .crow{padding:12px 6px 12px 14px;}
+  .crow .body{cursor:pointer;}
+  .crow .act{display:flex;align-items:center;flex-shrink:0;margin-top:-4px;}
+  .rm,.up{position:static;width:40px;height:40px;border:none;background:transparent;color:#64748b;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;}
+  .rm svg{width:18px;height:18px;}
+  .up:hover{color:var(--blue);background:var(--blue-soft);}
+  .main-tag{font-size:11px;font-weight:700;color:var(--amber-ink);background:var(--amber-bg);border-radius:6px;padding:2px 7px;}
+  .total{font-weight:700;color:var(--green);text-align:right;margin:2px 4px 6px;font-size:15px;}
+  .total small{display:block;font-weight:500;font-size:11px;color:#64748b;}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px;}
+  .chip{min-height:40px;border:1px solid var(--blue);background:var(--blue-soft);color:#1e40af;border-radius:999px;padding:0 14px;font-size:13px;font-weight:600;cursor:pointer;max-width:100%;}
+  .chip b{font-family:ui-monospace,Menlo,Consolas,monospace;margin-right:6px;}
+  .links{display:flex;flex-wrap:wrap;gap:4px 18px;justify-content:center;margin:18px 0 8px;}
+  .lnk{min-height:40px;border:none;background:transparent;color:#64748b;font-size:13px;text-decoration:underline;cursor:pointer;padding:0 4px;}
+  .foot-inner .row{display:flex;gap:10px;}
+  .foot-inner .row button{flex:1;}
+  .btn1{border:none;cursor:pointer;padding:14px 10px;min-height:48px;border-radius:12px;font-weight:700;font-size:15px;color:#fff;background:linear-gradient(90deg,var(--blue),#4f46e5);box-shadow:0 8px 24px rgba(30,64,175,.28);}
+  .btn2{border:none;cursor:pointer;padding:14px 10px;min-height:48px;border-radius:12px;font-weight:700;font-size:15px;color:#fff;background:#1e293b;box-shadow:0 8px 24px rgba(0,0,0,.2);}
+  .gobtn{min-height:48px;}
+  .gobtn .rhs{color:#dbeafe;}
+  .foot{padding:16px 16px calc(16px + env(safe-area-inset-bottom));}
+  .toast{bottom:calc(96px + env(safe-area-inset-bottom));width:max-content;max-width:90vw;text-align:center;}
+  body{padding-bottom:calc(100px + env(safe-area-inset-bottom));overflow-x:hidden;}
+  .wrap,.bar-inner{padding-left:max(16px,env(safe-area-inset-left));padding-right:max(16px,env(safe-area-inset-right));}
+  .zh,.en{word-break:break-word;}
+  .tab{min-height:40px;}
+  .iconbtn{min-width:40px;min-height:40px;align-items:center;justify-content:center;}
 </style>
 </head>
 <body>
 
-<!-- ===== SEARCH VIEW ===== -->
+<!-- ===== 搜尋畫面 ===== -->
 <div id="searchView">
   <div class="bar"><div class="bar-inner">
     <div class="tabs">
-      <button class="tab on" id="tabNhi" data-tab="nhi">健保手術碼</button>
+      <button class="tab on" id="tabNhi" data-tab="nhi">健保碼</button>
       <button class="tab" id="tabIcd" data-tab="icd">ICD-10-CM</button>
     </div>
     <div class="field">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-      <input id="q" type="text" autocomplete="off">
+      <input id="q" type="text" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="search" aria-label="搜尋">
+      <button class="clr hidden" id="clr" aria-label="清除"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
     </div>
     <div id="status" class="status"></div>
   </div></div>
   <div class="wrap"><div id="results" class="list"></div></div>
 </div>
 
-<!-- ===== COMPARE VIEW (健保 only) ===== -->
-<div id="compareView" class="hidden">
+<!-- ===== 病人清單 ===== -->
+<div id="patientView" class="hidden">
   <div class="bar"><div class="bar-inner" style="display:flex;align-items:center;gap:12px;">
     <button class="iconbtn" id="toSearch" aria-label="返回">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"/><polyline points="12 19 5 12 12 5"/></svg>
     </button>
-    <div><h1 class="htitle">已選項目比較</h1><p class="hsub">自動依點數排序（高 → 低）</p></div>
+    <div><h1 class="htitle">本次病人</h1><p class="hsub">診斷依點選順序・手術依點數高 → 低</p></div>
   </div></div>
-  <div class="wrap"><div id="compareList" class="list"></div></div>
+  <div class="wrap"><div id="patientList" class="list"></div></div>
 </div>
 
 <div class="foot"><div class="foot-inner">
-  <button id="goCompare" class="gobtn hide">
-    <span class="lhs"><span class="badge" id="goBadge">0</span><span>查看比較清單</span></span>
-    <span class="rhs">前往排序 ›</span>
+  <button id="goPatient" class="gobtn hide">
+    <span class="lhs" id="goL">本次病人　</span><span class="rhs" id="goR"></span>
   </button>
-  <button id="goBack" class="backbtn hidden">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>繼續搜尋
-  </button>
+  <div id="pBtns" class="row hidden">
+    <button class="btn1" id="copyAll">複製全部</button>
+    <button class="btn2" id="finish">完成並清空</button>
+  </div>
 </div></div>
+<input type="file" id="importFile" accept=".json,application/json" class="hidden">
 <div id="toast" class="toast"></div>
 
+<script src="./search.js"></script>
+<script src="./learn.js"></script>
 <script>
-/* ════════════════════════════════════════════════════════════════
-   資料來源設定
-   ── app 會去「同一個資料夾」抓這兩個檔：
-        nhi.txt  ← 健保手術碼（格式 代碼|中文 English|點數）
-        icd.txt  ← ICD-10-CM（格式 代碼|中文 English，無點數）
-   ── 找不到檔時（例如本機雙擊開啟）會顯示下方示範資料並提示。
-   ════════════════════════════════════════════════════════════════ */
-const NHI_FILE = 'nhi.txt';
-const ICD_FILE = 'icd.txt';
-const RESULT_CAP = 300;   // 一次最多顯示幾筆（避免畫面卡頓）
+'use strict';
+const EMBED = /[?&]embed=1\b/.test(location.search);
+const RESULT_CAP = 300, PAGE = 60, PART_FIRST = 8, PART_PAGE = 20;
+const NHI_COMMON = ['48004C','48005C','48006C','48001C','62014C','62015B','62007C','62045B','62046C','62047C','62018C','62025B','62032B','62073B','62010C','62001C','64153B','64090C','83094B','64025C'];
+const CIRC = ['①','②','③','④'];
+const PLACEHOLDER={nhi:'代碼、中英文、縮寫（STSG、清創）',icd:'代碼、中英文、縮寫（keloid、rt fx）'};
+const NHI_SAMPLE_ROWS = [
+  ['62032B','顯微血管游離瓣手術 － 皮瓣移植','Microvascular free flap - skin flap',46539,'',''],
+  ['64153B','斷指再接手術 － 一隻手指','Replantation of finger',26157,'','']
+];
+const ICD_SAMPLE = 'L91.0|蟹足腫（瘢痕疙瘩）|Hypertrophic scar (keloid)\nS62.610A|右側食指近端指骨移位閉鎖性骨折之初期照護|Displaced fracture of proximal phalanx of right index finger, initial encounter for closed fracture\nC44.90|皮膚惡性腫瘤，未明示|Malignant neoplasm of skin, unspecified';
 
-/* 找不到資料檔時的示範資料（請用官方檔案取代） */
-const NHI_SAMPLE = `62032B|顯微血管游離瓣手術－ 皮瓣移植 Microvascular free flap skin flap|26627
-64141C|一般瘢痕攣縮鬆弛術 Release of scar contracture|11301
-68023B|冠狀動脈繞道手術－ 一條血管Coronary artery bypass grafting(CABG) one vessel|44014`;
-const ICD_SAMPLE = `C44.90|皮膚惡性腫瘤，未明示|Malignant neoplasm of skin, unspecified
-L91.0|蟹足腫（瘢痕疙瘩）|Hypertrophic scar (keloid)
-Q36.9|單側唇裂|Cleft lip, unilateral
-T20.20XA|頭頸部二度燒傷，初診|Burn of second degree of head, neck, initial`;
-
-/* ── 解析 ───────────────────────────────────────────── */
-function splitDesc(desc){
-  let lastZh=-1;
-  for(let i=desc.length-1;i>=0;i--){ if(/[\u4e00-\u9fa5]/.test(desc[i])){ lastZh=i; break; } }
-  let zh='',en='';
-  if(lastZh!==-1){ let cut=lastZh+1; const t=desc.slice(cut).match(/^(\s*[)）])/); if(t)cut+=t[0].length; zh=desc.slice(0,cut).trim(); en=desc.slice(cut).trim(); }
-  else en=desc;
-  return { zh:zh.replace(/^[-－]\s*/,''), en:en.replace(/^[-－]\s*/,'') };
-}
-function parseNhi(raw){
-  const seen=new Set();
-  return raw.split('\n').map(line=>{
-    line=line.trim(); if(!line) return null;
-    const m=line.match(/^(\d{5}[A-Z])/);                 // 健保碼缺「|」自動修補
-    if(m && line.charAt(m[1].length)!=='|') line=m[1]+'|'+line.slice(m[1].length);
-    if(line.indexOf('|')===-1) return null;
-    const p=line.split('|'); if(p.length<2) return null;
-    const code=p[0].trim(); if(seen.has(code)) return null; seen.add(code);
-    const points=p[p.length-1].trim();
-    const desc=p.slice(1,p.length-1).join(' ').trim()||p[1].trim();
-    const d=splitDesc(desc);
-    const abbr=[]; const pm=d.en.match(/\(([A-Z.\-]{2,})\)/g); if(pm)pm.forEach(x=>abbr.push(x.replace(/[()]/g,'').toLowerCase()));
-    return {code,zh:d.zh,en:d.en,points,abbr,_c:code.toLowerCase(),_e:d.en.toLowerCase(),_z:d.zh.toLowerCase(),_ew:ewords(d.en)};
-  }).filter(Boolean);
-}
-function parseIcd(raw){
-  const seen=new Set();
-  return raw.split('\n').map(line=>{
-    line=line.trim(); if(!line) return null;
-    const p=line.indexOf('|'); if(p<0) return null;
-    const code=line.slice(0,p).trim(); if(seen.has(code)) return null; seen.add(code);
-    const rest=line.slice(p+1); const p2=rest.indexOf('|');
-    let zh,en;
-    if(p2>=0){ zh=rest.slice(0,p2).trim(); en=rest.slice(p2+1).trim(); }   // 代碼|中文|英文（官方檔）
-    else { const d=splitDesc(rest.trim()); zh=d.zh; en=d.en; }             // 向下相容 代碼|中文 英文
-    return {code,zh,en,points:null,abbr:[],_c:code.toLowerCase(),_e:en.toLowerCase(),_z:zh.toLowerCase(),_ew:ewords(en)};
-  }).filter(Boolean);
-}
-
-/* ── 工具 ───────────────────────────────────────────── */
-function ewords(en){ return en.toLowerCase().replace(/[()]/g,' ').split(/[\s,.\-\/]+/).filter(Boolean); }
-
-/* 常用醫學縮寫 → 對應英文(可多個)＋中文。查詢時自動展開比對。
-   英文以「字首」比對英文描述；中文以「子字串」比對中文描述。 */
-const SYN = {
-  rt:['right','右'], lt:['left','左'], bilat:['bilateral','雙側'], bil:['bilateral','雙側'], uni:['unilateral','單側'],
-  fx:['fracture','骨折'], fxs:['fracture','骨折'], dislo:['dislocation','脫位'],
-  bx:['biopsy','切片'], exc:['excision','切除'], resec:['resection','切除'], rec:['reconstruction','重建'],
-  recon:['reconstruction','重建'], rep:['repair','修補'], amp:['amputation','截肢','切斷'], lac:['laceration','裂傷'],
-  ca:['cancer','carcinoma','癌'], tumor:['tumor','tumour','腫瘤'], mets:['metastatic','metastasis','轉移'],
-  inj:['injection','注射'], inf:['infection','感染'], abd:['abdomen','abdominal','腹'], thx:['thorax','thoracic','胸'],
-  ant:['anterior','前'], post:['posterior','後'], prox:['proximal','近端'], dist:['distal','遠端'],
-  sup:['superior'], infr:['inferior'], med:['medial'], lous:['lateral'],
-  unsp:['unspecified','未明示'], excis:['excision','切除'], grft:['graft','移植'], flap:['flap','皮瓣'],
-  burn:['burn','燒傷'], debride:['debridement','清創'], dx:['diagnosis'], tx:['treatment','治療'], hx:['history'],
-  w:['with'], wo:['without'], wi:['with']
+/* ── 安全儲存（Safari 私密模式、額度滿都不能讓 app 壞掉）── */
+const store = {
+  getItem(k){ try{ return window.localStorage.getItem(k); }catch(e){ return null; } },
+  setItem(k,v){ try{ window.localStorage.setItem(k,v); }catch(e){} }
 };
-function expandTok(tk){ return SYN[tk] ? [tk].concat(SYN[tk]) : [tk]; }
+let L;
+try{ L = MedLearn.create(store); }catch(e){ L = null; }
+if(!L){ const z=()=>0; L={recordUse:z,usageBoost:z,recent:()=>[],frequent:()=>[],commitCase:()=>false,assocBoost:z,suggest:()=>[],recordMiss:z,misses:()=>[],clearMisses:z,exportData:()=>'{}',importData:()=>false,stats:()=>({}),reset:z}; }
+function safe(fn, dflt){ try{ return fn(); }catch(e){ return dflt; } }
 
-function ptVal(p){ if(!p) return 0; return parseInt(String(p).replace(/,/g,''),10)||0; }
-function esc(s){ return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
-function hl(s,term){ s=esc(s); if(!term) return s; const t=term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); try{return s.replace(new RegExp('('+t+')','ig'),'<mark>$1</mark>');}catch(e){return s;} }
-
-/* ── 狀態 ───────────────────────────────────────────── */
-const DB = { nhi:[], icd:[] };
-const TERM = { nhi:'', icd:'' };
+/* ── 狀態 ── */
+let engine = null, lexicon = null, nhiDate = '', usingSample = false;
+let nhiReady = false, loadingMsg = '載入資料中…';
 let tab = 'nhi';
-const picked = {};               // 健保比較清單（code -> true）
+const TERM = { nhi:'', icd:'' };
+let tray = { dx:[], op:[] };          // 項目：{c, zh, en, p}
+try{ const t=JSON.parse(store.getItem('medcode.tray.v1')||'null'); if(t && Array.isArray(t.dx) && Array.isArray(t.op)) tray={dx:t.dx.filter(x=>x&&x.c),op:t.op.filter(x=>x&&x.c)}; }catch(e){}
+let cur = null;                        // 目前搜尋結果 {kind,q,res,shown,partShown}
+const openNotes = new Set();
+let missTimer = null, lastNote = '';
 
-/* ── 搜尋 ───────────────────────────────────────────── */
-function tokenHit(s, tk){
-  const cands=expandTok(tk);
-  for(let k=0;k<cands.length;k++){
-    const c=cands[k];
-    if(/[\u4e00-\u9fa5]/.test(c)){ if(s._z.indexOf(c)>-1) return true; }   // 中文：子字串
-    else { for(let j=0;j<s._ew.length;j++){ if(s._ew[j].indexOf(c)===0) return true; } } // 英文：字首
-  }
-  if(s._z.indexOf(tk)>-1) return true;                                     // 原始詞也比對中文
-  return false;
-}
-function search(which, term){
-  const data=DB[which]; term=term.trim().toLowerCase();
-  if(!term) return { rows:data.slice(0,RESULT_CAP), total:data.length };
-  const toks=term.split(/\s+/).filter(Boolean);
-  const codeQ=term.replace(/\./g,'');
-  const scored=[];
-  for(let i=0;i<data.length;i++){
-    const s=data[i]; let sc=0;
-    if(s._c===term) sc+=2000; else if(s._c.indexOf(term)===0) sc+=1000; else if(s._c.replace(/\./g,'').indexOf(codeQ)>-1) sc+=120;
-    if(s.abbr.length){ if(s.abbr.indexOf(term)>-1) sc+=3000; else if(s.abbr.some(a=>a.indexOf(term)>-1)) sc+=150; }
-    if(toks.every(tk=>tokenHit(s,tk))){ sc+=700; if(s._ew.indexOf(term)>-1) sc+=250; }
-    if(s._z.indexOf(term)>-1) sc+=500;
-    if(sc>0) scored.push({s,sc});
-  }
-  scored.sort((a,b)=>b.sc-a.sc);
-  return { rows:scored.slice(0,RESULT_CAP).map(o=>o.s), total:scored.length };
-}
-
-/* ── 畫面 ───────────────────────────────────────────── */
-const elResults=document.getElementById('results'), elCompare=document.getElementById('compareList');
-const elQ=document.getElementById('q'), elStatus=document.getElementById('status');
-const elGo=document.getElementById('goCompare'), elGoBadge=document.getElementById('goBadge'), elBack=document.getElementById('goBack');
-const elToast=document.getElementById('toast');
+/* ── 小工具 ── */
+const $ = id => document.getElementById(id);
+const elResults=$('results'), elQ=$('q'), elStatus=$('status'), elToast=$('toast'), elPatient=$('patientList');
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function hl(text, terms){ try{ return MedSearch.highlight(text, terms||[]); }catch(e){ return esc(text); } }
+function fmt(n){ return Number(n||0).toLocaleString('en-US'); }
 const checkSVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
 const xSVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>';
-function ptsBadge(p){ return '<span class="pts">'+esc(p)+' <small>pts</small></span>'; }
 
-function renderResults(){
-  const term=TERM[tab];
-  if(DB[tab].length===0){ elResults.innerHTML='<div class="empty">資料尚未載入。</div>'; return; }
-  const {rows,total}=search(tab,term);
-  if(rows.length===0){ elResults.innerHTML='<div class="empty">沒有符合的項目</div>'; return; }
-  let html=rows.map(s=>{
-    if(tab==='nhi'){
-      const on=!!picked[s.code];
-      return '<div class="card'+(on?' sel':'')+'" data-code="'+esc(s.code)+'">'
-        +'<div class="check">'+checkSVG+'</div>'
-        +'<div class="tags"><span class="code">'+esc(s.code)+'</span>'+ptsBadge(s.points)+'</div>'
-        +(s.zh?'<p class="zh">'+hl(s.zh,term)+'</p>':'')
-        +(s.en?'<p class="en">'+hl(s.en,term)+'</p>':'')+'</div>';
-    } else {
-      return '<div class="card" data-code="'+esc(s.code)+'">'
-        +'<div class="copyhint">點擊複製</div>'
-        +'<div class="tags"><span class="code">'+esc(s.code)+'</span></div>'
-        +(s.zh?'<p class="zh">'+hl(s.zh,term)+'</p>':'')
-        +(s.en?'<p class="en">'+hl(s.en,term)+'</p>':'')+'</div>';
-    }
-  }).join('');
-  if(total>rows.length) html+='<div class="more">顯示前 '+rows.length+' 筆（共 '+total+' 筆符合），請輸入更精確關鍵字</div>';
-  elResults.innerHTML=html;
-}
-function renderCompare(){
-  const items=DB.nhi.filter(s=>picked[s.code]).sort((a,b)=>ptVal(b.points)-ptVal(a.points));
-  if(items.length===0){ elCompare.innerHTML='<div class="empty">清單是空的<br><span style="font-size:14px">回搜尋頁點卡片即可加入比較</span></div>'; return; }
-  elCompare.innerHTML=items.map((s,i)=>'<div class="crow">'
-    +'<div class="rank'+(i<3?' top':'')+'">'+(i+1)+'</div>'
-    +'<div class="body"><div class="tags"><span class="code">'+esc(s.code)+'</span>'+ptsBadge(s.points)+'</div>'
-    +'<p class="zh">'+esc(s.zh)+'</p>'+(s.en?'<p class="en">'+esc(s.en)+'</p>':'')+'</div>'
-    +'<button class="rm" data-code="'+esc(s.code)+'">'+xSVG+'</button></div>').join('');
-}
-function refreshFooter(){
-  const n=Object.keys(picked).length;
-  elGoBadge.textContent=n;
-  const showGo = (tab==='nhi' && n>0);
-  elGo.classList.toggle('hide', !showGo);
-}
-function toggle(code){ if(picked[code]) delete picked[code]; else picked[code]=true; refreshFooter(); }
-
-function showToast(msg){ elToast.textContent=msg; elToast.classList.add('show'); clearTimeout(showToast._t); showToast._t=setTimeout(()=>elToast.classList.remove('show'),1300); }
-function copyCode(code){
-  if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(code).then(()=>showToast('已複製 '+code)).catch(()=>showToast(code)); }
-  else showToast(code);
+function showToast(msg, ms){ elToast.textContent=msg; elToast.classList.add('show'); clearTimeout(showToast._t); showToast._t=setTimeout(()=>elToast.classList.remove('show'), ms||1600); }
+function copyText(text){
+  return new Promise(resolve=>{
+    const fallback=()=>{
+      try{
+        const ta=document.createElement('textarea'); ta.value=text; ta.setAttribute('readonly','');
+        ta.style.cssText='position:fixed;top:0;left:0;opacity:0;font-size:16px;';
+        document.body.appendChild(ta); ta.focus(); ta.select(); ta.setSelectionRange(0,text.length);
+        const ok=document.execCommand('copy'); document.body.removeChild(ta); resolve(!!ok);
+      }catch(e){ resolve(false); }
+    };
+    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(text).then(()=>resolve(true)).catch(fallback); }
+    else fallback();
+  });
 }
 
-/* ── 分頁切換 ─────────────────────────────────────── */
-function setTab(which){
-  tab=which;
-  document.getElementById('tabNhi').classList.toggle('on', which==='nhi');
-  document.getElementById('tabIcd').classList.toggle('on', which==='icd');
-  document.getElementById('tabIcd').classList.toggle('icd', which==='icd');
-  document.body.classList.toggle('icd', which==='icd');
-  elQ.placeholder = which==='nhi' ? '搜尋健保碼、英文、中文或縮寫（如 CABG）…' : '搜尋 ICD 代碼、英文或中文（如 L91.0、keloid）…';
-  elQ.value = TERM[which];
-  refreshFooter(); renderResults(); window.scrollTo(0,0);
+/* ── 病人清單資料 ── */
+function trayCodes(){ return tray.dx.map(x=>x.c).concat(tray.op.map(x=>x.c)); }
+function inTray(kind, code){ return (kind==='icd'?tray.dx:tray.op).some(x=>x.c===code); }
+function saveTray(){ store.setItem('medcode.tray.v1', JSON.stringify(tray)); }
+function opsSorted(){ return tray.op.slice().sort((a,b)=>(b.p||0)-(a.p||0)); }
+function entryOf(rec){ return { c:rec.code, zh:rec.zh||'', en:rec.en||'', p:rec.points==null?0:Number(rec.points) }; }
+function addToTray(rec){
+  const list = rec.kind==='icd' ? tray.dx : tray.op;
+  if(!list.some(x=>x.c===rec.code)) list.push(entryOf(rec));
+  safe(()=>L.recordUse(rec.kind, rec.code)); saveTray(); refreshBar();
 }
-
-/* ── 事件 ───────────────────────────────────────────── */
-let deb;
-elQ.addEventListener('input',()=>{ TERM[tab]=elQ.value; clearTimeout(deb); deb=setTimeout(renderResults,120); });
-document.getElementById('tabNhi').addEventListener('click',()=>setTab('nhi'));
-document.getElementById('tabIcd').addEventListener('click',()=>setTab('icd'));
-elResults.addEventListener('click',e=>{
-  const card=e.target.closest('.card'); if(!card) return;
-  const code=card.getAttribute('data-code');
-  if(tab==='nhi'){ toggle(code); card.classList.toggle('sel', !!picked[code]); }
-  else { copyCode(code); }
-});
-elCompare.addEventListener('click',e=>{ const b=e.target.closest('.rm'); if(!b) return; toggle(b.getAttribute('data-code')); renderCompare(); });
-function show(view){
-  document.getElementById('searchView').classList.toggle('hidden', view!=='search');
-  document.getElementById('compareView').classList.toggle('hidden', view!=='compare');
-  elGo.classList.toggle('hidden', view!=='search');
-  elBack.classList.toggle('hidden', view!=='compare');
-  if(view==='search'){ refreshFooter(); renderResults(); }
-  window.scrollTo(0,0);
+function removeFromTray(kind, code){
+  const k = kind==='icd' ? 'dx' : 'op';
+  tray[k] = tray[k].filter(x=>x.c!==code); saveTray(); refreshBar();
 }
-elGo.addEventListener('click',()=>{ renderCompare(); show('compare'); });
-elBack.addEventListener('click',()=>show('search'));
-document.getElementById('toSearch').addEventListener('click',()=>show('search'));
+function refreshBar(){
+  const n = tray.dx.length + tray.op.length;
+  $('goR').textContent = '診斷 '+tray.dx.length+'・手術 '+tray.op.length+'　›';
+  const inSearch = !$('searchView').classList.contains('hidden');
+  $('goPatient').classList.toggle('hide', !(n>0 && inSearch));
+}
+function markSel(kind, code){
+  const on = inTray(kind, code);
+  elResults.querySelectorAll('.card').forEach(c=>{ if(c.dataset.code===code && c.dataset.kind===kind) c.classList.toggle('sel', on); });
+}
+function recOf(kind, code){ return engine ? safe(()=>engine.get(kind, code), undefined) : undefined; }
+function shortZh(s){ s=String(s||'').replace(/\s*[－-]\s*/g,' '); return s.length>10 ? s.slice(0,10)+'…' : s; }
 
-/* ── 載入資料 ─────────────────────────────────────── */
-async function load(file, parser, sample, label){
-  try{
-    const r=await fetch(file,{cache:'no-cache'});
-    if(!r.ok) throw new Error('http '+r.status);
-    const txt=await r.text();
-    const data=parser(txt);
-    if(!data.length) throw new Error('empty');
-    return {data, ok:true};
-  }catch(e){
-    return {data:parser(sample), ok:false};
+/* ── 卡片 ── */
+function cardHTML(r, kind){
+  const rec=r.rec, on=inTray(kind, rec.code), t=r.terms||[];
+  let h='<div class="card'+(on?' sel':'')+((kind==='icd' && rec.billable===false)?' dim':'')+(openNotes.has(rec.code)?' open':'')+'" data-kind="'+kind+'" data-code="'+esc(rec.code)+'">'
+    +'<div class="check">'+checkSVG+'</div><div class="tags"><span class="code">'+esc(rec.code)+'</span>';
+  if(kind==='nhi'){
+    if(rec.points!=null) h+='<span class="pts">'+fmt(rec.points)+' <small>pts</small></span>';
+    const lab = rec.sect && rec.sect.label; if(lab) h+='<span class="sect">'+esc(lab)+'</span>';
+  } else if(rec.billable===false) h+='<span class="nb">上層碼・不可申報</span>';
+  h+='</div>';
+  if(rec.zh) h+='<p class="zh">'+hl(rec.zh,t)+'</p>';
+  if(rec.en) h+='<p class="en">'+hl(rec.en,t)+'</p>';
+  if(kind==='nhi' && rec.note){
+    h+='<button class="notebtn" data-act="note">規範 '+(openNotes.has(rec.code)?'▴':'▾')+'</button>'
+      +'<div class="note"><b>健保署支付規範（官方原文）</b><div>'+esc(rec.note)+'</div></div>';
+  }
+  return h+'</div>';
+}
+function plainCard(rec, kind){ return cardHTML({rec:rec, terms:[]}, kind); }
+
+/* ── 搜尋 ── */
+function boostFn(kind){
+  const tc = trayCodes();
+  return code => safe(()=>L.usageBoost(kind,code),0) + safe(()=>L.assocBoost(code,tc),0);
+}
+function runSearch(){
+  clearTimeout(missTimer);
+  const q = TERM[tab], kind = tab;
+  if(!q.trim()){ cur=null; lastNote=''; renderEmpty(); updateStatus(); return; }
+  if(!engine || !engine.ready(kind)){ cur=null; lastNote=''; elResults.innerHTML='<div class="hint">'+(kind==='icd'?'ICD 索引建立中…':'載入資料中…')+'</div>'; updateStatus(); return; }
+  let res;
+  try{ res = engine.search(kind, q, { limit:RESULT_CAP, boost:boostFn(kind) }); }
+  catch(e){ res = { rows:[], total:0, notes:[] }; }
+  cur = { kind:kind, q:q, res:res, shown:PAGE, partShown:{} };
+  lastNote = notesText(res.notes||[]);
+  renderResults(); updateStatus();
+  if(q.trim().length>=3){
+    const partialOnly = res.rows.length>0 && res.rows.every(r=>r.via==='partial');
+    if(res.rows.length===0 || partialOnly) missTimer=setTimeout(()=>{ if(TERM[kind]===q) safe(()=>L.recordMiss(kind,q)); }, 2500);
   }
 }
+function notesText(notes){
+  const out=[];
+  notes.forEach(n=>{
+    if(n.type==='fix') out.push('已修正：'+n.from+' → '+n.to);
+    else if(n.type==='syn') out.push('同義：'+n.from+' → '+n.to);
+    else if(n.type==='partial') out.push('找不到完全符合，以下為部分符合（未含：'+(n.dropped||[]).join('、')+'）');
+    else if(n.type==='split') out.push('已拆成 '+(n.labels||[]).length+' 個診斷分別搜尋');
+  });
+  return out.join('　');
+}
+function updateStatus(){
+  let msg='', spin=false, warn=false;
+  if(lastNote){ msg=lastNote; warn=/找不到/.test(lastNote); }
+  else if(!nhiReady) { msg=loadingMsg; spin=true; }
+  else if(tab==='icd' && engine && !engine.ready('icd')){ msg='ICD 索引建立中…'; spin=true; }
+  else if(usingSample){ msg='（示範資料：找不到 nhi.json / icd.txt）'; }
+  elStatus.className='status'+(warn?' warn':'');
+  elStatus.innerHTML=(spin?'<span class="spin"></span>':'')+esc(msg);
+}
+function footerHTML(){
+  return '<div class="foot-note">健保碼資料日期 '+esc(nhiDate||'—')+'（健保署開放資料，每月自動更新）・ICD-10-CM 2023 年版</div>';
+}
+function renderResults(){
+  if(!cur) return;
+  const res=cur.res, kind=cur.kind;
+  let html='';
+  if(res.parts && res.parts.length){
+    res.parts.forEach((p,i)=>{
+      const shown = cur.partShown[i] || PART_FIRST;
+      html+='<div class="part-h"><span>'+(CIRC[i]||(i+1))+'</span>'+esc(p.label)+'</div>';
+      if(!p.rows.length) html+='<div class="more">沒有符合的項目</div>';
+      html+=p.rows.slice(0,shown).map(r=>cardHTML(r,kind)).join('');
+      if(p.rows.length>shown) html+='<button class="morebtn" data-act="partmore" data-i="'+i+'">顯示更多（還有 '+(p.rows.length-shown)+' 筆）</button>';
+    });
+  } else if(!res.rows.length){
+    html='<div class="empty">沒有符合的項目</div>';
+  } else {
+    html=res.rows.slice(0,cur.shown).map(r=>cardHTML(r,kind)).join('');
+    if(res.rows.length>cur.shown) html+='<button class="morebtn" data-act="more">顯示更多（還有 '+(res.rows.length-cur.shown)+' 筆）</button>';
+    else if(res.total>res.rows.length) html+='<div class="more">顯示前 '+res.rows.length+' 筆（共 '+res.total+' 筆符合），請輸入更精確關鍵字</div>';
+  }
+  elResults.innerHTML=html+footerHTML();
+}
+function renderEmpty(){
+  const kind=tab; let html='';
+  if(!engine || !engine.ready(kind)){
+    elResults.innerHTML='<div class="hint">'+(kind==='icd'?'ICD 索引建立中…':'載入資料中…')+'</div>'; return;
+  }
+  const seen=new Set(), tc=trayCodes();
+  const sec=(title, codes)=>{
+    const recs=[]; codes.forEach(c=>{ if(seen.has(c)) return; const r=recOf(kind,c); if(r){ seen.add(c); recs.push(r); } });
+    if(recs.length) html+='<div class="sec-h">'+esc(title)+'</div>'+recs.map(r=>plainCard(r,kind)).join('');
+    return recs.length;
+  };
+  let n=0;
+  if(tc.length) n+=sec('常與已選項目一起用', safe(()=>L.suggest(kind,tc,6),[]).map(x=>x.code));
+  n+=sec('最近使用', safe(()=>L.recent(kind,10),[]));
+  n+=sec('最常用', safe(()=>L.frequent(kind,10),[]));
+  if(!n){
+    if(kind==='nhi') sec('整外常用', NHI_COMMON);
+    else html='<div class="hint">輸入關鍵字、縮寫或代碼開始搜尋</div>';
+  }
+  elResults.innerHTML=html+footerHTML();
+}
+function renderAny(){ if(TERM[tab].trim()) runSearch(); else { cur=null; renderEmpty(); } }
+
+/* ── 點卡片 ── */
+elResults.addEventListener('click', e=>{
+  const act=e.target.closest('[data-act]');
+  if(act){
+    const a=act.dataset.act;
+    if(a==='note'){
+      const card=act.closest('.card'), code=card.dataset.code;
+      const open=card.classList.toggle('open'); if(open) openNotes.add(code); else openNotes.delete(code);
+      act.textContent='規範 '+(open?'▴':'▾'); return;
+    }
+    if(a==='more' && cur){ cur.shown+=PAGE; renderResults(); return; }
+    if(a==='partmore' && cur){ const i=+act.dataset.i; cur.partShown[i]=(cur.partShown[i]||PART_FIRST)+PART_PAGE; renderResults(); return; }
+  }
+  if(e.target.closest('.note')) return;
+  const card=e.target.closest('.card'); if(!card) return;
+  const kind=card.dataset.kind, code=card.dataset.code;
+  if(inTray(kind,code)){ removeFromTray(kind,code); markSel(kind,code); if(kind==='icd') showToast('已移除 '+code); return; }
+  const rec=recOf(kind,code); if(!rec) return;
+  addToTray(rec); markSel(kind,code);
+  if(kind==='icd'){
+    copyText(code).then(ok=>showToast(ok ? '已複製 '+code+'・已加入病人清單' : code+'・已加入病人清單（請手動複製）', ok?1600:3000));
+  }
+});
+
+/* ── 分頁 / 輸入 ── */
+function setTab(which){
+  tab=which;
+  $('tabNhi').classList.toggle('on',which==='nhi');
+  $('tabIcd').classList.toggle('on',which==='icd'); $('tabIcd').classList.toggle('icd',which==='icd');
+  document.body.classList.toggle('icd',which==='icd');
+  elQ.placeholder=PLACEHOLDER[which]; elQ.value=TERM[which];
+  $('clr').classList.toggle('hidden',!elQ.value);
+  lastNote=''; runSearch(); window.scrollTo(0,0);
+}
+let deb;
+elQ.addEventListener('input',()=>{ TERM[tab]=elQ.value; $('clr').classList.toggle('hidden',!elQ.value); clearTimeout(deb); deb=setTimeout(runSearch,80); });
+elQ.addEventListener('keydown',e=>{ if(e.key==='Enter') elQ.blur(); });
+$('clr').addEventListener('click',()=>{ elQ.value=''; TERM[tab]=''; $('clr').classList.add('hidden'); runSearch(); elQ.focus(); });
+$('tabNhi').addEventListener('click',()=>setTab('nhi'));
+$('tabIcd').addEventListener('click',()=>setTab('icd'));
+
+/* ── 病人畫面 ── */
+function copyAllText(){
+  const lines=[];
+  if(tray.dx.length){ lines.push('【診斷】'); tray.dx.forEach((x,i)=>lines.push((i+1)+'. '+x.c+' '+(x.zh||x.en))); }
+  const ops=opsSorted();
+  if(ops.length){ lines.push('【手術／處置】'); ops.forEach((x,i)=>lines.push((i+1)+'. '+x.c+' '+(x.zh||x.en)+(x.p?'（'+fmt(x.p)+' 點）':''))); }
+  return lines.join('\n');
+}
+function renderPatient(){
+  const ops=opsSorted();
+  if(!tray.dx.length && !ops.length){
+    elPatient.innerHTML='<div class="empty">清單是空的<br><span style="font-size:14px">回搜尋頁點卡片即可加入</span></div>'+linksHTML(); return;
+  }
+  let h='';
+  if(tray.dx.length){
+    h+='<div class="sec-h">診斷</div>';
+    h+=tray.dx.map((x,i)=>'<div class="crow" data-kind="icd" data-code="'+esc(x.c)+'"><div class="rank'+(i===0?' top':'')+'">'+(i+1)+'</div>'
+      +'<div class="body"><div class="tags"><span class="code">'+esc(x.c)+'</span>'+(i===0?'<span class="main-tag">主診斷</span>':'')+'</div>'
+      +'<p class="zh">'+esc(x.zh)+'</p>'+(x.en?'<p class="en">'+esc(x.en)+'</p>':'')+'</div>'
+      +'<div class="act">'+(i>0?'<button class="up" data-act="up" aria-label="上移">↑</button>':'')+'<button class="rm" data-act="rm" aria-label="移除">'+xSVG+'</button></div></div>').join('');
+  }
+  if(ops.length){
+    h+='<div class="sec-h">手術／處置</div>';
+    h+=ops.map((x,i)=>'<div class="crow" data-kind="nhi" data-code="'+esc(x.c)+'"><div class="rank'+(i<3?' top':'')+'">'+(i+1)+'</div>'
+      +'<div class="body"><div class="tags"><span class="code">'+esc(x.c)+'</span>'+(x.p?'<span class="pts">'+fmt(x.p)+' <small>pts</small></span>':'')+'</div>'
+      +'<p class="zh">'+esc(x.zh)+'</p>'+(x.en?'<p class="en">'+esc(x.en)+'</p>':'')+'</div>'
+      +'<div class="act"><button class="rm" data-act="rm" aria-label="移除">'+xSVG+'</button></div></div>').join('');
+    const total=ops.reduce((s,x)=>s+(x.p||0),0);
+    h+='<div class="total">合計 '+fmt(total)+' 點<small>（單純加總，未套用多項手術折扣）</small></div>';
+  }
+  const tc=trayCodes(), sug=[];
+  ['icd','nhi'].forEach(k=>safe(()=>L.suggest(k,tc,6),[]).forEach(s=>{ const r=recOf(k,s.code); if(r) sug.push({r:r,n:s.n}); }));
+  sug.sort((a,b)=>b.n-a.n);
+  if(sug.length){
+    h+='<div class="sec-h">常一起用</div><div class="chips">'+sug.slice(0,6).map(s=>'<button class="chip" data-act="chip" data-kind="'+s.r.kind+'" data-code="'+esc(s.r.code)+'"><b>'+esc(s.r.code)+'</b>'+esc(shortZh(s.r.zh||s.r.en))+'</button>').join('')+'</div>';
+  }
+  elPatient.innerHTML=h+linksHTML();
+}
+function linksHTML(){
+  return '<div class="links"><button class="lnk" data-act="clearraw">直接清空（不記錄）</button><button class="lnk" data-act="export">匯出使用紀錄</button><button class="lnk" data-act="import">匯入使用紀錄</button></div>';
+}
+function showView(v){
+  clearTimeout(showToast._t); elToast.classList.remove('show');
+  $('searchView').classList.toggle('hidden',v!=='search');
+  $('patientView').classList.toggle('hidden',v!=='patient');
+  $('pBtns').classList.toggle('hidden',v!=='patient');
+  if(v==='patient'){ renderPatient(); $('goPatient').classList.add('hide'); }
+  else { refreshBar(); renderAny(); }
+  window.scrollTo(0,0);
+}
+function commit(){
+  const dx=tray.dx.map(x=>x.c), op=opsSorted().map(x=>x.c);
+  return safe(()=>L.commitCase(dx,op),false);
+}
+function download(name, text){
+  try{
+    const file=new File([text],name,{type:'application/json'});
+    if(navigator.canShare && navigator.canShare({files:[file]}) && navigator.share){ navigator.share({files:[file],title:name}).catch(()=>{}); return; }
+  }catch(e){}
+  try{
+    const a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([text],{type:'application/json'})); a.download=name;
+    document.body.appendChild(a); a.click(); setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); },1000);
+  }catch(e){ showToast('匯出失敗'); }
+}
+elPatient.addEventListener('click',e=>{
+  const act=e.target.closest('[data-act]'), row=e.target.closest('.crow');
+  if(act){
+    const a=act.dataset.act;
+    if(a==='rm'&&row){ removeFromTray(row.dataset.kind,row.dataset.code); renderPatient(); return; }
+    if(a==='up'&&row){ const i=tray.dx.findIndex(x=>x.c===row.dataset.code); if(i>0){ const t=tray.dx[i]; tray.dx[i]=tray.dx[i-1]; tray.dx[i-1]=t; saveTray(); renderPatient(); } return; }
+    if(a==='chip'){ const r=recOf(act.dataset.kind,act.dataset.code); if(r){ addToTray(r); renderPatient(); } return; }
+    if(a==='clearraw'){ tray={dx:[],op:[]}; saveTray(); showToast('已清空（未記錄）'); showView('search'); return; }
+    if(a==='export'){ const d=new Date(), p=n=>String(n).padStart(2,'0'); download('medcode-usage-'+d.getFullYear()+p(d.getMonth()+1)+p(d.getDate())+'.json', safe(()=>L.exportData(),'{}')); return; }
+    if(a==='import'){ $('importFile').click(); return; }
+  }
+  if(row && e.target.closest('.body')){ const c=row.dataset.code; copyText(c).then(ok=>showToast(ok?'已複製 '+c:c, ok?1400:3000)); }
+});
+$('importFile').addEventListener('change',e=>{
+  const f=e.target.files && e.target.files[0]; if(!f) return;
+  const rd=new FileReader();
+  rd.onload=()=>{ const ok=safe(()=>L.importData(String(rd.result),{merge:true}),false); showToast(ok?'已匯入使用紀錄':'檔案格式不正確',2200); if(ok) renderPatient(); };
+  rd.onerror=()=>showToast('讀取失敗');
+  rd.readAsText(f); e.target.value='';
+});
+$('goPatient').addEventListener('click',()=>showView('patient'));
+$('toSearch').addEventListener('click',()=>showView('search'));
+$('copyAll').addEventListener('click',()=>{
+  if(!tray.dx.length && !tray.op.length) return;
+  const text=copyAllText(); commit();
+  copyText(text).then(ok=>showToast(ok?'已複製・已學習這組搭配':'無法自動複製，請改點單一代碼', ok?1800:3000));
+});
+$('finish').addEventListener('click',()=>{
+  if(!tray.dx.length && !tray.op.length){ showView('search'); return; }
+  commit(); tray={dx:[],op:[]}; saveTray(); showToast('已學習並清空'); showView('search');
+});
+
+/* ── 載入資料 ── */
+async function fetchText(u){ const r=await fetch(u); if(!r.ok) throw new Error(u+' '+r.status); return r.text(); }
 async function boot(){
-  elStatus.innerHTML='<span class="spin"></span> 載入資料中…';
-  const [nhi,icd]=await Promise.all([
-    load(NHI_FILE,parseNhi,NHI_SAMPLE,'健保'),
-    load(ICD_FILE,parseIcd,ICD_SAMPLE,'ICD')
-  ]);
-  DB.nhi=nhi.data; DB.icd=icd.data;
-  const notes=[];
-  notes.push(nhi.ok ? '健保碼 '+DB.nhi.length+' 筆' : '健保碼（示範 '+DB.nhi.length+' 筆，未找到 nhi.txt）');
-  notes.push(icd.ok ? 'ICD '+DB.icd.length+' 筆' : 'ICD（示範 '+DB.icd.length+' 筆，未找到 icd.txt）');
-  elStatus.textContent = '✓ ' + notes.join('　|　');
-  if(nhi.ok && icd.ok) setTimeout(()=>{ elStatus.textContent=''; }, 2500);
-  setTab('nhi');
+  refreshBar(); updateStatus();
+  let nhiRows;
+  try{ lexicon = JSON.parse(await fetchText('lexicon.json')); }catch(e){ lexicon=null; }
+  engine = MedSearch.createEngine({ lexicon:lexicon });
+  try{
+    const obj = JSON.parse(await fetchText('nhi.json'));
+    nhiRows = MedSearch.parseNhiJson(obj); nhiDate = obj.date || '';
+    if(!nhiRows.length) throw new Error('empty');
+  }catch(e){ usingSample=true; nhiRows=MedSearch.parseNhiJson({rows:NHI_SAMPLE_ROWS}); }
+  await engine.loadAsync('nhi', nhiRows, { sliceMs:12 });
+  nhiReady=true; setTab(tab);
+  loadIcd();
+}
+async function loadIcd(){
+  document.body.dataset.icd='loading';
+  let rows, aliases=null;
+  try{
+    const txt = await fetchText('icd.txt');
+    rows = MedSearch.parseIcdTxt(txt);
+    if(!rows.length) throw new Error('empty');
+    try{ aliases = MedSearch.parseAliasTxt(await fetchText('icd_alias.txt')); }catch(e){ aliases=null; }
+  }catch(e){ usingSample=true; rows=MedSearch.parseIcdTxt(ICD_SAMPLE); }
+  try{ await engine.loadAsync('icd', rows, { aliases:aliases, sliceMs:12 }); }catch(e){ showToast('ICD 索引建立失敗'); }
+  document.body.dataset.icd = engine.ready('icd') ? 'ready' : 'failed';
+  updateStatus();
+  if(tab==='icd') renderAny();
 }
 boot();
 
-/* ── PWA：註冊 service worker（離線快取）────────────── */
-if('serviceWorker' in navigator){
+/* ── PWA ── */
+if(!EMBED && 'serviceWorker' in navigator){
   window.addEventListener('load',()=>{ navigator.serviceWorker.register('./sw.js').catch(()=>{}); });
 }
 </script>
