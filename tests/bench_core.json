@@ -1,0 +1,1157 @@
+[
+{
+"kind": "icd",
+"q": "prox phalanx fx rt index",
+"want": [
+"S62.610A",
+"S62.610B",
+"S62.640A"
+],
+"k": 3,
+"billableFirst": true
+},
+{
+"kind": "icd",
+"q": "phalnx fracture",
+"want": [
+"S62.5",
+"S62.6",
+"S92.4",
+"S92.5"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "keloid",
+"want": [
+"L91.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "pressure sore sacrum stage 4",
+"want": [
+"L89.154"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "pressure ulcer heel lt stage 3",
+"want": [
+"L89.623"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "dm foot ulcer",
+"want": [
+"E11.621"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "diabetic foot",
+"want": [
+"E11.62",
+"E10.62",
+"E13.62"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "cellulitis rt leg",
+"want": [
+"L03.115"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "hand cellulits",
+"want": [
+"L03.11"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "nec fasc",
+"want": [
+"M72.6"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "necrotising fasciitis",
+"want": [
+"M72.6"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "open fx tibia shaft rt",
+"want": [
+"S82.2"
+],
+"k": 5,
+"billableFirst": true
+},
+{
+"kind": "icd",
+"q": "burn 2nd degree rt hand",
+"want": [
+"T23.2"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "trigger finger rt middle",
+"want": [
+"M65.331"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "cts",
+"want": [
+"G56.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "carpal tunnel rt",
+"want": [
+"G56.01"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "bcc nose",
+"want": [
+"C44.311"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "scc lip",
+"want": [
+"C44.02"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "buccal ca",
+"want": [
+"C06.0"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "melanoma foot",
+"want": [
+"C43.7"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "finger amputation rt index",
+"want": [
+"S68.11",
+"S68.12",
+"S68.61",
+"S68.62"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "lipoma back",
+"want": [
+"D17.1"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "ptosis",
+"want": [
+"H02.4"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "cleft lip",
+"want": [
+"Q36"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "gynecomastia",
+"want": [
+"N62"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "mandible fx",
+"want": [
+"S02.6"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "zygoma fx",
+"want": [
+"S02.4"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "nasal bone fx",
+"want": [
+"S02.2"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "s6261",
+"want": [
+"S62.61"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "L91.0",
+"want": [
+"L91.0"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "hypertrophic scar",
+"want": [
+"L91.0"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "dog bite hand",
+"want": [
+"S61.45",
+"W54.0"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "ganglion wrist",
+"want": [
+"M67.43"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "dupuytren",
+"want": [
+"M72.0"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "mallet finger",
+"want": [
+"M20.01"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "syndactyly",
+"want": [
+"Q70"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "polydactyly",
+"want": [
+"Q69"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "microtia",
+"want": [
+"Q17.2"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "frostbite hand",
+"want": [
+"T33.5",
+"T34.5"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "wound dehiscence",
+"want": [
+"T81.3"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "lymphedema",
+"want": [
+"I89.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "laceration scalp",
+"want": [
+"S01.01"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "lac forehead",
+"want": [
+"S01.81"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "bell palsy",
+"want": [
+"G51.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "orbital floor fx",
+"want": [
+"S02.3"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "hemangioma",
+"want": [
+"D18.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "nevus face",
+"want": [
+"D22.3"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "sebaceous cyst",
+"want": [
+"L72.3"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "epidermal cyst",
+"want": [
+"L72.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "ingrown nail",
+"want": [
+"L60.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "breast ca rt",
+"want": [
+"C50"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "蜂窩組織炎 右 小腿",
+"want": [
+"L03.115"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "壓瘡 薦骨",
+"want": [
+"L89.15"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "褥瘡",
+"want": [
+"L89"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "右食指近端指骨骨折",
+"want": [
+"S62.610",
+"S62.640"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "燙傷 二度 右手",
+"want": [
+"T23.2"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "糖尿病足",
+"want": [
+"E11.62",
+"E10.62"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "板機指",
+"want": [
+"M65.3"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "腕隧道",
+"want": [
+"G56.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "蟹足腫",
+"want": [
+"L91.0"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "乳癌",
+"want": [
+"C50"
+],
+"k": 10
+},
+{
+"kind": "icd",
+"q": "頰癌",
+"want": [
+"C06.0"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "stsg",
+"want": [
+"62014C",
+"62015B",
+"62016B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "ftsg",
+"want": [
+"62007C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "skin graft",
+"want": [
+"62014C",
+"62007C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "free flap",
+"want": [
+"62032B",
+"62073B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "alt",
+"want": [
+"62073B",
+"62032B"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "perforator flap",
+"want": [
+"62073B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "debridement",
+"want": [
+"48004C",
+"48005C",
+"48006C"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "清創",
+"want": [
+"48004C",
+"48005C",
+"48006C",
+"62072B"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "replant",
+"want": [
+"64153B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "orif",
+"want": [
+"64015C",
+"64028C",
+"64031C",
+"64032B",
+"64035C",
+"64108B"
+],
+"k": 10
+},
+{
+"kind": "nhi",
+"q": "mandible orif",
+"want": [
+"64108B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "tendon repair",
+"want": [
+"64090C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "nerve repair",
+"want": [
+"83094B",
+"83093B",
+"83034B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "lipoma",
+"want": [
+"62010C",
+"62011C",
+"62012C",
+"62001C",
+"62009C"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "z-plasty",
+"want": [
+"62018C"
+],
+"k": 1
+},
+{
+"kind": "nhi",
+"q": "zplasty",
+"want": [
+"62018C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "fasciotomy",
+"want": [
+"64197C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "local flap",
+"want": [
+"62045B",
+"62046C",
+"62047C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "carpal tunel",
+"want": [
+"64265C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "62032",
+"want": [
+"62032B"
+],
+"k": 1
+},
+{
+"kind": "nhi",
+"q": "植皮",
+"want": [
+"62014C",
+"62007C",
+"62015B"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "皮瓣",
+"want": [
+"62"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "trigger finger",
+"want": [
+"64081C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "amputation finger",
+"want": [
+"64025C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "i&d",
+"want": [
+"51020C",
+"48007C"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "remove stitches",
+"want": [
+"48025C",
+"48026C"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "拆線",
+"want": [
+"48025C",
+"48026C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "short arm cast",
+"want": [
+"95002C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "local anesthesia",
+"want": [
+"96000C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "ganglion",
+"want": [
+"64087C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "skin biopsy",
+"want": [
+"51001C",
+"51002C",
+"51003C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "eyelid tumor",
+"want": [
+"87001C",
+"87002C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "cbc",
+"want": [
+"08011C",
+"08012C",
+"08082C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "ekg",
+"want": [
+"18001C"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "cxr",
+"want": [
+"32001C",
+"32002C"
+],
+"k": 5
+},
+{
+"kind": "nhi",
+"q": "會診",
+"want": [
+"02005B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "hbo",
+"want": [
+"47054C",
+"59"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "right hand crushing injury with tendon rupture",
+"parts": [
+{
+"want": [
+"S67.21XA"
+],
+"k": 3
+},
+{
+"want": [
+"S66.02",
+"S66.12",
+"S66.22",
+"S66.32",
+"S66.42",
+"S66.52",
+"S66.82",
+"S66.92"
+],
+"k": 1
+}
+]
+},
+{
+"kind": "icd",
+"q": "right forearm muscle rupture with nerve injury",
+"parts": [
+{
+"want": [
+"S56.02",
+"S56.12",
+"S56.22",
+"S56.32",
+"S56.42",
+"S56.52",
+"S56.82",
+"S56.92"
+],
+"k": 1
+},
+{
+"want": [
+"S54.91XA",
+"S54.01XA",
+"S54.11XA",
+"S54.21XA",
+"S54.8X1A"
+],
+"k": 8
+}
+]
+},
+{
+"kind": "icd",
+"q": "left index finger open fracture with tendon laceration",
+"parts": [
+{
+"want": [
+"S62.601B",
+"S62.611B",
+"S62.621B",
+"S62.631B",
+"S62.641B",
+"S62.651B",
+"S62.661B"
+],
+"k": 8
+},
+{
+"want": [
+"S66.121A",
+"S66.321A"
+],
+"k": 8
+}
+]
+},
+{
+"kind": "icd",
+"q": "facial laceration and nasal bone fracture",
+"parts": [
+{
+"want": [
+"S01.8",
+"S01.4",
+"S01.2",
+"S01.9"
+],
+"k": 8
+},
+{
+"want": [
+"S02.2"
+],
+"k": 3
+}
+]
+},
+{
+"kind": "icd",
+"q": "右手壓砸傷合併肌腱斷裂",
+"parts": [
+{
+"want": [
+"S67.21"
+],
+"k": 3
+},
+{
+"want": [
+"S66",
+"M66.241",
+"M66.341",
+"M66.841"
+],
+"k": 8
+}
+]
+},
+{
+"kind": "icd",
+"q": "type 2 diabetes with foot ulcer",
+"want": [
+"E11.621"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "laceration with foreign body rt hand",
+"want": [
+"S61.421A"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "right hand tendon rupture",
+"want": [
+"S66.02",
+"S66.12",
+"S66.22",
+"S66.32",
+"S66.42",
+"S66.52",
+"S66.82",
+"S66.92"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "肌腱斷裂 右手",
+"want": [
+"S66.02",
+"S66.12",
+"S66.22",
+"S66.32",
+"S66.42",
+"S66.52",
+"S66.82",
+"S66.92"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "spontaneous rupture extensor tendon rt hand",
+"want": [
+"M66.241"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "distal radius fx lt",
+"want": [
+"S52.50",
+"S52.51",
+"S52.53",
+"S52.54",
+"S52.55",
+"S52.56",
+"S52.57",
+"S52.59"
+],
+"k": 5,
+"billableFirst": true
+},
+{
+"kind": "icd",
+"q": "proximal humerus fracture rt",
+"want": [
+"S42.2"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "toe fracture lt",
+"want": [
+"S92.4",
+"S92.5",
+"S92.91"
+],
+"k": 5
+},
+{
+"kind": "icd",
+"q": "htn",
+"want": [
+"I10"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "burn",
+"want": [
+"T20",
+"T21",
+"T22",
+"T23",
+"T24",
+"T25",
+"T30",
+"T31"
+],
+"k": 3
+},
+{
+"kind": "icd",
+"q": "right hand tendon laceration",
+"want": [
+"S66.821A",
+"S66.921A"
+],
+"k": 2
+},
+{
+"kind": "icd",
+"q": "S62.61",
+"want": [
+"S62.61"
+],
+"k": 1,
+"codeOrder": [
+"S62.61",
+"S62.610",
+"S62.610A",
+"S62.610B",
+"S62.610D"
+]
+},
+{
+"kind": "icd",
+"q": "pressure ulcer rt buttock",
+"want": [
+"L89.31"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "non pressure ulcer buttock",
+"want": [
+"L98.41"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "鼻骨骨折",
+"want": [
+"S02.2XXA"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "脛骨幹骨折 右",
+"want": [
+"S82.201A"
+],
+"k": 1
+},
+{
+"kind": "icd",
+"q": "paronychia rt thumb",
+"want": [
+"L03.011"
+],
+"k": 1
+},
+{
+"kind": "nhi",
+"q": "cleft lip",
+"want": [
+"88043B"
+],
+"k": 3
+},
+{
+"kind": "nhi",
+"q": "狐臭",
+"want": [
+"62021C"
+],
+"k": 1
+}
+]
